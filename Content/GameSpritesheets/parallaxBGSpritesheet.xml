@@ -1,0 +1,41 @@
+<xml>
+  <instance name="ParallaxBGShadow_Sprite" index="0" posX="0" posY="0" anchorX="0" anchorY="0" width="1" height="72"/>
+  <instance name="LoadingScreenGear_Sprite" index="0" posX="2" posY="0" anchorX="36" anchorY="36" width="72" height="72"/>
+  <instance name="LineageScreenFrame_Sprite" index="0" posX="75" posY="0" anchorX="35" anchorY="40.5" width="70" height="81"/>
+  <instance name="LineageScreenPlaque1_Sprite" index="0" posX="146" posY="0" anchorX="61" anchorY="31.5" width="122" height="63"/>
+  <instance name="LineageScreenPlaque2_Sprite" index="0" posX="269" posY="0" anchorX="61" anchorY="36.5" width="122" height="73"/>
+  <instance name="LineageScreenPlaque1Long_Sprite" index="0" posX="392" posY="0" anchorX="72.5" anchorY="31.5" width="145" height="63"/>
+  <instance name="LineageScreenShadow_Sprite" index="0" posX="538" posY="0" anchorX="66" anchorY="36" width="132" height="72"/>
+  <instance name="LineageScreenPlaque3_Sprite" index="0" posX="671" posY="0" anchorX="61" anchorY="41.5" width="122" height="83"/>
+  <instance name="DiaryEntryTitleText_Sprite" index="0" posX="794" posY="0" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="LineageScreenBG_Sprite" index="0" posX="1137" posY="0" anchorX="0" anchorY="0" width="254" height="121"/>
+  <instance name="GamePausedTitleText_Sprite" index="0" posX="1392" posY="0" anchorX="176" anchorY="44" width="352" height="88"/>
+  <instance name="LineageTitleText_Sprite" index="0" posX="0" posY="82" anchorX="226" anchorY="44" width="452" height="88"/>
+  <instance name="ParallaxMoon_Sprite" index="0" posX="453" posY="84" anchorX="111.3" anchorY="111.3" width="222" height="222"/>
+  <instance name="FilmGrain_Sprite" index="0" posX="676" posY="122" anchorX="0" anchorY="0" width="660" height="360"/>
+  <instance name="FilmGrain_Sprite" index="1" posX="1337" posY="122" anchorX="0" anchorY="0" width="660" height="360"/>
+  <instance name="FilmGrain_Sprite" index="2" posX="0" posY="307" anchorX="0" anchorY="0" width="660" height="360"/>
+  <instance name="ParallaxDifferenceClouds_Sprite" index="0" posX="661" posY="483" anchorX="0" anchorY="0" width="510" height="510"/>
+  <instance name="LoadingScreenGate_Sprite" index="0" posX="1172" posY="483" anchorX="0" anchorY="0" width="660" height="395"/>
+  <animation frame="1" name="ParallaxMoon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ParallaxDifferenceClouds_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ParallaxBGShadow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LoadingScreenGate_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LoadingScreenGear_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="FilmGrain_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FilmGrain_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FilmGrain_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenFrame_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenPlaque1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenPlaque3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenPlaque2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenShadow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageScreenPlaque1Long_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite" index="0" duration="1" label=""/>
+  <container name="LoadingScreenGate_Character" child="LoadingScreenGate_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="LoadingScreenGate_Character" child="LoadingScreenGear_Sprite" childX="471" childY="274.9" childRotation="0"/>
+  <container name="LoadingScreenGate_Character" child="LoadingScreenGear_Sprite" childX="532" childY="234.9" childRotation="0"/>
+</xml>

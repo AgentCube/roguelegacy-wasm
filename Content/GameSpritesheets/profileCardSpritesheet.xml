@@ -1,0 +1,43 @@
+<xml>
+  <instance name="CardCoin_Sprite" index="0" posX="0" posY="0" anchorX="0" anchorY="0" width="20" height="24"/>
+  <instance name="Tombstone_Sprite" index="0" posX="21" posY="0" anchorX="12" anchorY="24" width="24" height="24"/>
+  <instance name="TraitsCloud2_Sprite" index="0" posX="46" posY="0" anchorX="0" anchorY="0" width="153" height="20"/>
+  <instance name="TraitsCloud1_Sprite" index="0" posX="200" posY="0" anchorX="0" anchorY="0" width="292" height="33"/>
+  <instance name="TraitsCloud3_Sprite" index="0" posX="493" posY="0" anchorX="0" anchorY="0" width="323" height="43"/>
+  <instance name="TraitsCloud5_Sprite" index="0" posX="817" posY="0" anchorX="0" anchorY="0" width="339" height="133"/>
+  <instance name="CardCastleBG_Sprite" index="0" posX="1157" posY="0" anchorX="0" anchorY="0" width="378" height="280"/>
+  <instance name="CardDungeonBG_Sprite" index="0" posX="1536" posY="0" anchorX="0" anchorY="0" width="378" height="280"/>
+  <instance name="CardTowerBG_Sprite" index="0" posX="0" posY="34" anchorX="0" anchorY="0" width="378" height="280"/>
+  <instance name="CardGardenBG_Sprite" index="0" posX="379" posY="44" anchorX="0" anchorY="0" width="378" height="280"/>
+  <instance name="CardFrontFG_Sprite" index="0" posX="758" posY="134" anchorX="0" anchorY="0" width="394" height="538"/>
+  <instance name="TraitsCloud4_Sprite" index="0" posX="1153" posY="281" anchorX="0" anchorY="0" width="830" height="264"/>
+  <instance name="CardFrontBorder_Sprite" index="0" posX="0" posY="325" anchorX="0" anchorY="0" width="402" height="546"/>
+  <instance name="CardBackFG_Sprite" index="0" posX="403" posY="673" anchorX="0" anchorY="0" width="395" height="569"/>
+  <instance name="CardBackBorder_Sprite" index="0" posX="799" posY="673" anchorX="0" anchorY="0" width="401" height="577"/>
+  <instance name="CardBG_Sprite" index="0" posX="1201" posY="546" anchorX="0" anchorY="0" width="466" height="655"/>
+  <instance name="TraitsBG_Sprite" index="0" posX="0" posY="1251" anchorX="0" anchorY="263.65" width="900" height="755"/>
+  <animation frame="1" name="CardBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardFrontFG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardFrontBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardCoin_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardBackFG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardBackBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardCastleBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardDungeonBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardTowerBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CardGardenBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TraitsBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TraitsCloud1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TraitsCloud2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TraitsCloud3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TraitsCloud4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TraitsCloud5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Tombstone_Sprite" index="0" duration="1" label=""/>
+  <container name="CardFront_Character" child="CardBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CardFront_Character" child="CardFrontFG_Sprite" childX="36.85" childY="40.34692153930664" childRotation="0"/>
+  <container name="CardFront_Character" child="CardFrontBorder_Sprite" childX="32.85" childY="36.34722671508789" childRotation="0"/>
+  <container name="CardFront_Character" child="CardCoin_Sprite" childX="310.4" childY="45.59652099609375" childRotation="0"/>
+  <container name="CardBack_Character" child="CardBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CardBack_Character" child="CardBackFG_Sprite" childX="36.85" childY="39.9969482421875" childRotation="0"/>
+  <container name="CardBack_Character" child="CardBackBorder_Sprite" childX="33.85" childY="36.34722671508789" childRotation="0"/>
+</xml>

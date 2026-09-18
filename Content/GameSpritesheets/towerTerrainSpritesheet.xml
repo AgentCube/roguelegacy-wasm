@@ -1,0 +1,173 @@
+<xml>
+  <instance name="TowerChair1Piece2_Sprite" index="0" posX="0" posY="0" anchorX="13" anchorY="1.75" width="26" height="3"/>
+  <instance name="TowerTorchPiece1_Sprite" index="1" posX="27" posY="0" anchorX="8.4" anchorY="3.8000000000000007" width="16" height="7"/>
+  <instance name="TowerTable2Piece2_Sprite" index="0" posX="44" posY="0" anchorX="11.5" anchorY="2" width="24" height="5"/>
+  <instance name="TowerCorner_Sprite" index="0" posX="69" posY="0" anchorX="0" anchorY="0" width="8" height="16"/>
+  <instance name="TowerTorchPiece3_Sprite" index="0" posX="78" posY="0" anchorX="8.25" anchorY="4.5" width="16" height="8"/>
+  <instance name="TowerChair2Piece2_Sprite" index="0" posX="95" posY="0" anchorX="6.25" anchorY="4.25" width="14" height="10"/>
+  <instance name="TowerBust2Piece1_Sprite" index="1" posX="110" posY="0" anchorX="6.75" anchorY="7.399999999999999" width="14" height="12"/>
+  <instance name="TowerTorchPiece2_Sprite" index="0" posX="125" posY="0" anchorX="5.25" anchorY="8.25" width="10" height="17"/>
+  <instance name="TowerTable2Piece3_Sprite" index="0" posX="136" posY="0" anchorX="12.25" anchorY="2.25" width="24" height="8"/>
+  <instance name="TowerBust2Piece2_Sprite" index="0" posX="161" posY="0" anchorX="4.5" anchorY="8.25" width="11" height="19"/>
+  <instance name="TowerChair1Piece1_Sprite" index="1" posX="173" posY="0" anchorX="7.149999999999999" anchorY="10.5" width="13" height="17"/>
+  <instance name="TowerCornerL_Sprite" index="0" posX="187" posY="0" anchorX="0" anchorY="0" width="15" height="15"/>
+  <instance name="TowerTable2Piece1_Sprite" index="1" posX="203" posY="0" anchorX="11.75" anchorY="5.25" width="22" height="11"/>
+  <instance name="TowerBust1Piece1_Sprite" index="1" posX="226" posY="0" anchorX="11" anchorY="8.350000000000001" width="18" height="16"/>
+  <instance name="TowerTable1Piece1_Sprite" index="1" posX="245" posY="0" anchorX="8.25" anchorY="8.85" width="18" height="19"/>
+  <instance name="TowerChair2Piece3_Sprite" index="0" posX="264" posY="0" anchorX="7.25" anchorY="13.5" width="14" height="26"/>
+  <instance name="TowerBust2Piece3_Sprite" index="0" posX="279" posY="0" anchorX="12.25" anchorY="8.75" width="21" height="18"/>
+  <instance name="TowerPedestal2Piece2_Sprite" index="0" posX="301" posY="0" anchorX="9.5" anchorY="9.5" width="19" height="21"/>
+  <instance name="TowerBust1Piece3_Sprite" index="0" posX="321" posY="0" anchorX="11" anchorY="11" width="22" height="19"/>
+  <instance name="TowerChair2Piece1_Sprite" index="1" posX="344" posY="0" anchorX="7.55" anchorY="12.75" width="19" height="23"/>
+  <instance name="TowerTorchPiece1_Sprite" index="0" posX="364" posY="0" anchorX="8.4" anchorY="28.8" width="16" height="32"/>
+  <instance name="TowerPedestal2Piece1_Sprite" index="1" posX="381" posY="0" anchorX="12.15" anchorY="15.2" width="24" height="22"/>
+  <instance name="TowerBust1Piece2_Sprite" index="0" posX="406" posY="0" anchorX="16.5" anchorY="14" width="30" height="20"/>
+  <instance name="TowerChair1Piece1_Sprite" index="0" posX="437" posY="0" anchorX="33.15" anchorY="10.25" width="39" height="17"/>
+  <instance name="TowerTable1Piece2_Sprite" index="0" posX="0" posY="8" anchorX="18.75" anchorY="3.25" width="36" height="19"/>
+  <instance name="TowerTable2Piece1_Sprite" index="0" posX="37" posY="17" anchorX="18.5" anchorY="13.4" width="38" height="19"/>
+  <instance name="TowerBust2Piece1_Sprite" index="0" posX="76" posY="17" anchorX="20" anchorY="20.4" width="30" height="25"/>
+  <instance name="TowerPedestal1_Sprite" index="0" posX="107" posY="18" anchorX="12" anchorY="33" width="24" height="32"/>
+  <instance name="TowerPedestal2Piece1_Sprite" index="0" posX="132" posY="18" anchorX="12.15" anchorY="25.2" width="24" height="32"/>
+  <instance name="TowerTable1Piece1_Sprite" index="0" posX="157" posY="20" anchorX="8.25" anchorY="8.85" width="48" height="19"/>
+  <instance name="TowerChair2Piece1_Sprite" index="0" posX="206" posY="17" anchorX="7.55" anchorY="28.65" width="28" height="39"/>
+  <instance name="TowerBust1Piece1_Sprite" index="0" posX="235" posY="27" anchorX="19.5" anchorY="37.35" width="30" height="45"/>
+  <instance name="TowerLever2_Sprite" index="0" posX="266" posY="27" anchorX="0" anchorY="4" width="43" height="43"/>
+  <instance name="TowerBorder2_Sprite" index="0" posX="310" posY="33" anchorX="0" anchorY="0" width="128" height="16"/>
+  <instance name="TowerHole5_Sprite" index="0" posX="439" posY="18" anchorX="67" anchorY="0" width="58" height="40"/>
+  <instance name="TowerLever1_Sprite" index="0" posX="0" posY="37" anchorX="0" anchorY="3.75" width="58" height="56"/>
+  <instance name="BrokenBookcase1_Sprite" index="0" posX="59" posY="51" anchorX="29.05" anchorY="76.25" width="58" height="77"/>
+  <instance name="BrokenBookcase2_Sprite" index="0" posX="118" posY="51" anchorX="29.05" anchorY="76.25" width="58" height="77"/>
+  <instance name="TowerHole8_Sprite" index="0" posX="177" posY="73" anchorX="48" anchorY="-12.95" width="91" height="50"/>
+  <instance name="TowerHole3_Sprite" index="0" posX="269" posY="71" anchorX="43" anchorY="77.95" width="82" height="60"/>
+  <instance name="TowerHole2_Sprite" index="0" posX="352" posY="50" anchorX="0" anchorY="0" width="60" height="102"/>
+  <instance name="TowerHole7_Sprite" index="0" posX="0" posY="129" anchorX="66" anchorY="41" width="115" height="58"/>
+  <instance name="TowerDoor_Sprite" index="0" posX="116" posY="129" anchorX="50" anchorY="96" width="100" height="96"/>
+  <instance name="TowerDoorOpen_Sprite" index="0" posX="217" posY="132" anchorX="50" anchorY="96" width="100" height="96"/>
+  <instance name="TowerHole4_Sprite" index="0" posX="318" posY="153" anchorX="0" anchorY="0" width="103" height="107"/>
+  <instance name="TowerHole9_Sprite" index="0" posX="0" posY="188" anchorX="33" anchorY="51.95" width="107" height="116"/>
+  <instance name="TowerHole6_Sprite" index="0" posX="108" posY="229" anchorX="23" anchorY="51" width="113" height="117"/>
+  <instance name="TowerHole1_Sprite" index="0" posX="222" posY="261" anchorX="67" anchorY="50" width="118" height="121"/>
+  <instance name="TowerFG2_Sprite" index="0" posX="341" posY="261" anchorX="0" anchorY="0" width="126" height="126"/>
+  <instance name="TowerBG2_Sprite" index="0" posX="0" posY="347" anchorX="0" anchorY="0" width="126" height="126"/>
+  <instance name="TowerBGFrame_Sprite" index="0" posX="127" posY="383" anchorX="0" anchorY="0" width="128" height="128"/>
+  <animation frame="1" name="TowerLever2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerLever1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerPedestal1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerBorder2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerFG2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerBG2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerCornerL_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerCorner_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerBGFrame_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerBust1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-17" y="-31" width="27" height="39" rotation="0" type="0"/>
+    <rectangle x="-18" y="-36" width="29" height="45" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="TowerBust1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-17" y="-31" width="27" height="39" rotation="0" type="0"/>
+    <rectangle x="-18" y="-36" width="29" height="45" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="TowerBust1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerBust1Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerBust2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-19" y="-19" width="29" height="25" rotation="0" type="0"/>
+    <rectangle x="-18" y="-20" width="29" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="TowerBust2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-19" y="-19" width="29" height="25" rotation="0" type="0"/>
+    <rectangle x="-18" y="-20" width="29" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="TowerBust2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerBust2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerTorchPiece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-28" width="16" height="32" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="TowerTorchPiece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-8" y="-28" width="16" height="32" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="TowerTorchPiece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerTorchPiece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerPedestal2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-11" y="-24" width="24" height="32" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="TowerPedestal2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-11" y="-24" width="24" height="32" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="TowerPedestal2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerHole1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole6_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole8_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerHole9_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BrokenBookcase1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-28" y="-76" width="58" height="78" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BrokenBookcase2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-28" y="-76" width="58" height="78" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="TowerChair1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-6" y="-10" width="13" height="17" rotation="0" type="2"/>
+    <rectangle x="-32" y="3" width="26" height="2" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="TowerChair1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-6" y="-10" width="13" height="17" rotation="0" type="2"/>
+    <rectangle x="-32" y="3" width="26" height="2" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="TowerChair1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerChair2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-28" width="14" height="39" rotation="0" type="2"/>
+    <rectangle x="6" y="-2" width="14" height="13" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="TowerChair2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-7" y="-28" width="14" height="39" rotation="0" type="2"/>
+    <rectangle x="6" y="-2" width="14" height="13" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="TowerChair2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerChair2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerTable1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-6" y="-9" width="47" height="20" rotation="0" type="2"/>
+    <rectangle x="-6" y="-9" width="46" height="20" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="TowerTable1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-6" y="-9" width="47" height="20" rotation="0" type="2"/>
+    <rectangle x="-6" y="-9" width="46" height="20" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="TowerTable1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerTable2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-17" y="-12" width="37" height="19" rotation="0" type="2"/>
+    <rectangle x="-18" y="-12" width="38" height="18" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="TowerTable2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-17" y="-12" width="37" height="19" rotation="0" type="2"/>
+    <rectangle x="-18" y="-12" width="38" height="18" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="TowerTable2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerTable2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="TowerDoor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TowerDoorOpen_Sprite" index="0" duration="1" label=""/>
+  <container name="TowerBust1_Character" child="TowerBust1Piece1_Sprite" childX="-0.5" childY="-9.1" childRotation="0"/>
+  <container name="TowerBust1_Character" child="TowerBust1Piece2_Sprite" childX="-3.5" childY="-21.95" childRotation="0"/>
+  <container name="TowerBust1_Character" child="TowerBust1Piece3_Sprite" childX="-5.25" childY="-34.45" childRotation="0"/>
+  <container name="TowerBust2_Character" child="TowerBust2Piece1_Sprite" childX="0.25" childY="-6.75" childRotation="0"/>
+  <container name="TowerBust2_Character" child="TowerBust2Piece3_Sprite" childX="-7.5" childY="-18.25" childRotation="0"/>
+  <container name="TowerBust2_Character" child="TowerBust2Piece2_Sprite" childX="3.75" childY="-18.65" childRotation="0"/>
+  <container name="TowerTorch_Character" child="TowerTorchPiece1_Sprite" childX="0.4" childY="-5.15" childRotation="0"/>
+  <container name="TowerTorch_Character" child="TowerTorchPiece2_Sprite" childX="0.3" childY="-17.75" childRotation="0"/>
+  <container name="TowerTorch_Character" child="TowerTorchPiece3_Sprite" childX="0.3" childY="-29.3" childRotation="0"/>
+  <container name="TowerPedestal2_Character" child="TowerPedestal2Piece1_Sprite" childX="0.25" childY="-8" childRotation="0"/>
+  <container name="TowerPedestal2_Character" child="TowerPedestal2Piece2_Sprite" childX="-1.5" childY="-23.5" childRotation="0"/>
+  <container name="TowerChair1_Character" child="TowerChair1Piece1_Sprite" childX="12.9" childY="-8.75" childRotation="0"/>
+  <container name="TowerChair1_Character" child="TowerChair1Piece2_Sprite" childX="-7" childY="-3.25" childRotation="0"/>
+  <container name="TowerChair2_Character" child="TowerChair2Piece1_Sprite" childX="-7.6" childY="-12.35" childRotation="0"/>
+  <container name="TowerChair2_Character" child="TowerChair2Piece2_Sprite" childX="5.65" childY="-9.6" childRotation="0"/>
+  <container name="TowerChair2_Character" child="TowerChair2Piece3_Sprite" childX="-7.6" childY="-26.85" childRotation="0"/>
+  <container name="TowerTable1_Character" child="TowerTable1Piece1_Sprite" childX="-15.75" childY="-12.25" childRotation="0"/>
+  <container name="TowerTable1_Character" child="TowerTable1Piece2_Sprite" childX="6.75" childY="-17.75" childRotation="0"/>
+  <container name="TowerTable2_Character" child="TowerTable2Piece1_Sprite" childX="-0.5" childY="-7.6" childRotation="0"/>
+  <container name="TowerTable2_Character" child="TowerTable2Piece2_Sprite" childX="-7.5" childY="-18.85" childRotation="0"/>
+  <container name="TowerTable2_Character" child="TowerTable2Piece3_Sprite" childX="6.25" childY="-18.6" childRotation="0"/>
+</xml>

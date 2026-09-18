@@ -1,0 +1,114 @@
+<xml>
+  <instance name="BlacksmithUI_NewIcon_Sprite_DE" index="0" posX="0" posY="0" anchorX="17" anchorY="6" width="34" height="13"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite_BR" index="0" posX="35" posY="0" anchorX="20" anchorY="6" width="40" height="13"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite_FR" index="0" posX="76" posY="0" anchorX="22" anchorY="6" width="44" height="13"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite_RU" index="0" posX="121" posY="0" anchorX="24" anchorY="6" width="48" height="12"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite_PO" index="0" posX="170" posY="0" anchorX="23" anchorY="6" width="47" height="13"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite_SP" index="0" posX="218" posY="0" anchorX="24" anchorY="6" width="48" height="13"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite_ZH" index="0" posX="267" posY="0" anchorX="20" anchorY="10" width="39" height="20"/>
+  <instance name="RuneFoundText_Sprite_RU" index="0" posX="307" posY="0" anchorX="112" anchorY="87" width="224" height="175"/>
+  <instance name="TeleporterTitleText_Sprite_BR" index="0" posX="532" posY="0" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="TeleporterTitleText_Sprite_DE" index="0" posX="1009" posY="0" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="TeleporterTitleText_Sprite_FR" index="0" posX="1486" posY="0" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="TeleporterTitleText_Sprite_PO" index="0" posX="0" posY="176" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="TeleporterTitleText_Sprite_RU" index="0" posX="477" posY="176" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="TeleporterTitleText_Sprite_SP" index="0" posX="954" posY="93" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="TeleporterTitleText_Sprite_ZH" index="0" posX="1431" posY="93" anchorX="238" anchorY="46" width="476" height="92"/>
+  <instance name="SmithyUnlockedText_Sprite_RU" index="0" posX="0" posY="269" anchorX="137" anchorY="85" width="275" height="170"/>
+  <instance name="EnchantressUnlockedText_Sprite_RU" index="0" posX="276" posY="269" anchorX="151" anchorY="82" width="302" height="164"/>
+  <instance name="SpellFoundText_Sprite_ZH" index="0" posX="579" posY="269" anchorX="221" anchorY="67" width="423" height="134"/>
+  <instance name="SmithyUnlockedText_Sprite_DE" index="0" posX="1003" posY="186" anchorX="225" anchorY="63" width="451" height="127"/>
+  <instance name="StatFoundText_Sprite_ZH" index="0" posX="1455" posY="186" anchorX="210" anchorY="68" width="421" height="137"/>
+  <instance name="RuneFoundText_Sprite_ZH" index="0" posX="0" posY="440" anchorX="219" anchorY="71" width="438" height="142"/>
+  <instance name="SpellFoundText_Sprite_BR" index="0" posX="439" posY="434" anchorX="226" anchorY="69" width="452" height="138"/>
+  <instance name="EnchantressUnlockedText_Sprite_ZH" index="0" posX="892" posY="404" anchorX="220" anchorY="71" width="441" height="142"/>
+  <instance name="ItemFoundText_Sprite_ZH" index="0" posX="1334" posY="324" anchorX="219" anchorY="71" width="438" height="143"/>
+  <instance name="SpellFoundText_Sprite_SP" index="0" posX="0" posY="583" anchorX="227" anchorY="70" width="454" height="140"/>
+  <instance name="ItemFoundText_Sprite_SP" index="0" posX="455" posY="573" anchorX="229" anchorY="70" width="458" height="140"/>
+  <instance name="SmithyUnlockedText_Sprite_ZH" index="0" posX="914" posY="547" anchorX="221" anchorY="72" width="443" height="145"/>
+  <instance name="ItemFoundText_Sprite_BR" index="0" posX="1358" posY="468" anchorX="229" anchorY="70" width="458" height="141"/>
+  <instance name="RuneFoundText_Sprite_BR" index="0" posX="0" posY="724" anchorX="221" anchorY="73" width="443" height="146"/>
+  <instance name="RuneFoundText_Sprite_SP" index="0" posX="444" posY="724" anchorX="221" anchorY="73" width="443" height="146"/>
+  <instance name="RuneFoundText_Sprite_PO" index="0" posX="888" posY="714" anchorX="185" anchorY="89" width="370" height="178"/>
+  <instance name="EnchantressUnlockedText_Sprite_BR" index="0" posX="1259" posY="693" anchorX="223" anchorY="75" width="445" height="149"/>
+  <instance name="EnchantressUnlockedText_Sprite_SP" index="0" posX="0" posY="871" anchorX="222" anchorY="75" width="445" height="149"/>
+  <instance name="StatFoundText_Sprite_BR" index="0" posX="446" posY="893" anchorX="228" anchorY="73" width="456" height="146"/>
+  <instance name="StatFoundText_Sprite_SP" index="0" posX="903" posY="893" anchorX="228" anchorY="73" width="456" height="146"/>
+  <instance name="SmithyUnlockedText_Sprite_FR" index="0" posX="1360" posY="843" anchorX="230" anchorY="73" width="461" height="146"/>
+  <instance name="ItemFoundText_Sprite_PO" index="0" posX="0" posY="1021" anchorX="222" anchorY="76" width="445" height="152"/>
+  <instance name="EnchantressUnlockedText_Sprite_FR" index="0" posX="446" posY="1040" anchorX="230" anchorY="79" width="461" height="148"/>
+  <instance name="SmithyUnlockedText_Sprite_BR" index="0" posX="908" posY="1040" anchorX="226" anchorY="76" width="452" height="153"/>
+  <instance name="SmithyUnlockedText_Sprite_SP" index="0" posX="1361" posY="990" anchorX="226" anchorY="76" width="452" height="153"/>
+  <instance name="RuneFoundText_Sprite_DE" index="0" posX="0" posY="1174" anchorX="221" anchorY="80" width="443" height="161"/>
+  <instance name="ItemFoundText_Sprite_DE" index="0" posX="444" posY="1189" anchorX="223" anchorY="80" width="446" height="161"/>
+  <instance name="ItemFoundText_Sprite_RU" index="0" posX="891" posY="1194" anchorX="182" anchorY="99" width="365" height="197"/>
+  <instance name="EnchantressUnlockedText_Sprite_PO" index="0" posX="1257" posY="1194" anchorX="229" anchorY="80" width="458" height="160"/>
+  <instance name="StatFoundText_Sprite_FR" index="0" posX="0" posY="1351" anchorX="225" anchorY="82" width="450" height="164"/>
+  <instance name="SpellFoundText_Sprite_RU" index="0" posX="451" posY="1351" anchorX="220" anchorY="87" width="439" height="175"/>
+  <instance name="SmithyUnlockedText_Sprite_PO" index="0" posX="891" posY="1392" anchorX="213" anchorY="91" width="426" height="182"/>
+  <instance name="StatFoundText_Sprite_DE" index="0" posX="1318" posY="1355" anchorX="227" anchorY="85" width="454" height="171"/>
+  <instance name="StatFoundText_Sprite_PO" index="0" posX="0" posY="1527" anchorX="226" anchorY="86" width="452" height="172"/>
+  <instance name="SpellFoundText_Sprite_PO" index="0" posX="453" posY="1575" anchorX="223" anchorY="88" width="443" height="177"/>
+  <instance name="RuneFoundText_Sprite_FR" index="0" posX="897" posY="1575" anchorX="230" anchorY="86" width="461" height="173"/>
+  <instance name="EnchantressUnlockedText_Sprite_DE" index="0" posX="1359" posY="1527" anchorX="230" anchorY="86" width="461" height="173"/>
+  <instance name="SpellFoundText_Sprite_FR" index="0" posX="0" posY="1700" anchorX="223" anchorY="90" width="446" height="179"/>
+  <instance name="ItemFoundText_Sprite_FR" index="0" posX="447" posY="1753" anchorX="225" anchorY="90" width="449" height="181"/>
+  <instance name="StatFoundText_Sprite_RU" index="0" posX="897" posY="1749" anchorX="203" anchorY="100" width="406" height="201"/>
+  <instance name="SpellFoundText_Sprite_DE" index="0" posX="1304" posY="1749" anchorX="230" anchorY="103" width="461" height="207"/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ItemFoundText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="RuneFoundText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="SmithyUnlockedText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellFoundText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="StatFoundText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUnlockedText_Sprite_DE" index="0" duration="1" label=""/>
+</xml>

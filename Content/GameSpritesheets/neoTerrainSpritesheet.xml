@@ -1,0 +1,12 @@
+<xml>
+  <instance name="NeoCornerL_Sprite" index="0" posX="0" posY="0" anchorX="0" anchorY="0" width="21" height="21"/>
+  <instance name="NeoCorner_Sprite" index="0" posX="22" posY="0" anchorX="0" anchorY="0" width="21" height="32"/>
+  <instance name="NeoBorder_Sprite" index="0" posX="44" posY="0" anchorX="0" anchorY="0" width="128" height="32"/>
+  <instance name="NeoBG_Sprite" index="0" posX="173" posY="0" anchorX="0" anchorY="0" width="128" height="128"/>
+  <instance name="NeoFG_Sprite" index="0" posX="302" posY="0" anchorX="0" anchorY="0" width="128" height="128"/>
+  <animation frame="1" name="NeoBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="NeoCornerL_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="NeoCorner_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="NeoBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="NeoFG_Sprite" index="0" duration="1" label=""/>
+</xml>

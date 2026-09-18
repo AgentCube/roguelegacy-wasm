@@ -1,0 +1,283 @@
+<xml>
+  <instance name="SpellTimeBombExplosion_Sprite" index="7" posX="0" posY="0" anchorX="-6710886.4" anchorY="-6710886.4" width="1" height="1"/>
+  <instance name="SpellDagger_Sprite" index="0" posX="2" posY="0" anchorX="10" anchorY="2" width="20" height="4"/>
+  <instance name="CrowFeather_Sprite" index="0" posX="23" posY="0" anchorX="4" anchorY="5" width="9" height="11"/>
+  <instance name="SpellPortal_Sprite" index="0" posX="33" posY="0" anchorX="5" anchorY="7" width="10" height="15"/>
+  <instance name="SpellDisplacer_Sprite" index="0" posX="44" posY="0" anchorX="10" anchorY="6" width="20" height="11"/>
+  <instance name="SpellDisplacer_Sprite" index="1" posX="65" posY="0" anchorX="10" anchorY="6" width="20" height="11"/>
+  <instance name="SpellDisplacer_Sprite" index="2" posX="86" posY="0" anchorX="10" anchorY="6" width="20" height="11"/>
+  <instance name="SpellDisplacer_Sprite" index="3" posX="107" posY="0" anchorX="9" anchorY="6" width="19" height="12"/>
+  <instance name="StartingRoomChain_Sprite" index="0" posX="127" posY="0" anchorX="0" anchorY="0" width="16" height="16"/>
+  <instance name="SpellPortal_Sprite" index="1" posX="144" posY="0" anchorX="6" anchorY="11" width="12" height="22"/>
+  <instance name="instance52" index="8" posX="157" posY="0" anchorX="8" anchorY="10" width="16" height="18"/>
+  <instance name="instance52" index="9" posX="174" posY="0" anchorX="8" anchorY="11" width="16" height="19"/>
+  <instance name="SpellDamageShield_Sprite" index="3" posX="191" posY="0" anchorX="6.75" anchorY="16" width="15" height="21"/>
+  <instance name="instance52" index="0" posX="207" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="1" posX="224" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="2" posX="241" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="3" posX="258" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="4" posX="275" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="5" posX="292" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="6" posX="309" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="instance52" index="7" posX="326" posY="0" anchorX="8" anchorY="12" width="16" height="20"/>
+  <instance name="SpellDamageShield_Sprite" index="0" posX="343" posY="0" anchorX="7" anchorY="17" width="15" height="22"/>
+  <instance name="SpellDamageShield_Sprite" index="1" posX="359" posY="0" anchorX="8" anchorY="16" width="17" height="21"/>
+  <instance name="SpellDamageShield_Sprite" index="2" posX="377" posY="0" anchorX="8" anchorY="16" width="17" height="21"/>
+  <instance name="SpellBounce_Sprite" index="0" posX="395" posY="0" anchorX="9.5" anchorY="9" width="19" height="19"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="0" posX="415" posY="0" anchorX="9" anchorY="12" width="18" height="21"/>
+  <instance name="SpellPortal_Sprite" index="2" posX="434" posY="0" anchorX="7" anchorY="14" width="14" height="28"/>
+  <instance name="SpellBoomerang_Sprite" index="0" posX="449" posY="0" anchorX="10.2" anchorY="10.2" width="20" height="20"/>
+  <instance name="SpellShout_Sprite" index="0" posX="470" posY="0" anchorX="10.2" anchorY="10.2" width="20" height="20"/>
+  <instance name="SpellPortal_Sprite" index="3" posX="491" posY="0" anchorX="7" anchorY="15" width="14" height="30"/>
+  <instance name="SpellPortal_Sprite" index="4" posX="506" posY="0" anchorX="7" anchorY="15" width="14" height="30"/>
+  <instance name="SpellAxe_Sprite" index="0" posX="521" posY="0" anchorX="11" anchorY="10" width="22" height="20"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="1" posX="544" posY="0" anchorX="10" anchorY="12" width="20" height="22"/>
+  <instance name="SpellPortal_Sprite" index="5" posX="565" posY="0" anchorX="7" anchorY="16" width="14" height="32"/>
+  <instance name="SpellTimeBomb_Sprite" index="1" posX="580" posY="0" anchorX="9" anchorY="16" width="18" height="25"/>
+  <instance name="SpellTimeBomb_Sprite" index="0" posX="599" posY="0" anchorX="9" anchorY="17" width="18" height="26"/>
+  <instance name="SpellTimeBomb_Sprite" index="2" posX="618" posY="0" anchorX="9" anchorY="17" width="18" height="26"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="2" posX="637" posY="0" anchorX="11" anchorY="12" width="22" height="23"/>
+  <instance name="SpellPortal_Sprite" index="6" posX="660" posY="0" anchorX="8" anchorY="16" width="16" height="32"/>
+  <instance name="SpellPortal_Sprite" index="7" posX="677" posY="0" anchorX="8" anchorY="16" width="16" height="32"/>
+  <instance name="SpellDualBlades_Sprite" index="0" posX="694" posY="0" anchorX="5.5" anchorY="11" width="27" height="19"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="3" posX="722" posY="0" anchorX="12" anchorY="13" width="24" height="25"/>
+  <instance name="DonationBox_Sprite" index="0" posX="747" posY="0" anchorX="10" anchorY="30" width="20" height="30"/>
+  <instance name="SpellNuke_Sprite" index="2" posX="768" posY="0" anchorX="12" anchorY="5" width="26" height="24"/>
+  <instance name="SpellNuke_Sprite" index="3" posX="795" posY="0" anchorX="11" anchorY="6" width="27" height="24"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="4" posX="823" posY="0" anchorX="12.899999999999999" anchorY="14.05" width="26" height="27"/>
+  <instance name="DamageShieldIcon_Sprite" index="0" posX="850" posY="0" anchorX="11" anchorY="16" width="22" height="32"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="5" posX="873" posY="0" anchorX="14" anchorY="15" width="28" height="29"/>
+  <instance name="NukeIcon_Sprite" index="0" posX="902" posY="0" anchorX="14.149999999999999" anchorY="19" width="26" height="32"/>
+  <instance name="DragonFireIcon_Sprite" index="0" posX="929" posY="0" anchorX="17" anchorY="12" width="32" height="26"/>
+  <instance name="DaggerIcon_Sprite" index="0" posX="962" posY="0" anchorX="19" anchorY="11.1" width="38" height="22"/>
+  <instance name="DisplacerIcon_Sprite" index="0" posX="0" posY="16" anchorX="0" anchorY="-6" width="40" height="22"/>
+  <instance name="SpellNuke_Sprite" index="0" posX="41" posY="16" anchorX="16" anchorY="19" width="28" height="32"/>
+  <instance name="SpellTimeBombExplosion_Sprite" index="6" posX="70" posY="12" anchorX="15" anchorY="16" width="30" height="31"/>
+  <instance name="SpellNuke_Sprite" index="1" posX="101" posY="17" anchorX="15" anchorY="20" width="28" height="34"/>
+  <instance name="TranslocatorIcon_Sprite" index="0" posX="130" posY="23" anchorX="14" anchorY="17" width="28" height="34"/>
+  <instance name="DualBladesIcon_Sprite" index="0" posX="159" posY="22" anchorX="19" anchorY="13.3" width="38" height="26"/>
+  <instance name="TimeBombIcon_Sprite" index="0" posX="198" posY="22" anchorX="13.3" anchorY="19" width="26" height="38"/>
+  <instance name="RapidDaggerIcon_Sprite" index="0" posX="225" posY="21" anchorX="19" anchorY="13" width="38" height="26"/>
+  <instance name="TimeStopIcon_Sprite" index="0" posX="264" posY="21" anchorX="15.2" anchorY="19" width="30" height="38"/>
+  <instance name="AxeIcon_Sprite" index="0" posX="295" posY="21" anchorX="19" anchorY="17" width="38" height="34"/>
+  <instance name="BoomerangIcon_Sprite" index="0" posX="334" posY="23" anchorX="18" anchorY="18" width="36" height="36"/>
+  <instance name="CloseIcon_Sprite" index="0" posX="371" posY="22" anchorX="19.3" anchorY="18.2" width="37" height="36"/>
+  <instance name="BounceIcon_Sprite" index="0" posX="409" posY="29" anchorX="19" anchorY="19" width="38" height="38"/>
+  <instance name="StartRoomGrass2_Sprite" index="0" posX="448" posY="29" anchorX="27.5" anchorY="44" width="39" height="44"/>
+  <instance name="StartRoomGrass2Dark_Sprite" index="0" posX="488" posY="31" anchorX="12.5" anchorY="44" width="39" height="44"/>
+  <instance name="StartRoomGrass3_Sprite" index="0" posX="528" posY="33" anchorX="22" anchorY="41" width="44" height="41"/>
+  <instance name="StartRoomGrass3Dark_Sprite" index="0" posX="573" posY="33" anchorX="22" anchorY="41" width="44" height="41"/>
+  <instance name="StartRoomGrass1_Sprite" index="0" posX="618" posY="33" anchorX="19" anchorY="46" width="42" height="46"/>
+  <instance name="StartRoomGrass1Dark_Sprite" index="0" posX="661" posY="33" anchorX="20" anchorY="46" width="42" height="46"/>
+  <instance name="CreditsGrass_Sprite" index="0" posX="704" posY="26" anchorX="19" anchorY="46" width="42" height="46"/>
+  <instance name="SpellClose_Sprite" index="0" posX="747" posY="31" anchorX="11" anchorY="52.05" width="22" height="104"/>
+  <instance name="StartingRoomBridge_Sprite" index="0" posX="770" posY="33" anchorX="0" anchorY="0" width="193" height="14"/>
+  <instance name="StartingRoomFloorEnd_Sprite" index="0" posX="0" posY="49" anchorX="0" anchorY="0" width="72" height="45"/>
+  <instance name="ArchitectGear_Sprite" index="18" posX="73" posY="58" anchorX="45" anchorY="41" width="90" height="41"/>
+  <instance name="ArchitectGear_Sprite" index="19" posX="164" posY="61" anchorX="45" anchorY="41" width="90" height="41"/>
+  <instance name="ArchitectGear_Sprite" index="17" posX="255" posY="60" anchorX="45" anchorY="42" width="90" height="42"/>
+  <instance name="ArchitectGear_Sprite" index="16" posX="346" posY="68" anchorX="45" anchorY="49" width="90" height="49"/>
+  <instance name="ArchitectGear_Sprite" index="15" posX="437" posY="76" anchorX="45" anchorY="53" width="90" height="53"/>
+  <instance name="ManorSign_Sprite" index="0" posX="528" posY="75" anchorX="44" anchorY="60" width="82" height="60"/>
+  <instance name="ArchitectGear_Sprite" index="14" posX="611" posY="80" anchorX="45" anchorY="60" width="90" height="60"/>
+  <instance name="StartingRoomFloor_Sprite" index="0" posX="702" posY="136" anchorX="0" anchorY="0" width="128" height="45"/>
+  <instance name="ArchitectGear_Sprite" index="13" posX="831" posY="48" anchorX="45" anchorY="70" width="90" height="70"/>
+  <instance name="ArchitectGear_Sprite" index="12" posX="922" posY="48" anchorX="45" anchorY="73" width="90" height="73"/>
+  <instance name="ArchitectGear_Sprite" index="11" posX="0" posY="100" anchorX="45" anchorY="76" width="90" height="76"/>
+  <instance name="StartingRoomWater_Sprite" index="0" posX="91" posY="103" anchorX="0" anchorY="0" width="193" height="37"/>
+  <instance name="StartingRoomWater_Sprite" index="1" posX="285" posY="130" anchorX="0" anchorY="0" width="193" height="37"/>
+  <instance name="StartingRoomWater_Sprite" index="2" posX="479" posY="141" anchorX="0" anchorY="0" width="193" height="37"/>
+  <instance name="StartingRoomWater_Sprite" index="3" posX="673" posY="182" anchorX="0" anchorY="0" width="193" height="37"/>
+  <instance name="StartingRoomWater_Sprite" index="4" posX="0" posY="177" anchorX="0" anchorY="0" width="193" height="37"/>
+  <instance name="StartingRoomWater_Sprite" index="5" posX="194" posY="168" anchorX="0" anchorY="0" width="193" height="37"/>
+  <instance name="ArchitectGear_Sprite" index="10" posX="388" posY="168" anchorX="45" anchorY="81" width="90" height="81"/>
+  <instance name="ArchitectGear_Sprite" index="9" posX="479" posY="179" anchorX="45" anchorY="84" width="90" height="84"/>
+  <instance name="ArchitectGear_Sprite" index="8" posX="570" posY="179" anchorX="45" anchorY="90" width="90" height="90"/>
+  <instance name="ArchitectGear_Sprite" index="7" posX="661" posY="220" anchorX="45" anchorY="93" width="90" height="93"/>
+  <instance name="ArchitectGear_Sprite" index="6" posX="752" posY="220" anchorX="45" anchorY="96" width="90" height="96"/>
+  <instance name="ArchitectGear_Sprite" index="5" posX="843" posY="220" anchorX="45" anchorY="99" width="90" height="99"/>
+  <instance name="ArchitectGear_Sprite" index="4" posX="0" posY="215" anchorX="45" anchorY="101" width="90" height="101"/>
+  <instance name="ArchitectGear_Sprite" index="3" posX="91" posY="215" anchorX="45" anchorY="104" width="90" height="104"/>
+  <instance name="ArchitectGear_Sprite" index="2" posX="182" posY="215" anchorX="45" anchorY="107" width="90" height="107"/>
+  <instance name="ArchitectGear_Sprite" index="1" posX="273" posY="206" anchorX="45" anchorY="109" width="90" height="109"/>
+  <instance name="ArchitectGear_Sprite" index="0" posX="364" posY="250" anchorX="45" anchorY="110" width="90" height="110"/>
+  <instance name="StartRoomBlacksmithBoard_Sprite" index="0" posX="455" posY="270" anchorX="0" anchorY="0" width="148" height="116"/>
+  <instance name="StartingRoomRockTop_Sprite" index="0" posX="604" posY="314" anchorX="0" anchorY="0" width="120" height="164"/>
+  <instance name="StartingRoomRockBottom_Sprite" index="0" posX="725" posY="320" anchorX="0" anchorY="0" width="120" height="164"/>
+  <instance name="StartingRoomRockSlope_Sprite" index="0" posX="846" posY="320" anchorX="0" anchorY="0" width="148" height="164"/>
+  <instance name="StartRoomTree3_Sprite" index="0" posX="0" posY="320" anchorX="60.25" anchorY="210" width="130" height="210"/>
+  <instance name="StartRoomTree3Dark_Sprite" index="0" posX="131" posY="323" anchorX="69.2" anchorY="210" width="130" height="210"/>
+  <instance name="StartRoomGypsyTent_Sprite" index="0" posX="262" posY="387" anchorX="-3" anchorY="0" width="218" height="136"/>
+  <instance name="StartRoomTree1_Sprite" index="0" posX="481" posY="479" anchorX="74.75" anchorY="219.2" width="139" height="220"/>
+  <instance name="StartRoomTree2_Sprite" index="0" posX="621" posY="485" anchorX="94.25" anchorY="240" width="146" height="240"/>
+  <instance name="StartRoomTree1Dark_Sprite" index="0" posX="768" posY="485" anchorX="94.4" anchorY="240" width="146" height="240"/>
+  <instance name="CreditsTree_Sprite" index="0" posX="0" posY="534" anchorX="81.5" anchorY="239.05" width="151" height="240"/>
+  <instance name="StartRoomTree2Dark_Sprite" index="0" posX="152" posY="534" anchorX="68" anchorY="240" width="152" height="240"/>
+  <instance name="CarnivalTent_Sprite" index="0" posX="305" posY="700" anchorX="109" anchorY="235" width="218" height="235"/>
+  <animation frame="1" name="StartRoomGrass1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomGrass2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomGrass3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomTree1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ManorSign_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomTree2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomTree3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomTree3Dark_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomTree2Dark_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomTree1Dark_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomGrass1Dark_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomGrass2Dark_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomGrass3Dark_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="StartingRoomBridge_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomChain_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomFloor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomFloorEnd_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomRockTop_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomRockBottom_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomRockSlope_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomBlacksmithBoard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomGypsyTent_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalTent_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CreditsTree_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CreditsGrass_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartingRoomWater_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="StartingRoomWater_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="StartingRoomWater_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="StartingRoomWater_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="StartingRoomWater_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="StartingRoomWater_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="SpellPortal_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="SpellPortal_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="SpellPortal_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="SpellPortal_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="SpellPortal_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="SpellPortal_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="SpellPortal_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="SpellPortal_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="SpellAxe_Sprite" index="0" duration="1" label="">
+    <rectangle x="-9" y="-10" width="19" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="SpellBoomerang_Sprite" index="0" duration="1" label="">
+    <rectangle x="-10" y="-10" width="20" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="SpellBounce_Sprite" index="0" duration="1" label="">
+    <rectangle x="-6" y="-7" width="13" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="SpellClose_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-52" width="16" height="105" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="SpellDagger_Sprite" index="0" duration="1" label="">
+    <rectangle x="-10" y="-2" width="21" height="5" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="SpellDamageShield_Sprite" index="0" duration="1" label="">
+    <rectangle x="-6" y="-7" width="15" height="11" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="SpellDamageShield_Sprite" index="1" duration="1" label="">
+    <rectangle x="-6" y="-7" width="15" height="11" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="SpellDamageShield_Sprite" index="2" duration="1" label="">
+    <rectangle x="-6" y="-7" width="15" height="11" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="SpellDamageShield_Sprite" index="3" duration="1" label="">
+    <rectangle x="-6" y="-7" width="15" height="11" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="SpellDualBlades_Sprite" index="0" duration="1" label="">
+    <rectangle x="-4" y="-10" width="26" height="8" rotation="0" type="1"/>
+    <rectangle x="-5" y="-11" width="10" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="instance52" index="0" duration="1" label=""/>
+  <animation frame="2" name="instance52" index="1" duration="1" label=""/>
+  <animation frame="3" name="instance52" index="2" duration="1" label=""/>
+  <animation frame="4" name="instance52" index="3" duration="1" label=""/>
+  <animation frame="5" name="instance52" index="4" duration="1" label=""/>
+  <animation frame="6" name="instance52" index="5" duration="1" label=""/>
+  <animation frame="7" name="instance52" index="6" duration="1" label=""/>
+  <animation frame="8" name="instance52" index="7" duration="1" label=""/>
+  <animation frame="9" name="instance52" index="8" duration="1" label=""/>
+  <animation frame="10" name="instance52" index="9" duration="1" label=""/>
+  <animation frame="1" name="SpellDisplacer_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-6" width="19" height="12" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="SpellDisplacer_Sprite" index="1" duration="1" label="">
+    <rectangle x="-8" y="-6" width="19" height="12" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="SpellDisplacer_Sprite" index="2" duration="1" label="">
+    <rectangle x="-8" y="-6" width="19" height="12" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="SpellDisplacer_Sprite" index="3" duration="1" label="">
+    <rectangle x="-8" y="-6" width="19" height="12" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="SpellTimeBomb_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-8" width="18" height="17" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="SpellTimeBomb_Sprite" index="1" duration="1" label="">
+    <rectangle x="-8" y="-8" width="18" height="17" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="SpellTimeBomb_Sprite" index="2" duration="1" label="">
+    <rectangle x="-8" y="-8" width="18" height="17" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="SpellTimeBombExplosion_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="SpellTimeBombExplosion_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="SpellTimeBombExplosion_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="SpellTimeBombExplosion_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="SpellTimeBombExplosion_Sprite" index="4" duration="1" label="">
+    <rectangle x="-19" y="-20" width="39" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="SpellTimeBombExplosion_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="SpellTimeBombExplosion_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="SpellTimeBombExplosion_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="AxeIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BoomerangIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BounceIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CloseIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DaggerIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DamageShieldIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DisplacerIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DualBladesIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TimeBombIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TimeStopIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellNuke_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-13" width="27" height="27" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="SpellNuke_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-13" width="27" height="27" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="SpellNuke_Sprite" index="2" duration="1" label="">
+    <rectangle x="-14" y="-13" width="27" height="27" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="SpellNuke_Sprite" index="3" duration="1" label="">
+    <rectangle x="-14" y="-13" width="27" height="27" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="CrowFeather_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SpellShout_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-9" width="19" height="20" rotation="0" type="2"/>
+    <rectangle x="-10" y="-10" width="20" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="NukeIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DragonFireIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectGear_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ArchitectGear_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ArchitectGear_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ArchitectGear_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ArchitectGear_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="ArchitectGear_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="ArchitectGear_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="ArchitectGear_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="ArchitectGear_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="ArchitectGear_Sprite" index="9" duration="1" label=""/>
+  <animation frame="11" name="ArchitectGear_Sprite" index="10" duration="1" label=""/>
+  <animation frame="12" name="ArchitectGear_Sprite" index="11" duration="1" label=""/>
+  <animation frame="13" name="ArchitectGear_Sprite" index="12" duration="1" label=""/>
+  <animation frame="14" name="ArchitectGear_Sprite" index="13" duration="1" label=""/>
+  <animation frame="15" name="ArchitectGear_Sprite" index="14" duration="1" label=""/>
+  <animation frame="16" name="ArchitectGear_Sprite" index="15" duration="1" label=""/>
+  <animation frame="17" name="ArchitectGear_Sprite" index="16" duration="1" label=""/>
+  <animation frame="18" name="ArchitectGear_Sprite" index="17" duration="1" label=""/>
+  <animation frame="19" name="ArchitectGear_Sprite" index="18" duration="1" label=""/>
+  <animation frame="20" name="ArchitectGear_Sprite" index="19" duration="1" label=""/>
+  <animation frame="1" name="TranslocatorIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="RapidDaggerIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DonationBox_Sprite" index="0" duration="1" label=""/>
+  <container name="CreditsTree_Character" child="CreditsTree_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CreditsGrass_Character" child="CreditsGrass_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="DonationBox_Container" child="DonationBox_Sprite" childX="0" childY="0" childRotation="0"/>
+</xml>

@@ -1,0 +1,6 @@
+<xml>
+  <instance name="Blitworks_IconOnly" index="0" posX="0" posY="0" anchorX="159" anchorY="140" width="318" height="281"/>
+  <instance name="Blitworks_FullLogo" index="0" posX="0" posY="282" anchorX="407" anchorY="221" width="814" height="442"/>
+  <animation frame="1" name="Blitworks_IconOnly" index="0" duration="1" label=""/>
+  <animation frame="1" name="Blitworks_FullLogo" index="0" duration="1" label=""/>
+</xml>

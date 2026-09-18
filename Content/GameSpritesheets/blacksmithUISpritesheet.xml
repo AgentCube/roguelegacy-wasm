@@ -1,0 +1,621 @@
+<xml>
+  <instance name="BlacksmithUI_Sword1Stripe_Sprite" index="0" posX="0" posY="0" anchorX="-13421772" anchorY="-13421773.1" width="1" height="1"/>
+  <instance name="CarnivalBalloonLine1_Sprite" index="0" posX="2" posY="0" anchorX="1" anchorY="24.5" width="1" height="24"/>
+  <instance name="CarnivalBalloonLine_Sprite" index="0" posX="4" posY="0" anchorX="1" anchorY="24.5" width="1" height="24"/>
+  <instance name="CarnivalBalloonLine2_Sprite" index="0" posX="6" posY="0" anchorX="0.65" anchorY="72.9" width="1" height="72"/>
+  <instance name="Target2Piece5_Sprite" index="0" posX="8" posY="0" anchorX="4.15" anchorY="5.65" width="10" height="10"/>
+  <instance name="Target1Piece4_Sprite" index="0" posX="19" posY="0" anchorX="3" anchorY="7.5" width="10" height="11"/>
+  <instance name="Target2Piece3_Sprite" index="0" posX="30" posY="0" anchorX="6.5" anchorY="6.399999999999999" width="11" height="10"/>
+  <instance name="Target1Piece2_Sprite" index="0" posX="42" posY="0" anchorX="5.5" anchorY="3.5" width="11" height="12"/>
+  <instance name="MedallionPiece4_Sprite" index="0" posX="54" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="MedallionPiece3_Sprite" index="0" posX="67" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="Target2Piece4_Sprite" index="0" posX="80" posY="0" anchorX="5" anchorY="9.15" width="11" height="15"/>
+  <instance name="CarnivalBalloon1_Sprite" index="0" posX="92" posY="0" anchorX="6" anchorY="14" width="12" height="14"/>
+  <instance name="EnchantressOrb_Sprite" index="0" posX="105" posY="0" anchorX="-15" anchorY="-19" width="13" height="13"/>
+  <instance name="EnchantressOrb_Sprite" index="1" posX="119" posY="0" anchorX="-15" anchorY="-17" width="13" height="13"/>
+  <instance name="EnchantressOrb_Sprite" index="2" posX="133" posY="0" anchorX="-15" anchorY="-16" width="13" height="13"/>
+  <instance name="EnchantressOrb_Sprite" index="3" posX="147" posY="0" anchorX="-15" anchorY="-17" width="13" height="13"/>
+  <instance name="EnchantressOrb_Sprite" index="4" posX="161" posY="0" anchorX="-15" anchorY="-19" width="13" height="13"/>
+  <instance name="EnchantressOrb_Sprite" index="5" posX="175" posY="0" anchorX="-15" anchorY="-20" width="13" height="13"/>
+  <instance name="MedallionPiece2_Sprite" index="0" posX="189" posY="0" anchorX="7" anchorY="7" width="13" height="13"/>
+  <instance name="MedallionPiece1_Sprite" index="0" posX="203" posY="0" anchorX="7" anchorY="7" width="13" height="13"/>
+  <instance name="Target1Piece1_Sprite" index="1" posX="217" posY="0" anchorX="7.300000000000001" anchorY="6.399999999999999" width="14" height="13"/>
+  <instance name="EnchantressHead_Sprite" index="0" posX="232" posY="0" anchorX="-10" anchorY="-5" width="16" height="13"/>
+  <instance name="EnchantressHead_Sprite" index="1" posX="249" posY="0" anchorX="-10" anchorY="-5" width="16" height="13"/>
+  <instance name="Target2Piece2_Sprite" index="0" posX="266" posY="0" anchorX="6.4" anchorY="6.35" width="15" height="14"/>
+  <instance name="ArchitectGearPull_Sprite" index="0" posX="282" posY="0" anchorX="0" anchorY="-1" width="20" height="11"/>
+  <instance name="ArchitectGearPull_Sprite" index="1" posX="303" posY="0" anchorX="0" anchorY="-1" width="20" height="11"/>
+  <instance name="CarnivalBalloon2_Sprite" index="0" posX="324" posY="0" anchorX="7" anchorY="18" width="14" height="18"/>
+  <instance name="Target2Piece1_Sprite" index="1" posX="339" posY="0" anchorX="12.4" anchorY="5" width="23" height="11"/>
+  <instance name="ElfBody_Sprite" index="0" posX="363" posY="0" anchorX="18" anchorY="-33" width="14" height="21"/>
+  <instance name="EnchantressArms_Sprite" index="0" posX="378" posY="0" anchorX="-7" anchorY="-16" width="23" height="13"/>
+  <instance name="BlacksmithUI_EquippedIcon_Sprite" index="0" posX="402" posY="0" anchorX="0" anchorY="0" width="17" height="18"/>
+  <instance name="EnchantressHair_Sprite" index="0" posX="420" posY="0" anchorX="-7" anchorY="-6" width="21" height="15"/>
+  <instance name="CarnivalBalloon3_Sprite" index="0" posX="442" posY="0" anchorX="8" anchorY="20" width="16" height="20"/>
+  <instance name="Target1Piece3_Sprite" index="0" posX="459" posY="0" anchorX="7.4" anchorY="10.5" width="15" height="24"/>
+  <instance name="BlacksmithUI_Limbs1Arms_Sprite" index="0" posX="475" posY="0" anchorX="19" anchorY="10" width="14" height="26"/>
+  <instance name="BlacksmithUI_Limbs2Arms_Sprite" index="0" posX="490" posY="0" anchorX="19" anchorY="10" width="14" height="26"/>
+  <instance name="BlacksmithUI_Sword1Hilt_Sprite" index="0" posX="505" posY="0" anchorX="-3" anchorY="-3" width="20" height="20"/>
+  <instance name="BlacksmithUI_Sword2Hilt_Sprite" index="0" posX="526" posY="0" anchorX="-3" anchorY="-3" width="20" height="20"/>
+  <instance name="BlacksmithUI_Sword3Hilt_Sprite" index="0" posX="547" posY="0" anchorX="-3" anchorY="-3" width="20" height="20"/>
+  <instance name="BlacksmithHead_Sprite" index="0" posX="568" posY="0" anchorX="-29" anchorY="-5" width="21" height="20"/>
+  <instance name="BlacksmithHead_Sprite" index="1" posX="590" posY="0" anchorX="-29" anchorY="-5" width="21" height="20"/>
+  <instance name="BlacksmithHeadTrim_Sprite" index="0" posX="612" posY="0" anchorX="-29" anchorY="-5" width="21" height="20"/>
+  <instance name="BlacksmithUI_Limbs1Legs_Sprite" index="0" posX="634" posY="0" anchorX="1" anchorY="10" width="18" height="24"/>
+  <instance name="BlacksmithUI_NewIcon_Sprite" index="0" posX="653" posY="0" anchorX="17" anchorY="6.5" width="34" height="13"/>
+  <instance name="BlacksmithUI_Limbs3Arms_Sprite" index="0" posX="688" posY="0" anchorX="19" anchorY="16" width="14" height="32"/>
+  <instance name="BlacksmithUI_Limbs4Arms_Sprite" index="0" posX="703" posY="0" anchorX="19" anchorY="16" width="14" height="32"/>
+  <instance name="BlacksmithUI_Limbs2Legs_Sprite" index="0" posX="718" posY="0" anchorX="1" anchorY="12" width="18" height="26"/>
+  <instance name="MedallionPiece5_Sprite" index="0" posX="737" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="ChallengeIcon_Skull_Sprite" index="0" posX="760" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="ChallengeIcon_Eyeball_Sprite" index="0" posX="783" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="ChallengeIcon_Fireball_Sprite" index="0" posX="806" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="ChallengeIcon_Blob_Sprite" index="0" posX="829" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="ChallengeIcon_LastBoss_Sprite" index="0" posX="852" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="BlacksmithUI_Limbs5Arms_Sprite" index="0" posX="875" posY="0" anchorX="19" anchorY="18" width="14" height="36"/>
+  <instance name="ArchitectLeverIdle_Sprite" index="0" posX="890" posY="0" anchorX="0" anchorY="0" width="23" height="22"/>
+  <instance name="BlacksmithUI_Limbs3Legs_Sprite" index="0" posX="914" posY="0" anchorX="1" anchorY="12" width="20" height="26"/>
+  <instance name="ElfHead_Sprite" index="0" posX="935" posY="0" anchorX="24" anchorY="-2" width="24" height="23"/>
+  <instance name="BlacksmithUI_Limbs4Legs_Sprite" index="0" posX="960" posY="0" anchorX="1" anchorY="14" width="20" height="28"/>
+  <instance name="BlacksmithUI_Helm1Hair_Sprite" index="0" posX="981" posY="0" anchorX="5" anchorY="23" width="20" height="28"/>
+  <instance name="ElfHead_Sprite" index="1" posX="0" posY="73" anchorX="24" anchorY="-2" width="24" height="24"/>
+  <instance name="BlacksmithUI_Limbs5Legs_Sprite" index="0" posX="25" posY="13" anchorX="1" anchorY="16" width="20" height="30"/>
+  <instance name="BlacksmithArm_Sprite" index="4" posX="46" posY="13" anchorX="-1" anchorY="-7" width="31" height="20"/>
+  <instance name="ArchitectHeadIdle_Sprite" index="0" posX="78" posY="16" anchorX="-13" anchorY="-1" width="26" height="24"/>
+  <instance name="Target1Piece1_Sprite" index="0" posX="105" posY="14" anchorX="13.3" anchorY="19.4" width="24" height="26"/>
+  <instance name="EnchantressBody_Sprite" index="0" posX="130" posY="14" anchorX="-2" anchorY="-16" width="29" height="22"/>
+  <instance name="EnchantressBody_Sprite" index="2" posX="160" posY="14" anchorX="-2" anchorY="-16" width="29" height="22"/>
+  <instance name="EnchantressBody_Sprite" index="3" posX="190" posY="14" anchorX="-2" anchorY="-16" width="29" height="22"/>
+  <instance name="EnchantressBody_Sprite" index="4" posX="220" posY="14" anchorX="-2" anchorY="-16" width="29" height="22"/>
+  <instance name="EnchantressBody_Sprite" index="6" posX="250" posY="15" anchorX="-2" anchorY="-16" width="29" height="22"/>
+  <instance name="EnchantressBody_Sprite" index="7" posX="280" posY="15" anchorX="-2" anchorY="-16" width="29" height="22"/>
+  <instance name="ArchitectHeadIdle_Sprite" index="1" posX="310" posY="19" anchorX="-13" anchorY="-1" width="26" height="25"/>
+  <instance name="BlacksmithUI_Helm2Hair_Sprite" index="0" posX="337" posY="19" anchorX="3" anchorY="23" width="22" height="30"/>
+  <instance name="EnchantressBody_Sprite" index="1" posX="360" posY="22" anchorX="-2" anchorY="-16" width="30" height="22"/>
+  <instance name="EnchantressBody_Sprite" index="5" posX="391" posY="19" anchorX="-2" anchorY="-16" width="30" height="22"/>
+  <instance name="BlacksmithArm_Sprite" index="7" posX="422" posY="21" anchorX="-20" anchorY="-17" width="29" height="23"/>
+  <instance name="BlacksmithArm_Sprite" index="1" posX="452" posY="27" anchorX="-19" anchorY="-8" width="27" height="25"/>
+  <instance name="BlacksmithUI_Sword4Hilt_Sprite" index="0" posX="480" posY="27" anchorX="1" anchorY="1" width="26" height="26"/>
+  <instance name="BlacksmithUI_Sword4Stripe_Sprite" index="0" posX="507" posY="21" anchorX="13" anchorY="13" width="26" height="26"/>
+  <instance name="BlacksmithUI_Sword5Hilt_Sprite" index="0" posX="534" posY="21" anchorX="1" anchorY="1" width="26" height="26"/>
+  <instance name="BlacksmithUI_Sword5Stripe_Sprite" index="0" posX="561" posY="21" anchorX="13" anchorY="13" width="26" height="26"/>
+  <instance name="Target2Piece1_Sprite" index="0" posX="588" posY="21" anchorX="15.4" anchorY="20" width="26" height="26"/>
+  <instance name="BlacksmithArm_Sprite" index="0" posX="615" posY="25" anchorX="-20" anchorY="-17" width="29" height="24"/>
+  <instance name="BlacksmithArm_Sprite" index="6" posX="645" posY="25" anchorX="-20" anchorY="-18" width="29" height="24"/>
+  <instance name="BlacksmithArm_Sprite" index="8" posX="675" posY="33" anchorX="-20" anchorY="-17" width="29" height="24"/>
+  <instance name="BlacksmithArm_Sprite" index="3" posX="705" posY="33" anchorX="-1" anchorY="-4" width="31" height="23"/>
+  <instance name="BlacksmithUI_Helm3Hair_Sprite" index="0" posX="737" posY="23" anchorX="3" anchorY="23" width="24" height="30"/>
+  <instance name="BlacksmithArm_Sprite" index="2" posX="762" posY="23" anchorX="-3" anchorY="0" width="29" height="27"/>
+  <instance name="BlacksmithArm_Sprite" index="5" posX="792" posY="23" anchorX="-3" anchorY="0" width="29" height="27"/>
+  <instance name="BlacksmithUI_Sword2Stripe_Sprite" index="0" posX="822" posY="23" anchorX="13" anchorY="13" width="28" height="28"/>
+  <instance name="BlacksmithUI_Sword3Stripe_Sprite" index="0" posX="851" posY="37" anchorX="13" anchorY="13" width="28" height="28"/>
+  <instance name="BlacksmithUI_Chest1Shoulders_Sprite" index="0" posX="880" posY="37" anchorX="24" anchorY="19" width="46" height="18"/>
+  <instance name="ElfCape_Sprite" index="0" posX="927" posY="27" anchorX="26" anchorY="-20" width="25" height="34"/>
+  <instance name="ElfCape_Sprite" index="1" posX="953" posY="29" anchorX="26" anchorY="-20" width="25" height="34"/>
+  <instance name="ElfCape_Sprite" index="5" posX="979" posY="29" anchorX="26" anchorY="-20" width="25" height="34"/>
+  <instance name="ElfCape_Sprite" index="2" posX="0" posY="98" anchorX="26" anchorY="-19" width="25" height="35"/>
+  <instance name="ElfCape_Sprite" index="3" posX="26" posY="44" anchorX="26" anchorY="-19" width="25" height="35"/>
+  <instance name="ElfCape_Sprite" index="4" posX="52" posY="34" anchorX="26" anchorY="-19" width="25" height="35"/>
+  <instance name="BlacksmithUI_Helm4Hair_Sprite" index="0" posX="78" posY="41" anchorX="3" anchorY="23" width="26" height="34"/>
+  <instance name="BlacksmithUI_Chest2Shoulders_Sprite" index="0" posX="105" posY="41" anchorX="24" anchorY="19" width="46" height="20"/>
+  <instance name="BlacksmithUI_Coin_Sprite" index="0" posX="152" posY="37" anchorX="14" anchorY="16.5" width="28" height="33"/>
+  <instance name="CarnivalFlags_Sprite" index="0" posX="181" posY="37" anchorX="32" anchorY="0" width="64" height="15"/>
+  <instance name="EnchantressClothes_Sprite" index="0" posX="246" posY="38" anchorX="-4" anchorY="0" width="22" height="44"/>
+  <instance name="ArchitectBodyIdle_Sprite" index="0" posX="269" posY="38" anchorX="-1" anchorY="-12" width="31" height="32"/>
+  <instance name="ArchitectBodyIdle_Sprite" index="1" posX="301" posY="45" anchorX="-1" anchorY="-12" width="31" height="32"/>
+  <instance name="BlacksmithUI_Chest3Shoulders_Sprite" index="0" posX="333" posY="50" anchorX="26" anchorY="19" width="50" height="20"/>
+  <instance name="BlacksmithUI_Helm5Hair_Sprite" index="0" posX="384" posY="45" anchorX="5" anchorY="25" width="28" height="36"/>
+  <instance name="ArchitectBodyIdle_Sprite" index="2" posX="413" posY="45" anchorX="-1" anchorY="-12" width="32" height="32"/>
+  <instance name="ArchitectBodyIdle_Sprite" index="5" posX="446" posY="53" anchorX="-1" anchorY="-12" width="32" height="32"/>
+  <instance name="ArchitectBodyIdle_Sprite" index="3" posX="479" posY="54" anchorX="0" anchorY="-12" width="34" height="32"/>
+  <instance name="ArchitectBodyIdle_Sprite" index="4" posX="514" posY="48" anchorX="0" anchorY="-12" width="34" height="32"/>
+  <instance name="BlacksmithUI_Chest1Chest_Sprite" index="0" posX="549" posY="48" anchorX="22" anchorY="15" width="38" height="30"/>
+  <instance name="BlacksmithUI_Chest4Shoulders_Sprite" index="0" posX="588" posY="50" anchorX="26" anchorY="19" width="52" height="22"/>
+  <instance name="BlacksmithUI_Chest5Chest_Sprite" index="0" posX="641" posY="58" anchorX="22" anchorY="13" width="36" height="32"/>
+  <instance name="BlacksmithAssets2_Sprite" index="0" posX="678" posY="58" anchorX="30.85" anchorY="10.15" width="58" height="20"/>
+  <instance name="BlacksmithUI_Chest2Chest_Sprite" index="0" posX="737" posY="54" anchorX="22" anchorY="15" width="38" height="32"/>
+  <instance name="BlacksmithUI_Chest3Chest_Sprite" index="0" posX="776" posY="51" anchorX="22" anchorY="13" width="38" height="32"/>
+  <instance name="BlacksmithUI_Chest4Chest_Sprite" index="0" posX="815" posY="66" anchorX="22" anchorY="13" width="38" height="32"/>
+  <instance name="BlacksmithUI_Cape1_Sprite" index="0" posX="854" posY="66" anchorX="20" anchorY="18" width="38" height="34"/>
+  <instance name="BlacksmithUI_Helm1Head_Sprite" index="0" posX="893" posY="62" anchorX="23" anchorY="13" width="36" height="38"/>
+  <instance name="BlacksmithUI_Helm2Head_Sprite" index="0" posX="930" posY="64" anchorX="23" anchorY="13" width="36" height="38"/>
+  <instance name="BlacksmithUI_Helm3Head_Sprite" index="0" posX="967" posY="64" anchorX="23" anchorY="13" width="36" height="38"/>
+  <instance name="BlacksmithUI_Helm4Head_Sprite" index="0" posX="0" posY="134" anchorX="23" anchorY="13" width="36" height="38"/>
+  <instance name="BlacksmithUI_Helm5Head_Sprite" index="0" posX="37" posY="80" anchorX="23" anchorY="13" width="36" height="38"/>
+  <instance name="BlacksmithUI_Chest5Shoulders_Sprite" index="0" posX="74" posY="76" anchorX="26" anchorY="19" width="52" height="28"/>
+  <instance name="ArchitectBoduPull_Sprite" index="5" posX="127" posY="71" anchorX="-12" anchorY="-21" width="34" height="43"/>
+  <instance name="ArchitectBoduPull_Sprite" index="7" posX="162" posY="71" anchorX="-12" anchorY="-21" width="34" height="43"/>
+  <instance name="ArchitectBoduPull_Sprite" index="6" posX="197" posY="53" anchorX="-11" anchorY="-21" width="35" height="43"/>
+  <instance name="ArchitectBoduPull_Sprite" index="8" posX="233" posY="83" anchorX="-12" anchorY="-21" width="36" height="43"/>
+  <instance name="ArchitectBoduPull_Sprite" index="4" posX="270" posY="78" anchorX="-13" anchorY="-23" width="38" height="41"/>
+  <instance name="ArchitectBoduPull_Sprite" index="1" posX="309" posY="78" anchorX="-13" anchorY="-21" width="37" height="43"/>
+  <instance name="BlacksmithUI_Cape2_Sprite" index="0" posX="347" posY="82" anchorX="22" anchorY="20" width="42" height="38"/>
+  <instance name="ArchitectBoduPull_Sprite" index="2" posX="390" posY="82" anchorX="-13" anchorY="-22" width="38" height="42"/>
+  <instance name="ArchitectBoduPull_Sprite" index="3" posX="429" posY="86" anchorX="-13" anchorY="-23" width="39" height="41"/>
+  <instance name="ArchitectBoduPull_Sprite" index="0" posX="469" posY="87" anchorX="-10" anchorY="-21" width="39" height="43"/>
+  <instance name="BlacksmithBody_Sprite" index="0" posX="509" posY="87" anchorX="-17" anchorY="-19" width="50" height="34"/>
+  <instance name="CarnivalPoster1_Sprite" index="0" posX="560" posY="79" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="CarnivalPoster2_Sprite" index="0" posX="597" posY="73" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="CarnivalPoster3_Sprite" index="0" posX="634" posY="91" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="Clown_Sprite" index="6" posX="671" posY="91" anchorX="34" anchorY="-1" width="30" height="61"/>
+  <instance name="Clown_Sprite" index="7" posX="702" posY="79" anchorX="34" anchorY="-1" width="30" height="61"/>
+  <instance name="King_Sprite" index="7" posX="733" posY="87" anchorX="40" anchorY="-3" width="38" height="49"/>
+  <instance name="Clown_Sprite" index="0" posX="772" posY="87" anchorX="34" anchorY="-1" width="31" height="61"/>
+  <instance name="Clown_Sprite" index="5" posX="804" posY="99" anchorX="34" anchorY="-1" width="31" height="61"/>
+  <instance name="King_Sprite" index="0" posX="836" posY="101" anchorX="40" anchorY="-2" width="38" height="50"/>
+  <instance name="King_Sprite" index="1" posX="875" posY="101" anchorX="40" anchorY="-2" width="38" height="50"/>
+  <instance name="King_Sprite" index="6" posX="914" posY="103" anchorX="40" anchorY="-2" width="38" height="50"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="6" posX="953" posY="103" anchorX="36.95" anchorY="-4" width="37" height="52"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="7" posX="0" posY="173" anchorX="36.95" anchorY="-4" width="37" height="52"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="14" posX="38" posY="119" anchorX="36.95" anchorY="-4" width="37" height="52"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="15" posX="76" posY="105" anchorX="36.95" anchorY="-4" width="37" height="52"/>
+  <instance name="BlacksmithUI_Cape3_Sprite" index="0" posX="114" posY="115" anchorX="24" anchorY="20" width="46" height="42"/>
+  <instance name="BlacksmithUI_Sword1Blade_Sprite" index="0" posX="161" posY="115" anchorX="25" anchorY="25" width="44" height="44"/>
+  <instance name="BlacksmithUI_Sword2Blade_Sprite" index="0" posX="206" posY="127" anchorX="25" anchorY="25" width="44" height="44"/>
+  <instance name="BlacksmithUI_Sword3Blade_Sprite" index="0" posX="251" posY="127" anchorX="25" anchorY="25" width="44" height="44"/>
+  <instance name="BlacksmithUI_Sword4Blade_Sprite" index="0" posX="296" posY="122" anchorX="25" anchorY="25" width="44" height="44"/>
+  <instance name="BlacksmithUI_Sword5Blade_Sprite" index="0" posX="341" posY="122" anchorX="25" anchorY="25" width="44" height="44"/>
+  <instance name="King_Sprite" index="2" posX="386" posY="125" anchorX="40" anchorY="-1" width="38" height="51"/>
+  <instance name="King_Sprite" index="5" posX="425" posY="128" anchorX="40" anchorY="-1" width="38" height="51"/>
+  <instance name="Clown_Sprite" index="1" posX="464" posY="131" anchorX="34" anchorY="-1" width="32" height="61"/>
+  <instance name="Clown_Sprite" index="4" posX="497" posY="131" anchorX="34" anchorY="-1" width="32" height="61"/>
+  <instance name="NPCTollCollectorLaugh_Sprite" index="0" posX="530" posY="128" anchorX="36.95" anchorY="-3" width="37" height="53"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="0" posX="568" posY="128" anchorX="36.95" anchorY="-3" width="37" height="53"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="5" posX="606" posY="140" anchorX="36.95" anchorY="-3" width="37" height="53"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="8" posX="644" posY="153" anchorX="36.95" anchorY="-3" width="37" height="53"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="13" posX="682" posY="153" anchorX="36.95" anchorY="-3" width="37" height="53"/>
+  <instance name="King_Sprite" index="3" posX="720" posY="141" anchorX="40" anchorY="0" width="38" height="52"/>
+  <instance name="King_Sprite" index="4" posX="759" posY="149" anchorX="40" anchorY="0" width="38" height="52"/>
+  <instance name="NPCTollCollectorLaugh_Sprite" index="1" posX="798" posY="161" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="NPCTollCollectorLaugh_Sprite" index="2" posX="836" posY="152" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="NPCTollCollectorLaugh_Sprite" index="3" posX="874" posY="152" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="1" posX="912" posY="154" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="4" posX="950" posY="156" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="9" posX="0" posY="226" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="12" posX="38" posY="172" anchorX="36.95" anchorY="-2" width="37" height="54"/>
+  <instance name="Clown_Sprite" index="2" posX="76" posY="158" anchorX="34" anchorY="-1" width="33" height="61"/>
+  <instance name="Clown_Sprite" index="3" posX="110" posY="158" anchorX="34" anchorY="-1" width="33" height="61"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="2" posX="144" posY="160" anchorX="36.95" anchorY="-1" width="37" height="55"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="3" posX="182" posY="172" anchorX="36.95" anchorY="-1" width="37" height="55"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="10" posX="220" posY="172" anchorX="36.95" anchorY="-1" width="37" height="55"/>
+  <instance name="NPCTollCollectorIdle_Sprite" index="11" posX="258" posY="172" anchorX="36.95" anchorY="-1" width="37" height="55"/>
+  <instance name="BlacksmithUI_Cape4_Sprite" index="0" posX="296" posY="167" anchorX="24.5" anchorY="24" width="48" height="48"/>
+  <instance name="BlacksmithUI_Cape5_Sprite" index="0" posX="345" posY="177" anchorX="26" anchorY="24" width="52" height="48"/>
+  <instance name="BlacksmithUI_SwordCategoryIcon_Sprite" index="0" posX="398" posY="180" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithUI_HelmCategoryIcon_Sprite" index="0" posX="459" posY="193" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithUI_ChestCategoryIcon_Sprite" index="0" posX="520" posY="193" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithUI_LimbsCategoryIcon_Sprite" index="0" posX="581" posY="194" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithUI_CapeCategoryIcon_Sprite" index="0" posX="642" posY="207" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithUI_QuestionMarkIcon_Sprite" index="0" posX="703" posY="207" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithUI_IconBG_Sprite" index="0" posX="764" posY="216" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_DashIcon_Sprite" index="0" posX="825" posY="216" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_DoubleJumpIcon_Sprite" index="0" posX="886" posY="209" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_VampirismIcon_Sprite" index="0" posX="947" posY="211" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_FlightIcon_Sprite" index="0" posX="0" posY="281" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_ManaGainIcon_Sprite" index="0" posX="61" posY="227" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_DamageReturnIcon_Sprite" index="0" posX="122" posY="228" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_SpeedUpIcon_Sprite" index="0" posX="183" posY="228" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_BalanceIcon_Sprite" index="0" posX="244" posY="228" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_BlessingIcon_Sprite" index="0" posX="305" posY="226" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnchantressUI_CurseIcon_Sprite" index="0" posX="366" posY="241" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="BlacksmithAssets_Sprite" index="0" posX="427" posY="254" anchorX="36.2" anchorY="53.95" width="107" height="39"/>
+  <instance name="CriticalText_Sprite" index="0" posX="535" posY="268" anchorX="70" anchorY="22.5" width="140" height="45"/>
+  <instance name="BlacksmithUI_Title_Sprite" index="0" posX="676" posY="277" anchorX="122" anchorY="15" width="244" height="30"/>
+  <instance name="BlacksmithUI_SelectionIcon_Sprite" index="2" posX="921" posY="272" anchorX="44" anchorY="44" width="88" height="88"/>
+  <instance name="EnchantressUI_Title_Sprite" index="0" posX="0" posY="342" anchorX="131" anchorY="15" width="262" height="30"/>
+  <instance name="BlacksmithUI_SelectionIcon_Sprite" index="1" posX="263" posY="289" anchorX="45" anchorY="45" width="90" height="90"/>
+  <instance name="BlacksmithUI_SelectionIcon_Sprite" index="3" posX="354" posY="302" anchorX="45" anchorY="45" width="90" height="90"/>
+  <instance name="BlacksmithUI_Category1Deselected_Sprite" index="0" posX="445" posY="314" anchorX="50" anchorY="44" width="99" height="82"/>
+  <instance name="BlacksmithUI_SelectionIcon_Sprite" index="0" posX="545" posY="314" anchorX="46" anchorY="46" width="92" height="92"/>
+  <instance name="BlacksmithUI_Category2Selected_Sprite" index="0" posX="638" posY="314" anchorX="50" anchorY="44" width="101" height="85"/>
+  <instance name="BlacksmithUI_Category3Selected_Sprite" index="0" posX="740" posY="308" anchorX="50" anchorY="44" width="100" height="88"/>
+  <instance name="BlacksmithUI_Category5Selected_Sprite" index="0" posX="841" posY="361" anchorX="50" anchorY="44" width="100" height="88"/>
+  <instance name="BlacksmithUI_Category4Selected_Sprite" index="0" posX="0" posY="373" anchorX="50" anchorY="44" width="101" height="88"/>
+  <instance name="BlacksmithUI_CoinBG_Sprite" index="0" posX="102" posY="380" anchorX="-1" anchorY="-1" width="242" height="44"/>
+  <instance name="BlacksmithUI_BG_Sprite" index="0" posX="0" posY="462" anchorX="389" anchorY="244" width="778" height="488"/>
+  <animation frame="1" name="BlacksmithUI_BG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Category1Deselected_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Category2Selected_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Category3Selected_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Category4Selected_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Category5Selected_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_SwordCategoryIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_HelmCategoryIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_ChestCategoryIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_LimbsCategoryIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_CapeCategoryIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Coin_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_SelectionIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="BlacksmithUI_SelectionIcon_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="BlacksmithUI_SelectionIcon_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="BlacksmithUI_SelectionIcon_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_QuestionMarkIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_IconBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs1Arms_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs1Legs_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs2Arms_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs2Legs_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs3Arms_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs3Legs_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs4Arms_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs4Legs_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs5Arms_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Limbs5Legs_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Cape1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Cape4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Cape5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Cape3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Cape2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_NewIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_EquippedIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest1Chest_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest1Shoulders_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest2Chest_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest2Shoulders_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest3Chest_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest3Shoulders_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest4Chest_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest4Shoulders_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest5Chest_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Chest5Shoulders_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm1Head_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm1Hair_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm2Head_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm2Hair_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm3Head_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm3Hair_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm4Head_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm4Hair_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm5Head_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Helm5Hair_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword1Hilt_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword1Blade_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword1Stripe_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword2Hilt_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword2Blade_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword2Stripe_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword3Hilt_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword3Blade_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword3Stripe_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword4Hilt_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword4Blade_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword4Stripe_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword5Hilt_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword5Blade_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Sword5Stripe_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_CoinBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithAssets_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithAssets2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithBody_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithHead_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="BlacksmithHead_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithHeadTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithArm_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="BlacksmithArm_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="BlacksmithArm_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="BlacksmithArm_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="BlacksmithArm_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="BlacksmithArm_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="BlacksmithArm_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="BlacksmithArm_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="BlacksmithArm_Sprite" index="8" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectBodyIdle_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ArchitectBodyIdle_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ArchitectBodyIdle_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ArchitectBodyIdle_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ArchitectBodyIdle_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="ArchitectBodyIdle_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="ArchitectHeadIdle_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ArchitectHeadIdle_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="ArchitectLeverIdle_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectGearPull_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ArchitectGearPull_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="ArchitectBoduPull_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ArchitectBoduPull_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ArchitectBoduPull_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ArchitectBoduPull_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ArchitectBoduPull_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="ArchitectBoduPull_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="ArchitectBoduPull_Sprite" index="6" duration="3" label=""/>
+  <animation frame="10" name="ArchitectBoduPull_Sprite" index="7" duration="1" label=""/>
+  <animation frame="11" name="ArchitectBoduPull_Sprite" index="8" duration="1" label=""/>
+  <animation frame="1" name="EnchantressHair_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressClothes_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressBody_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnchantressBody_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnchantressBody_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnchantressBody_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnchantressBody_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnchantressBody_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnchantressBody_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnchantressBody_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnchantressArms_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressHead_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnchantressHead_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="EnchantressOrb_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnchantressOrb_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnchantressOrb_Sprite" index="2" duration="2" label=""/>
+  <animation frame="5" name="EnchantressOrb_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="EnchantressOrb_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="EnchantressOrb_Sprite" index="5" duration="2" label=""/>
+  <animation frame="1" name="ElfCape_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ElfCape_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ElfCape_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ElfCape_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ElfCape_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="ElfCape_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="ElfBody_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ElfHead_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ElfHead_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_DashIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_DoubleJumpIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_VampirismIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_FlightIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_ManaGainIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="NPCTollCollectorLaugh_Sprite" index="0" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="NPCTollCollectorLaugh_Sprite" index="1" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="NPCTollCollectorLaugh_Sprite" index="2" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="NPCTollCollectorLaugh_Sprite" index="3" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="NPCTollCollectorIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="NPCTollCollectorIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="NPCTollCollectorIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="NPCTollCollectorIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="NPCTollCollectorIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="NPCTollCollectorIdle_Sprite" index="5" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="NPCTollCollectorIdle_Sprite" index="6" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="NPCTollCollectorIdle_Sprite" index="7" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="NPCTollCollectorIdle_Sprite" index="8" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="NPCTollCollectorIdle_Sprite" index="9" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="11" name="NPCTollCollectorIdle_Sprite" index="10" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="12" name="NPCTollCollectorIdle_Sprite" index="11" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="13" name="NPCTollCollectorIdle_Sprite" index="12" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="14" name="NPCTollCollectorIdle_Sprite" index="13" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="15" name="NPCTollCollectorIdle_Sprite" index="14" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="16" name="NPCTollCollectorIdle_Sprite" index="15" duration="1" label="">
+    <rectangle x="-37" y="2" width="37" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Clown_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="Clown_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="Clown_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="Clown_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="Clown_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="Clown_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="Clown_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="Clown_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="Target1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-13" y="-19" width="24" height="26" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="Target1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-13" y="-19" width="24" height="26" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="Target1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Target1Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Target1Piece4_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Target2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-15" y="-19" width="26" height="26" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="Target2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-15" y="-19" width="26" height="26" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="Target2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Target2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Target2Piece4_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Target2Piece5_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CarnivalFlags_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalBalloonLine1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalBalloon1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalBalloonLine_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalBalloon2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalBalloonLine2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalBalloon3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalPoster1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalPoster2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CarnivalPoster3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="King_Sprite" index="0" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="King_Sprite" index="1" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="King_Sprite" index="2" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="King_Sprite" index="3" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="King_Sprite" index="4" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="King_Sprite" index="5" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="King_Sprite" index="6" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="King_Sprite" index="7" duration="1" label="">
+    <rectangle x="-36" y="3" width="30" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnchantressUI_DamageReturnIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_SpeedUpIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_BalanceIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_BlessingIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_CurseIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MedallionPiece5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MedallionPiece4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MedallionPiece3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MedallionPiece2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MedallionPiece1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ChallengeIcon_Skull_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ChallengeIcon_Eyeball_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ChallengeIcon_Fireball_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ChallengeIcon_Blob_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ChallengeIcon_LastBoss_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite" index="0" duration="1" label=""/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_BG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Category1Deselected_Sprite" childX="-310.45" childY="-158.15" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Category2Selected_Sprite" childX="-311.1" childY="-80.65" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Category3Selected_Sprite" childX="-311.1" childY="-1.65" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Category4Selected_Sprite" childX="-312.65" childY="78.35" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Category5Selected_Sprite" childX="-313.45" childY="158" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_SwordCategoryIcon_Sprite" childX="-311.5" childY="-161" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_HelmCategoryIcon_Sprite" childX="-311.5" childY="-81" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_ChestCategoryIcon_Sprite" childX="-311.5" childY="-1" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_LimbsCategoryIcon_Sprite" childX="-311.5" childY="79" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_CapeCategoryIcon_Sprite" childX="-311.5" childY="159" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Title_Sprite" childX="0" childY="-230" childRotation="0"/>
+  <container name="BlacksmithUI_Character" child="BlacksmithUI_Coin_Sprite" childX="194.35" childY="-224.65" childRotation="0"/>
+  <container name="BlacksmithUI_QuestionMarkIcon_Character" child="BlacksmithUI_QuestionMarkIcon_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs1Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs1Icon_Character" child="BlacksmithUI_Limbs1Arms_Sprite" childX="0" childY="-2.5" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs1Icon_Character" child="BlacksmithUI_Limbs1Legs_Sprite" childX="0" childY="-2" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs2Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs2Icon_Character" child="BlacksmithUI_Limbs2Arms_Sprite" childX="0" childY="-2" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs2Icon_Character" child="BlacksmithUI_Limbs2Legs_Sprite" childX="0" childY="-2" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs3Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs3Icon_Character" child="BlacksmithUI_Limbs3Arms_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs3Icon_Character" child="BlacksmithUI_Limbs3Legs_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs4Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs4Icon_Character" child="BlacksmithUI_Limbs4Arms_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs4Icon_Character" child="BlacksmithUI_Limbs4Legs_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs5Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs5Icon_Character" child="BlacksmithUI_Limbs5Arms_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Limbs5Icon_Character" child="BlacksmithUI_Limbs5Legs_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape1Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape1Icon_Character" child="BlacksmithUI_Cape1_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape4Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape4Icon_Character" child="BlacksmithUI_Cape4_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape5Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape5Icon_Character" child="BlacksmithUI_Cape5_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape3Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape3Icon_Character" child="BlacksmithUI_Cape3_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape2Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Cape2Icon_Character" child="BlacksmithUI_Cape2_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest1Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest1Icon_Character" child="BlacksmithUI_Chest1Chest_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest1Icon_Character" child="BlacksmithUI_Chest1Shoulders_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest2Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest2Icon_Character" child="BlacksmithUI_Chest2Chest_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest2Icon_Character" child="BlacksmithUI_Chest2Shoulders_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest3Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest3Icon_Character" child="BlacksmithUI_Chest3Chest_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest3Icon_Character" child="BlacksmithUI_Chest3Shoulders_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest4Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest4Icon_Character" child="BlacksmithUI_Chest4Chest_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest4Icon_Character" child="BlacksmithUI_Chest4Shoulders_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest5Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest5Icon_Character" child="BlacksmithUI_Chest5Chest_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Chest5Icon_Character" child="BlacksmithUI_Chest5Shoulders_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm1Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm1Icon_Character" child="BlacksmithUI_Helm1Head_Sprite" childX="3" childY="-0.5" childRotation="0"/>
+  <container name="BlacksmithUI_Helm1Icon_Character" child="BlacksmithUI_Helm1Hair_Sprite" childX="3" childY="-0.5" childRotation="0"/>
+  <container name="BlacksmithUI_Helm2Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm2Icon_Character" child="BlacksmithUI_Helm2Head_Sprite" childX="3" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm2Icon_Character" child="BlacksmithUI_Helm2Hair_Sprite" childX="3" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm3Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm3Icon_Character" child="BlacksmithUI_Helm3Head_Sprite" childX="1.5" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm3Icon_Character" child="BlacksmithUI_Helm3Hair_Sprite" childX="1.5" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm4Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm4Icon_Character" child="BlacksmithUI_Helm4Head_Sprite" childX="1" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm4Icon_Character" child="BlacksmithUI_Helm4Hair_Sprite" childX="1" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm5Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm5Icon_Character" child="BlacksmithUI_Helm5Head_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Helm5Icon_Character" child="BlacksmithUI_Helm5Hair_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword1Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword1Icon_Character" child="BlacksmithUI_Sword1Hilt_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword1Icon_Character" child="BlacksmithUI_Sword1Blade_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword1Icon_Character" child="BlacksmithUI_Sword1Stripe_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword2Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword2Icon_Character" child="BlacksmithUI_Sword2Hilt_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword2Icon_Character" child="BlacksmithUI_Sword2Blade_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword2Icon_Character" child="BlacksmithUI_Sword2Stripe_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword3Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword3Icon_Character" child="BlacksmithUI_Sword3Hilt_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword3Icon_Character" child="BlacksmithUI_Sword3Blade_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword3Icon_Character" child="BlacksmithUI_Sword3Stripe_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword4Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword4Icon_Character" child="BlacksmithUI_Sword4Hilt_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword4Icon_Character" child="BlacksmithUI_Sword4Blade_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword4Icon_Character" child="BlacksmithUI_Sword4Stripe_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword5Icon_Character" child="BlacksmithUI_IconBG_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword5Icon_Character" child="BlacksmithUI_Sword5Hilt_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword5Icon_Character" child="BlacksmithUI_Sword5Blade_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="BlacksmithUI_Sword5Icon_Character" child="BlacksmithUI_Sword5Stripe_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="Blacksmith_Character" child="BlacksmithAssets_Sprite" childX="-4.330352783203125" childY="-0.04978179931640625" childRotation="0"/>
+  <container name="Blacksmith_Character" child="BlacksmithAssets2_Sprite" childX="-52.312652587890625" childY="11.997413635253906" childRotation="0"/>
+  <container name="Blacksmith_Character" child="BlacksmithBody_Sprite" childX="-37.2310791015625" childY="-32.80620574951172" childRotation="0"/>
+  <container name="Blacksmith_Character" child="BlacksmithHead_Sprite" childX="-37.2310791015625" childY="-32.80620574951172" childRotation="0"/>
+  <container name="Blacksmith_Character" child="BlacksmithHeadTrim_Sprite" childX="-37.181304931640625" childY="-32.855987548828125" childRotation="0"/>
+  <container name="Blacksmith_Character" child="BlacksmithArm_Sprite" childX="-37.2310791015625" childY="-32.80620574951172" childRotation="0"/>
+  <container name="ArchitectIdle_Character" child="ArchitectBodyIdle_Sprite" childX="-17.9813232421875" childY="-31.4" childRotation="0"/>
+  <container name="ArchitectIdle_Character" child="ArchitectHeadIdle_Sprite" childX="-17.9813232421875" childY="-31.4" childRotation="0"/>
+  <container name="ArchitectIdle_Character" child="ArchitectLeverIdle_Sprite" childX="6.99273681640625" childY="-9.4" childRotation="0"/>
+  <container name="ArchitectPull_Character" child="ArchitectGearPull_Sprite" childX="10" childY="0.6" childRotation="0"/>
+  <container name="ArchitectPull_Character" child="ArchitectBoduPull_Sprite" childX="-27" childY="-51.4" childRotation="0"/>
+  <container name="Enchantress_Character" child="EnchantressHair_Sprite" childX="-18.85" childY="-28.9" childRotation="0"/>
+  <container name="Enchantress_Character" child="EnchantressClothes_Sprite" childX="-18.85" childY="-28.9" childRotation="0"/>
+  <container name="Enchantress_Character" child="EnchantressBody_Sprite" childX="-18.85" childY="-28.9" childRotation="0"/>
+  <container name="Enchantress_Character" child="EnchantressArms_Sprite" childX="-18.85" childY="-28.9" childRotation="0"/>
+  <container name="Enchantress_Character" child="EnchantressHead_Sprite" childX="-18.85" childY="-28.9" childRotation="0"/>
+  <container name="Enchantress_Character" child="EnchantressOrb_Sprite" childX="-18.85" childY="-28.9" childRotation="0"/>
+  <container name="Elf_Character" child="ElfCape_Sprite" childX="11.75" childY="-38" childRotation="180"/>
+  <container name="Elf_Character" child="ElfBody_Sprite" childX="11.75" childY="-38" childRotation="180"/>
+  <container name="Elf_Character" child="ElfHead_Sprite" childX="11.75" childY="-38" childRotation="180"/>
+  <container name="NPCTollCollectorLaugh_Character" child="NPCTollCollectorLaugh_Sprite" childX="16.75" childY="-36.9" childRotation="180"/>
+  <container name="NPCTollCollectorIdle_Character" child="NPCTollCollectorIdle_Sprite" childX="16.75" childY="-36.9" childRotation="180"/>
+  <container name="Clown_Character" child="Clown_Sprite" childX="22.35" childY="-44.65" childRotation="180"/>
+  <container name="Target1_Character" child="Target1Piece1_Sprite" childX="-0.45" childY="5.85" childRotation="0"/>
+  <container name="Target1_Character" child="Target1Piece2_Sprite" childX="5.05" childY="0.95" childRotation="0"/>
+  <container name="Target1_Character" child="Target1Piece3_Sprite" childX="-6.05" childY="-2.8" childRotation="0"/>
+  <container name="Target1_Character" child="Target1Piece4_Sprite" childX="1.95" childY="-6.25" childRotation="0"/>
+  <container name="Target2_Character" child="Target2Piece1_Sprite" childX="1.85" childY="6.8" childRotation="0"/>
+  <container name="Target2_Character" child="Target2Piece2_Sprite" childX="-7.15" childY="-6.45" childRotation="0"/>
+  <container name="Target2_Character" child="Target2Piece3_Sprite" childX="-5.7" childY="6.65" childRotation="0"/>
+  <container name="Target2_Character" child="Target2Piece4_Sprite" childX="6.7" childY="-4.1" childRotation="0"/>
+  <container name="Target2_Character" child="Target2Piece5_Sprite" childX="-0.15" childY="-0.5" childRotation="0"/>
+  <container name="CarnivalBalloon1_Character" child="CarnivalBalloonLine1_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CarnivalBalloon1_Character" child="CarnivalBalloon1_Sprite" childX="-0.25" childY="-23.75" childRotation="0"/>
+  <container name="CarnivalBalloon2_Character" child="CarnivalBalloonLine_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CarnivalBalloon2_Character" child="CarnivalBalloon2_Sprite" childX="-0.65" childY="-18.9" childRotation="0"/>
+  <container name="CarnivalBalloon3_Character" child="CarnivalBalloonLine2_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CarnivalBalloon3_Character" child="CarnivalBalloon3_Sprite" childX="0.85" childY="-71.65" childRotation="0"/>
+</xml>

@@ -1,0 +1,8 @@
+<xml>
+  <instance name="StartRoomMountains_Sprite" index="0" posX="0" posY="0" anchorX="0" anchorY="0" width="1020" height="226"/>
+  <instance name="TitleLargeCloud2_Sprite" index="0" posX="0" posY="227" anchorX="498.1" anchorY="0" width="998" height="388"/>
+  <instance name="TitleLargeCloud1_Sprite" index="0" posX="0" posY="616" anchorX="500" anchorY="0" width="1000" height="393"/>
+  <animation frame="1" name="TitleLargeCloud2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleLargeCloud1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StartRoomMountains_Sprite" index="0" duration="1" label=""/>
+</xml>

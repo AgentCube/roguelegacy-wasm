@@ -1,0 +1,185 @@
+<xml>
+  <instance name="DungeonBucket2Piece3_Sprite" index="0" posX="0" posY="0" anchorX="7.35" anchorY="2.75" width="17" height="6"/>
+  <instance name="DungeonBucket2Piece1_Sprite" index="1" posX="18" posY="0" anchorX="6" anchorY="4.550000000000001" width="12" height="10"/>
+  <instance name="DungeonBucket2Piece2_Sprite" index="0" posX="31" posY="0" anchorX="7.1" anchorY="4.85" width="11" height="11"/>
+  <instance name="DungeonTable1Piece1_Sprite" index="1" posX="43" posY="0" anchorX="6.9" anchorY="5" width="14" height="11"/>
+  <instance name="DungeonTable2Piece1_Sprite" index="1" posX="58" posY="0" anchorX="7.15" anchorY="5.35" width="14" height="11"/>
+  <instance name="DungeonTable2Piece2_Sprite" index="0" posX="73" posY="0" anchorX="7" anchorY="5.15" width="14" height="11"/>
+  <instance name="DungeonBucket1Piece1_Sprite" index="1" posX="88" posY="0" anchorX="7.5" anchorY="6.5" width="14" height="12"/>
+  <instance name="DungeonTorch2Piece3_Sprite" index="0" posX="103" posY="0" anchorX="6.75" anchorY="5.5" width="14" height="12"/>
+  <instance name="DungeonTorch2Piece2_Sprite" index="0" posX="118" posY="0" anchorX="5.5" anchorY="8.25" width="12" height="16"/>
+  <instance name="DungeonBucket1Piece2_Sprite" index="0" posX="131" posY="0" anchorX="6.75" anchorY="7" width="14" height="14"/>
+  <instance name="DungeonTorch1Piece2_Sprite" index="0" posX="146" posY="0" anchorX="7.75" anchorY="9.75" width="11" height="18"/>
+  <instance name="DungeonTable1Piece3_Sprite" index="0" posX="158" posY="0" anchorX="14" anchorY="3" width="30" height="8"/>
+  <instance name="DungeonHangingCell2_Sprite" index="1" posX="189" posY="0" anchorX="2.6999999999999993" anchorY="20.3" width="6" height="42"/>
+  <instance name="DungeonHangingCell2Piece5_Sprite" index="0" posX="196" posY="0" anchorX="2.5" anchorY="20" width="6" height="42"/>
+  <instance name="DungeonHangingCell_Sprite" index="1" posX="203" posY="0" anchorX="3.3999999999999986" anchorY="22.55" width="6" height="43"/>
+  <instance name="DungeonTorch1Piece3_Sprite" index="1" posX="210" posY="0" anchorX="6.25" anchorY="10.8" width="13" height="22"/>
+  <instance name="DungeonBucket1Piece1_Sprite" index="0" posX="224" posY="0" anchorX="7.05" anchorY="12.75" width="16" height="18"/>
+  <instance name="DungeonTorch1Piece1_Sprite" index="0" posX="241" posY="0" anchorX="9.5" anchorY="8.25" width="19" height="17"/>
+  <instance name="DungeonBucket2Piece1_Sprite" index="0" posX="261" posY="0" anchorX="14.1" anchorY="10.65" width="21" height="16"/>
+  <instance name="DungeonTable2Piece3_Sprite" index="0" posX="283" posY="0" anchorX="22" anchorY="3.65" width="48" height="8"/>
+  <instance name="DungeonChain1Piece1_Sprite" index="0" posX="332" posY="0" anchorX="3" anchorY="22.25" width="6" height="66"/>
+  <instance name="DungeonTorch2Piece1_Sprite" index="1" posX="339" posY="0" anchorX="10.5" anchorY="10" width="21" height="19"/>
+  <instance name="DungeonTable1Piece2_Sprite" index="0" posX="361" posY="0" anchorX="9" anchorY="9.5" width="22" height="19"/>
+  <instance name="DungeonCornerL_Sprite" index="0" posX="384" posY="0" anchorX="0" anchorY="0" width="21" height="21"/>
+  <instance name="DungeonCorner_Sprite" index="0" posX="406" posY="0" anchorX="0" anchorY="0" width="21" height="28"/>
+  <instance name="DungeonCagePiece3_Sprite" index="0" posX="428" posY="0" anchorX="10.5" anchorY="12" width="31" height="25"/>
+  <instance name="DungeonCage2Piece3_Sprite" index="0" posX="460" posY="0" anchorX="10.5" anchorY="12" width="31" height="25"/>
+  <instance name="DungeonTorch2Piece1_Sprite" index="0" posX="0" posY="11" anchorX="9.9" anchorY="30.4" width="21" height="39"/>
+  <instance name="DungeonTorch1Piece3_Sprite" index="0" posX="22" posY="12" anchorX="14.1" anchorY="27.8" width="21" height="39"/>
+  <instance name="DungeonChain2Piece1_Sprite" index="0" posX="44" posY="12" anchorX="3.9" anchorY="15.65" width="16" height="52"/>
+  <instance name="DungeonSewerGrate1_Sprite" index="0" posX="61" posY="13" anchorX="19" anchorY="12" width="37" height="24"/>
+  <instance name="DungeonSewerGrate2_Sprite" index="0" posX="99" posY="17" anchorX="18" anchorY="12" width="37" height="24"/>
+  <instance name="DungeonCagePiece1_Sprite" index="0" posX="137" posY="19" anchorX="14.5" anchorY="10" width="38" height="24"/>
+  <instance name="DungeonCage2Piece1_Sprite" index="0" posX="176" posY="44" anchorX="14.5" anchorY="10" width="38" height="24"/>
+  <instance name="DungeonTable2Piece1_Sprite" index="0" posX="215" posY="23" anchorX="14.15" anchorY="13.35" width="48" height="19"/>
+  <instance name="DungeonTable1Piece1_Sprite" index="0" posX="264" posY="17" anchorX="14.9" anchorY="12.85" width="49" height="19"/>
+  <instance name="DungeonCagePiece2_Sprite" index="0" posX="314" posY="67" anchorX="14.5" anchorY="22" width="25" height="46"/>
+  <instance name="DungeonCage2Piece2_Sprite" index="0" posX="340" posY="20" anchorX="14.5" anchorY="22" width="25" height="46"/>
+  <instance name="DungeonMaiden1_Sprite" index="0" posX="366" posY="22" anchorX="16.25" anchorY="55" width="32" height="55"/>
+  <instance name="DungeonMaiden2_Sprite" index="0" posX="399" posY="29" anchorX="22.8" anchorY="55" width="46" height="55"/>
+  <instance name="DungeonMaiden3_Sprite" index="0" posX="446" posY="26" anchorX="22.75" anchorY="55" width="46" height="55"/>
+  <instance name="DungeonBorder_Sprite" index="0" posX="0" posY="65" anchorX="0" anchorY="0" width="126" height="30"/>
+  <instance name="DungeonHangingCell2_Sprite" index="0" posX="127" posY="44" anchorX="15.7" anchorY="20.3" width="47" height="88"/>
+  <instance name="DungeonPrison1_Sprite" index="0" posX="175" posY="69" anchorX="34" anchorY="68" width="69" height="68"/>
+  <instance name="DungeonPrison2_Sprite" index="0" posX="245" posY="114" anchorX="34" anchorY="68" width="69" height="68"/>
+  <instance name="DungeonPrison3_Sprite" index="0" posX="315" posY="114" anchorX="34" anchorY="68" width="69" height="68"/>
+  <instance name="DungeonHangingCell_Sprite" index="0" posX="385" posY="85" anchorX="22.65" anchorY="22.55" width="46" height="112"/>
+  <instance name="DungeonDoor_Sprite" index="0" posX="0" posY="96" anchorX="50" anchorY="96" width="100" height="96"/>
+  <instance name="DungeonDoorOpen_Sprite" index="0" posX="101" posY="138" anchorX="50" anchorY="96" width="100" height="96"/>
+  <instance name="DungeonBG1_Sprite" index="0" posX="202" posY="183" anchorX="0" anchorY="0" width="126" height="126"/>
+  <instance name="DungeonFG1_Sprite" index="0" posX="329" posY="198" anchorX="0.5" anchorY="0.5" width="127" height="127"/>
+  <instance name="TextSmoke_Sprite" index="0" posX="0" posY="326" anchorX="250" anchorY="87" width="500" height="175"/>
+  <animation frame="1" name="DungeonBG1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonFG1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonSewerGrate1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonSewerGrate2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonPrison1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonPrison2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonPrison3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonCorner_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonCornerL_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonBucket1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-5" y="-6" width="13" height="11" rotation="0" type="0"/>
+    <rectangle x="-5" y="-6" width="13" height="11" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="DungeonBucket1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-5" y="-6" width="13" height="11" rotation="0" type="0"/>
+    <rectangle x="-5" y="-6" width="13" height="11" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="DungeonBucket1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonBucket2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-10" width="19" height="16" rotation="0" type="0"/>
+    <rectangle x="-12" y="-10" width="20" height="16" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="DungeonBucket2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-10" width="19" height="16" rotation="0" type="0"/>
+    <rectangle x="-12" y="-10" width="20" height="16" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="DungeonBucket2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonBucket2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonChain2Piece1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonChain1Piece1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonHangingCell_Sprite" index="0" duration="1" label="">
+    <rectangle x="-3" y="-21" width="6" height="67" rotation="0" type="2"/>
+    <rectangle x="-21" y="43" width="46" height="46" rotation="0" type="2"/>
+    <rectangle x="-21" y="42" width="45" height="47" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="DungeonHangingCell_Sprite" index="1" duration="1" label="">
+    <rectangle x="-3" y="-21" width="6" height="67" rotation="0" type="2"/>
+    <rectangle x="-21" y="43" width="46" height="46" rotation="0" type="2"/>
+    <rectangle x="-21" y="42" width="45" height="47" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="DungeonCagePiece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonCagePiece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonCagePiece1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTorch2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-9" y="-28" width="19" height="38" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="DungeonTorch2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-9" y="-28" width="19" height="38" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="DungeonTorch2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTorch2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTorch1Piece3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-28" width="21" height="40" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="DungeonTorch1Piece3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-28" width="21" height="40" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="DungeonTorch1Piece1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTorch1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonMaiden1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonMaiden2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonMaiden3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonHangingCell2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-2" y="-19" width="20" height="42" rotation="0" type="2"/>
+    <rectangle x="-15" y="21" width="46" height="46" rotation="0" type="2"/>
+    <rectangle x="-17" y="20" width="49" height="47" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="DungeonHangingCell2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-2" y="-19" width="20" height="42" rotation="0" type="2"/>
+    <rectangle x="-15" y="21" width="46" height="46" rotation="0" type="2"/>
+    <rectangle x="-17" y="20" width="49" height="47" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="DungeonHangingCell2Piece5_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonCage2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonCage2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonCage2Piece1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTable1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-15" y="-12" width="50" height="19" rotation="0" type="2"/>
+    <rectangle x="-15" y="-12" width="50" height="19" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="DungeonTable1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-15" y="-12" width="50" height="19" rotation="0" type="2"/>
+    <rectangle x="-15" y="-12" width="50" height="19" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="DungeonTable1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTable1Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTable2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-13" width="49" height="19" rotation="0" type="2"/>
+    <rectangle x="-14" y="-12" width="49" height="18" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="DungeonTable2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-13" width="49" height="19" rotation="0" type="2"/>
+    <rectangle x="-14" y="-12" width="49" height="18" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="DungeonTable2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonTable2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="DungeonDoor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DungeonDoorOpen_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TextSmoke_Sprite" index="0" duration="1" label=""/>
+  <container name="DungeonBucket1_Character" child="DungeonBucket1Piece1_Sprite" childX="-0.3" childY="-7.25" childRotation="0"/>
+  <container name="DungeonBucket1_Character" child="DungeonBucket1Piece2_Sprite" childX="0.75" childY="-12.75" childRotation="0"/>
+  <container name="DungeonBucket2_Character" child="DungeonBucket2Piece1_Sprite" childX="2.95" childY="-7.35" childRotation="0"/>
+  <container name="DungeonBucket2_Character" child="DungeonBucket2Piece2_Sprite" childX="-4.1" childY="-8.05" childRotation="0"/>
+  <container name="DungeonBucket2_Character" child="DungeonBucket2Piece3_Sprite" childX="0.25" childY="-15.1" childRotation="0"/>
+  <container name="DungeonChain2_Character" child="DungeonChain2Piece1_Sprite" childX="-3.75" childY="16.15" childRotation="0"/>
+  <container name="DungeonChain1_Character" child="DungeonChain1Piece1_Sprite" childX="0.25" childY="22.75" childRotation="0"/>
+  <container name="DungeonHangingCell1_Character" child="DungeonHangingCell_Sprite" childX="0.1" childY="23.75" childRotation="0"/>
+  <container name="DungeonHangingCell1_Character" child="DungeonCagePiece3_Sprite" childX="-11.6" childY="100.7" childRotation="0"/>
+  <container name="DungeonHangingCell1_Character" child="DungeonCagePiece2_Sprite" childX="12.95" childY="89" childRotation="0"/>
+  <container name="DungeonHangingCell1_Character" child="DungeonCagePiece1_Sprite" childX="-7.95" childY="77.05" childRotation="0"/>
+  <container name="DungeonTorch2_Character" child="DungeonTorch2Piece1_Sprite" childX="0" childY="-10.5" childRotation="0"/>
+  <container name="DungeonTorch2_Character" child="DungeonTorch2Piece2_Sprite" childX="1.5" childY="-28.75" childRotation="0"/>
+  <container name="DungeonTorch2_Character" child="DungeonTorch2Piece3_Sprite" childX="-2.5" childY="-35.25" childRotation="0"/>
+  <container name="DungeonTorch1_Character" child="DungeonTorch1Piece3_Sprite" childX="4" childY="-13" childRotation="0"/>
+  <container name="DungeonTorch1_Character" child="DungeonTorch1Piece1_Sprite" childX="0.25" childY="-31.25" childRotation="0"/>
+  <container name="DungeonTorch1_Character" child="DungeonTorch1Piece2_Sprite" childX="-2.5" childY="-8.75" childRotation="0"/>
+  <container name="DungeonMaiden1_Character" child="DungeonMaiden1_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="DungeonMaiden2_Character" child="DungeonMaiden2_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="DungeonMaiden3_Character" child="DungeonMaiden3_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="DungeonHangingCell2_Character" child="DungeonHangingCell2_Sprite" childX="-8" childY="21" childRotation="0"/>
+  <container name="DungeonHangingCell2_Character" child="DungeonHangingCell2Piece5_Sprite" childX="5.5" childY="21" childRotation="0"/>
+  <container name="DungeonHangingCell2_Character" child="DungeonCage2Piece3_Sprite" childX="-12.65" childY="75.3" childRotation="0"/>
+  <container name="DungeonHangingCell2_Character" child="DungeonCage2Piece2_Sprite" childX="12.35" childY="64.55" childRotation="0"/>
+  <container name="DungeonHangingCell2_Character" child="DungeonCage2Piece1_Sprite" childX="-8.65" childY="53.55" childRotation="0"/>
+  <container name="DungeonTable1_Character" child="DungeonTable1Piece1_Sprite" childX="-9.6" childY="-8.25" childRotation="0"/>
+  <container name="DungeonTable1_Character" child="DungeonTable1Piece2_Sprite" childX="11.9" childY="-11.5" childRotation="0"/>
+  <container name="DungeonTable1_Character" child="DungeonTable1Piece3_Sprite" childX="-9.6" childY="-18" childRotation="0"/>
+  <container name="DungeonTable2_Character" child="DungeonTable2Piece1_Sprite" childX="-9.6" childY="-7.85" childRotation="0"/>
+  <container name="DungeonTable2_Character" child="DungeonTable2Piece2_Sprite" childX="10" childY="-7.85" childRotation="0"/>
+  <container name="DungeonTable2_Character" child="DungeonTable2Piece3_Sprite" childX="-1.6" childY="-17.35" childRotation="0"/>
+</xml>

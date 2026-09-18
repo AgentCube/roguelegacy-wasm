@@ -1,0 +1,320 @@
+<xml>
+  <instance name="GardenVinePiece2_Sprite" index="0" posX="0" posY="0" anchorX="3" anchorY="2.65" width="6" height="5"/>
+  <instance name="GardenTrunkPiece_Sprite" index="0" posX="7" posY="0" anchorX="1.5" anchorY="5" width="3" height="10"/>
+  <instance name="GardenTrunk2Piece1_Sprite" index="1" posX="11" posY="0" anchorX="1.9000000000000004" anchorY="5.3" width="3" height="10"/>
+  <instance name="GardenMushroom1Piece1_Sprite" index="1" posX="15" posY="0" anchorX="2" anchorY="4.5" width="4" height="8"/>
+  <instance name="GardenTrunk1Piece1_Sprite" index="1" posX="20" posY="0" anchorX="2.25" anchorY="4.8" width="4" height="10"/>
+  <instance name="GardenVinePiece1_Sprite" index="1" posX="25" posY="0" anchorX="5.550000000000001" anchorY="5.699999999999999" width="7" height="6"/>
+  <instance name="GardenVine2Piece1_Sprite" index="1" posX="33" posY="0" anchorX="3.0500000000000007" anchorY="3.1999999999999993" width="7" height="6"/>
+  <instance name="GardenMushroom2Piece1_Sprite" index="1" posX="41" posY="0" anchorX="4.25" anchorY="3.5500000000000007" width="9" height="5"/>
+  <instance name="GardenFairy_Sprite" index="0" posX="51" posY="0" anchorX="4" anchorY="4" width="8" height="8"/>
+  <instance name="GardenMushroom2Piece3_Sprite" index="0" posX="60" posY="0" anchorX="4" anchorY="5" width="10" height="10"/>
+  <instance name="GardenFairy_Sprite" index="1" posX="71" posY="0" anchorX="5" anchorY="5" width="10" height="10"/>
+  <instance name="GardenMushroom1Piece2_Sprite" index="0" posX="82" posY="0" anchorX="3" anchorY="6" width="9" height="12"/>
+  <instance name="GardenBat_Sprite" index="0" posX="92" posY="0" anchorX="11" anchorY="-1" width="11" height="11"/>
+  <instance name="GardenLampPost2Piece2_Sprite" index="0" posX="104" posY="0" anchorX="3" anchorY="11" width="6" height="21"/>
+  <instance name="GardenLampPost2Piece1_Sprite" index="1" posX="111" posY="0" anchorX="7.5" anchorY="5.149999999999999" width="16" height="8"/>
+  <instance name="GardenUrn2Piece1_Sprite" index="1" posX="128" posY="0" anchorX="8.15" anchorY="4.350000000000001" width="16" height="8"/>
+  <instance name="GardenBat_Sprite" index="1" posX="145" posY="0" anchorX="10" anchorY="0" width="10" height="13"/>
+  <instance name="FutureCorner_Sprite" index="0" posX="156" posY="0" anchorX="0" anchorY="0" width="10" height="13"/>
+  <instance name="GardenMushroom1Piece3_Sprite" index="0" posX="167" posY="0" anchorX="5.5" anchorY="5.5" width="11" height="12"/>
+  <instance name="GardenBat_Sprite" index="2" posX="179" posY="0" anchorX="11" anchorY="-8" width="11" height="12"/>
+  <instance name="GardenBat_Sprite" index="3" posX="191" posY="0" anchorX="11" anchorY="-7" width="11" height="13"/>
+  <instance name="GardenFairy_Sprite" index="2" posX="203" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="GardenMushroom2Piece2_Sprite" index="0" posX="216" posY="0" anchorX="6" anchorY="4" width="15" height="13"/>
+  <instance name="GardenLeaf2_Sprite" index="0" posX="232" posY="0" anchorX="8.5" anchorY="6.15" width="18" height="11"/>
+  <instance name="CherubStatuePiece4_Sprite" index="0" posX="251" posY="0" anchorX="7.75" anchorY="4.75" width="14" height="15"/>
+  <instance name="FutureCornerL_Sprite" index="0" posX="266" posY="0" anchorX="-1" anchorY="0" width="17" height="13"/>
+  <instance name="GardenLeaf1_Sprite" index="0" posX="284" posY="0" anchorX="8.4" anchorY="6.65" width="16" height="14"/>
+  <instance name="GardenBranch2_Sprite" index="0" posX="301" posY="0" anchorX="0" anchorY="3" width="29" height="8"/>
+  <instance name="GardenBranch7_Sprite" index="0" posX="331" posY="0" anchorX="29" anchorY="3" width="29" height="8"/>
+  <instance name="GardenCrow_Sprite" index="2" posX="361" posY="0" anchorX="16" anchorY="-11" width="16" height="15"/>
+  <instance name="GardenFairy_Sprite" index="3" posX="378" posY="0" anchorX="8" anchorY="8" width="16" height="16"/>
+  <instance name="GardenCrow_Sprite" index="3" posX="395" posY="0" anchorX="16" anchorY="-10" width="16" height="16"/>
+  <instance name="GardenUrn1Piece2_Sprite" index="0" posX="412" posY="0" anchorX="0" anchorY="0" width="20" height="14"/>
+  <instance name="GardenUrn2Piece3_Sprite" index="0" posX="433" posY="0" anchorX="8.25" anchorY="6.5" width="20" height="14"/>
+  <instance name="GardenCrow_Sprite" index="1" posX="454" posY="0" anchorX="16" anchorY="0" width="16" height="18"/>
+  <instance name="GardenUrn1Piece1_Sprite" index="1" posX="471" posY="0" anchorX="9.85" anchorY="7.25" width="20" height="15"/>
+  <instance name="GardenUrn2Piece2_Sprite" index="0" posX="0" posY="11" anchorX="10.5" anchorY="6.75" width="20" height="15"/>
+  <instance name="GardenCrow_Sprite" index="0" posX="21" posY="11" anchorX="16" anchorY="0" width="16" height="19"/>
+  <instance name="GardenMushroom1Piece1_Sprite" index="0" posX="38" posY="9" anchorX="9" anchorY="13.5" width="18" height="17"/>
+  <instance name="GardenMushroom2Piece1_Sprite" index="0" posX="57" posY="11" anchorX="13.25" anchorY="15.55" width="19" height="17"/>
+  <instance name="GardenFairy_Sprite" index="4" posX="77" posY="13" anchorX="9" anchorY="9" width="18" height="18"/>
+  <instance name="GardenLampPost2Piece3_Sprite" index="0" posX="96" posY="22" anchorX="7" anchorY="11.5" width="14" height="24"/>
+  <instance name="CherubStatuePiece2_Sprite" index="0" posX="111" posY="9" anchorX="8.5" anchorY="8.5" width="20" height="17"/>
+  <instance name="GardenPerson_Sprite" index="0" posX="132" posY="14" anchorX="9" anchorY="9" width="18" height="19"/>
+  <instance name="GardenBranch1_Sprite" index="0" posX="151" posY="14" anchorX="0" anchorY="9.25" width="30" height="12"/>
+  <instance name="GardenBranch6_Sprite" index="0" posX="182" posY="14" anchorX="30" anchorY="9.25" width="30" height="12"/>
+  <instance name="CherubStatuePiece1_Sprite" index="1" posX="213" posY="14" anchorX="14" anchorY="5.25" width="29" height="13"/>
+  <instance name="GardenBranch3_Sprite" index="0" posX="243" posY="16" anchorX="0" anchorY="8.65" width="32" height="12"/>
+  <instance name="GardenTrunk1Piece1_Sprite" index="0" posX="276" posY="15" anchorX="12.25" anchorY="7.8" width="24" height="16"/>
+  <instance name="GardenLampPost1Piece2_Sprite" index="0" posX="301" posY="9" anchorX="7.25" anchorY="14" width="14" height="28"/>
+  <instance name="CherubStatuePiece3_Sprite" index="0" posX="316" posY="9" anchorX="4.25" anchorY="19.75" width="10" height="40"/>
+  <instance name="GardenTrunk2Piece1_Sprite" index="0" posX="327" posY="9" anchorX="12.9" anchorY="7.65" width="25" height="16"/>
+  <instance name="GardenLampPost1Piece1_Sprite" index="1" posX="353" posY="16" anchorX="8" anchorY="14.5" width="16" height="27"/>
+  <instance name="GardenCornerL_Sprite" index="0" posX="370" posY="17" anchorX="0" anchorY="0" width="21" height="21"/>
+  <instance name="GardenVine2Piece1_Sprite" index="0" posX="392" posY="17" anchorX="8.05" anchorY="16.2" width="16" height="30"/>
+  <instance name="GardenFairy_Sprite" index="5" posX="409" posY="17" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="GardenBranch4_Sprite" index="0" posX="432" posY="19" anchorX="30.35" anchorY="12.65" width="31" height="16"/>
+  <instance name="GardenBranch5_Sprite" index="0" posX="464" posY="19" anchorX="0.65" anchorY="12.65" width="31" height="16"/>
+  <instance name="GardenVinePiece1_Sprite" index="0" posX="0" posY="27" anchorX="8.55" anchorY="14.7" width="16" height="32"/>
+  <instance name="GardenUrn1Piece1_Sprite" index="0" posX="17" posY="31" anchorX="9.85" anchorY="18.25" width="20" height="26"/>
+  <instance name="GardenUrn2Piece1_Sprite" index="0" posX="38" posY="29" anchorX="10.15" anchorY="18.35" width="24" height="22"/>
+  <instance name="GardenCorner_Sprite" index="0" posX="63" posY="32" anchorX="0" anchorY="0" width="19" height="30"/>
+  <instance name="CherubStatuePiece5_Sprite" index="0" posX="83" posY="47" anchorX="14.75" anchorY="16.5" width="37" height="22"/>
+  <instance name="GardenLampPost1Piece1_Sprite" index="0" posX="121" posY="34" anchorX="8" anchorY="39.5" width="16" height="52"/>
+  <instance name="GardenLampPost2Piece1_Sprite" index="0" posX="138" posY="34" anchorX="7.5" anchorY="49.15" width="16" height="52"/>
+  <instance name="FutureBorder_Sprite" index="0" posX="155" posY="32" anchorX="-1" anchorY="0" width="126" height="12"/>
+  <instance name="GardenBush1_Sprite" index="0" posX="282" posY="50" anchorX="34" anchorY="33" width="68" height="33"/>
+  <instance name="GardenBush2_Sprite" index="0" posX="351" posY="48" anchorX="33.5" anchorY="35" width="67" height="35"/>
+  <instance name="CherubStatuePiece1_Sprite" index="0" posX="419" posY="40" anchorX="16.9" anchorY="49.5" width="43" height="57"/>
+  <instance name="GardenSanta_Sprite" index="0" posX="0" posY="70" anchorX="0" anchorY="0" width="102" height="26"/>
+  <instance name="GardenFloatingRock5_Sprite" index="0" posX="103" posY="87" anchorX="25" anchorY="31.5" width="50" height="63"/>
+  <instance name="GardenFloatingRock3_Sprite" index="0" posX="154" posY="87" anchorX="23.5" anchorY="37" width="47" height="74"/>
+  <instance name="GardenFloatingRock4_Sprite" index="0" posX="202" posY="45" anchorX="24" anchorY="37.5" width="48" height="75"/>
+  <instance name="GardenFloatingRock2_Sprite" index="0" posX="251" posY="84" anchorX="26" anchorY="31.5" width="52" height="74"/>
+  <instance name="GardenBorder_Sprite" index="0" posX="304" posY="98" anchorX="0" anchorY="6" width="128" height="32"/>
+  <instance name="GardenFloatingRock1_Sprite" index="0" posX="433" posY="98" anchorX="28" anchorY="38.5" width="56" height="77"/>
+  <instance name="GardenPillar_Sprite" index="0" posX="0" posY="97" anchorX="0" anchorY="0" width="48" height="128"/>
+  <instance name="GardenFountain_Sprite" index="0" posX="49" posY="162" anchorX="0" anchorY="0" width="115" height="68"/>
+  <instance name="GardenFountain_Sprite" index="1" posX="165" posY="162" anchorX="0" anchorY="0" width="115" height="68"/>
+  <instance name="GardenFountain_Sprite" index="2" posX="281" posY="159" anchorX="0" anchorY="0" width="115" height="68"/>
+  <instance name="GardenFountain_Sprite" index="3" posX="0" posY="231" anchorX="0" anchorY="0" width="115" height="68"/>
+  <instance name="GardenFountain_Sprite" index="4" posX="116" posY="231" anchorX="0" anchorY="0" width="115" height="68"/>
+  <instance name="GardenFountain_Sprite" index="5" posX="232" posY="231" anchorX="0" anchorY="0" width="115" height="68"/>
+  <instance name="GardenDoor_Sprite" index="0" posX="348" posY="228" anchorX="52" anchorY="96" width="104" height="96"/>
+  <instance name="GardenDoorOpen_Sprite" index="0" posX="0" posY="300" anchorX="52" anchorY="96" width="104" height="96"/>
+  <instance name="GardenFG_Sprite" index="0" posX="105" posY="300" anchorX="0" anchorY="0" width="128" height="128"/>
+  <instance name="GardenBG_Sprite" index="0" posX="234" posY="325" anchorX="0.05" anchorY="0.05" width="128" height="128"/>
+  <animation frame="1" name="GardenBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenPillar_Sprite" index="0" duration="3" label=""/>
+  <animation frame="1" name="GardenBranch1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBranch2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBranch3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenBranch4_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenBranch5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBranch6_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBranch7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenLeaf1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenLeaf2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenFG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenCornerL_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenCorner_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CherubStatuePiece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-42" width="41" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CherubStatuePiece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-42" width="41" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CherubStatuePiece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CherubStatuePiece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CherubStatuePiece4_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CherubStatuePiece5_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenFountain_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="GardenFountain_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="GardenFountain_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="GardenFountain_Sprite" index="3" duration="2" label=""/>
+  <animation frame="9" name="GardenFountain_Sprite" index="4" duration="2" label=""/>
+  <animation frame="11" name="GardenFountain_Sprite" index="5" duration="2" label=""/>
+  <animation frame="1" name="GardenVinePiece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-14" width="16" height="32" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="GardenVinePiece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-8" y="-14" width="16" height="32" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="GardenVinePiece2_Sprite" index="0" duration="30" label=""/>
+  <animation frame="1" name="GardenVine2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-15" width="15" height="30" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="GardenVine2Piece1_Sprite" index="1" duration="33" label="">
+    <rectangle x="-7" y="-15" width="15" height="30" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="GardenFloatingRock1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenFloatingRock2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenLampPost1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-38" width="14" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="GardenLampPost1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-7" y="-38" width="14" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="GardenLampPost1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenLampPost2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-6" y="-48" width="15" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="GardenLampPost2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-6" y="-48" width="15" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="GardenLampPost2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenLampPost2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenBush1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBush2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenMushroom1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-13" width="16" height="17" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="GardenMushroom1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-8" y="-13" width="16" height="17" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="GardenMushroom1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenMushroom1Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenMushroom2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-15" width="18" height="17" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="GardenMushroom2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-15" width="18" height="17" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="GardenMushroom2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenMushroom2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenTrunk1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-7" width="24" height="16" rotation="0" type="2"/>
+    <rectangle x="-9" y="-6" width="19" height="14" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="GardenTrunk1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-7" width="24" height="16" rotation="0" type="2"/>
+    <rectangle x="-9" y="-6" width="19" height="14" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="GardenTrunkPiece_Sprite" index="0" duration="18" label=""/>
+  <animation frame="1" name="GardenTrunk2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-6" width="25" height="14" rotation="0" type="2"/>
+    <rectangle x="-9" y="-5" width="21" height="14" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="GardenTrunk2Piece1_Sprite" index="1" duration="21" label="">
+    <rectangle x="-12" y="-6" width="25" height="14" rotation="0" type="2"/>
+    <rectangle x="-9" y="-5" width="21" height="14" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="GardenUrn1Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-9" y="-17" width="20" height="26" rotation="0" type="2"/>
+    <rectangle x="-9" y="-17" width="20" height="26" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="GardenUrn1Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-9" y="-17" width="20" height="26" rotation="0" type="2"/>
+    <rectangle x="-9" y="-17" width="20" height="26" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="GardenUrn1Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenUrn2Piece1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-9" y="-18" width="24" height="22" rotation="0" type="2"/>
+    <rectangle x="-9" y="-17" width="24" height="22" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="GardenUrn2Piece1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-9" y="-18" width="24" height="22" rotation="0" type="2"/>
+    <rectangle x="-9" y="-17" width="24" height="22" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="GardenUrn2Piece2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenUrn2Piece3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="GardenFairy_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="GardenFairy_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="GardenFairy_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="GardenFairy_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="GardenFairy_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="GardenFairy_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="GardenFloatingRock3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenFloatingRock4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenFloatingRock5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenBat_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="GardenBat_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="GardenBat_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="GardenBat_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="GardenPerson_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenSanta_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenCrow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="GardenCrow_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="GardenCrow_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="GardenCrow_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="GardenDoor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GardenDoorOpen_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FutureCorner_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FutureBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FutureCornerL_Sprite" index="0" duration="1" label=""/>
+  <container name="GardenPillar_Character" child="GardenPillar_Sprite" childX="-24" childY="0" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenPillar_Sprite" childX="-24" childY="120" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenPillar_Sprite" childX="-24" childY="240" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenBranch1_Sprite" childX="17.35" childY="29.1" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenBranch2_Sprite" childX="22.35" childY="158.85" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenBranch3_Sprite" childX="13.85" childY="80" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenBranch3_Sprite" childX="20.35" childY="337.5" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenBranch4_Sprite" childX="-18.3" childY="257" childRotation="180"/>
+  <container name="GardenPillar_Character" child="GardenBranch4_Sprite" childX="1.2" childY="54" childRotation="180"/>
+  <container name="GardenPillar_Character" child="GardenBranch5_Sprite" childX="13.5" childY="211" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenBranch6_Sprite" childX="-17.65" childY="306.5" childRotation="180"/>
+  <container name="GardenPillar_Character" child="GardenBranch7_Sprite" childX="-3.8" childY="125.25" childRotation="180"/>
+  <container name="GardenPillar_Character" child="GardenLeaf1_Sprite" childX="-27.75" childY="123.5" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenLeaf2_Sprite" childX="-21" childY="121.5" childRotation="0"/>
+  <container name="GardenPillar_Character" child="GardenLeaf1_Sprite" childX="-20.9" childY="129.9" childRotation="0"/>
+  <container name="CherubStatue_Character" child="CherubStatuePiece1_Sprite" childX="0.75" childY="-9.75" childRotation="0"/>
+  <container name="CherubStatue_Character" child="CherubStatuePiece2_Sprite" childX="2.1" childY="-45.5" childRotation="0"/>
+  <container name="CherubStatue_Character" child="CherubStatuePiece3_Sprite" childX="-12.15" childY="-40.25" childRotation="0"/>
+  <container name="CherubStatue_Character" child="CherubStatuePiece4_Sprite" childX="4.35" childY="-25.25" childRotation="0"/>
+  <container name="CherubStatue_Character" child="CherubStatuePiece5_Sprite" childX="4.35" childY="-33" childRotation="0"/>
+  <container name="GardenFountain_Character" child="GardenFountain_Sprite" childX="-57.50007629394531" childY="-68.02825927734375" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece1_Sprite" childX="0.5" childY="16.4" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="-4.6" childY="5.65" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="2.05" childY="5.05" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="8.05" childY="5.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="-3.7" childY="10.65" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="1.8" childY="10.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="7.05" childY="10.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="-3.95" childY="15.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="1.4" childY="15.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="7.05" childY="14.9" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="-3.7" childY="20.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="1.8" childY="19.9" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="7.8" childY="20.3" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="-2.35" childY="25.55" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="3.05" childY="24.95" childRotation="0"/>
+  <container name="GardenVine1_Character" child="GardenVinePiece2_Sprite" childX="1.05" childY="30.55" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVine2Piece1_Sprite" childX="0.5" childY="17.9" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="-4.65" childY="4.9" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="1" childY="4.75" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="5.7" childY="4.75" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="-4.4" childY="9.9" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="1.15" childY="9.5" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="5.9" childY="9.5" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="-4.65" childY="14.5" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="0.7" childY="14.35" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="5.9" childY="14.15" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="-4.85" childY="19.35" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="0.45" childY="18.75" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="5.35" childY="18.75" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="-5.15" childY="23.85" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="0.85" childY="23.3" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="5.6" childY="23.4" childRotation="0"/>
+  <container name="GardenVine2_Character" child="GardenVinePiece2_Sprite" childX="1.25" childY="28.55" childRotation="0"/>
+  <container name="GardenLampPost1_Character" child="GardenLampPost1Piece1_Sprite" childX="-0.15" childY="-14.5" childRotation="0"/>
+  <container name="GardenLampPost1_Character" child="GardenLampPost1Piece2_Sprite" childX="0.1" childY="-39.5" childRotation="0"/>
+  <container name="GardenLampPost2_Character" child="GardenLampPost2Piece1_Sprite" childX="-0.65" childY="-4" childRotation="0"/>
+  <container name="GardenLampPost2_Character" child="GardenLampPost2Piece2_Sprite" childX="-0.15" childY="-19" childRotation="0"/>
+  <container name="GardenLampPost2_Character" child="GardenLampPost2Piece3_Sprite" childX="-0.15" childY="-41.5" childRotation="0"/>
+  <container name="GardenMushroom1_Character" child="GardenMushroom1Piece1_Sprite" childX="0.1" childY="-5.5" childRotation="0"/>
+  <container name="GardenMushroom1_Character" child="GardenMushroom1Piece2_Sprite" childX="3" childY="-12.8" childRotation="0"/>
+  <container name="GardenMushroom1_Character" child="GardenMushroom1Piece3_Sprite" childX="-3.5" childY="-13.4" childRotation="0"/>
+  <container name="GardenMushroom2_Character" child="GardenMushroom2Piece1_Sprite" childX="1.85" childY="-3.35" childRotation="0"/>
+  <container name="GardenMushroom2_Character" child="GardenMushroom2Piece2_Sprite" childX="-5.15" childY="-14.6" childRotation="0"/>
+  <container name="GardenMushroom2_Character" child="GardenMushroom2Piece3_Sprite" childX="1.6" childY="-10.6" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunk1Piece1_Sprite" childX="-0.25" childY="-10.35" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="-8.5" childY="-11.6" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="-4.5" childY="-11.15" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="0.05" childY="-12.15" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="5.4" childY="-11.6" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="8.95" childY="-8.55" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="-3.05" childY="-6.9" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="0.95" childY="-6.25" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="4.4" childY="-7.65" childRotation="0"/>
+  <container name="GardenTrunk1_Character" child="GardenTrunkPiece_Sprite" childX="-7.95" childY="-4.9" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunk2Piece1_Sprite" childX="-0.2" childY="-10.35" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="-9.65" childY="-11.95" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="-4.35" childY="-11.95" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="-0.7" childY="-12.65" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="3.3" childY="-11.25" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="8.2" childY="-11.95" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="-8.35" childY="-6.5" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="-4.7" childY="-6.75" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="-0.35" childY="-6.5" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="3.65" childY="-6.5" childRotation="0"/>
+  <container name="GardenTrunk2_Character" child="GardenTrunkPiece_Sprite" childX="7.65" childY="-6.75" childRotation="0"/>
+  <container name="GardenUrn1_Character" child="GardenUrn1Piece1_Sprite" childX="-0.15" childY="-9.5" childRotation="0"/>
+  <container name="GardenUrn1_Character" child="GardenUrn1Piece2_Sprite" childX="-9.4" childY="-28" childRotation="0"/>
+  <container name="GardenUrn2_Character" child="GardenUrn2Piece1_Sprite" childX="-2" childY="-5.25" childRotation="0"/>
+  <container name="GardenUrn2_Character" child="GardenUrn2Piece2_Sprite" childX="2.75" childY="-13.25" childRotation="0"/>
+  <container name="GardenUrn2_Character" child="GardenUrn2Piece3_Sprite" childX="-3.25" childY="-17.5" childRotation="0"/>
+  <container name="GardenFairy_Character" child="GardenFairy_Sprite" childX="0" childY="0" childRotation="0"/>
+</xml>

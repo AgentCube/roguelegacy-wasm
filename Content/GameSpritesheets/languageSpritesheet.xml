@@ -1,0 +1,198 @@
+<xml>
+  <instance name="ProfileSlot1Text_Sprite_DE" index="0" posX="0" posY="0" anchorX="40" anchorY="13" width="81" height="26"/>
+  <instance name="ProfileSlot2Text_Sprite_DE" index="0" posX="82" posY="0" anchorX="41" anchorY="13" width="82" height="26"/>
+  <instance name="ProfileSlot3Text_Sprite_DE" index="0" posX="165" posY="0" anchorX="41" anchorY="13" width="82" height="26"/>
+  <instance name="ProfileSlot1Text_Sprite_ZH" index="0" posX="248" posY="0" anchorX="32" anchorY="17" width="65" height="34"/>
+  <instance name="ProfileSlot2Text_Sprite_ZH" index="0" posX="314" posY="0" anchorX="33" anchorY="17" width="66" height="34"/>
+  <instance name="ProfileSlot3Text_Sprite_ZH" index="0" posX="381" posY="0" anchorX="33" anchorY="17" width="66" height="34"/>
+  <instance name="BlacksmithUI_Title_Sprite_ZH" index="0" posX="448" posY="0" anchorX="37" anchorY="20" width="75" height="39"/>
+  <instance name="ProfileSlot1Text_Sprite_SP" index="0" posX="524" posY="0" anchorX="52" anchorY="14" width="105" height="28"/>
+  <instance name="EnchantressUI_Title_Sprite_ZH" index="0" posX="630" posY="0" anchorX="37" anchorY="20" width="74" height="40"/>
+  <instance name="OptionsScreenTitle_Sprite_ZH" index="0" posX="705" posY="0" anchorX="38" anchorY="20" width="76" height="39"/>
+  <instance name="ProfileSlot2Text_Sprite_SP" index="0" posX="782" posY="0" anchorX="53" anchorY="14" width="106" height="28"/>
+  <instance name="ProfileSlot3Text_Sprite_SP" index="0" posX="889" posY="0" anchorX="53" anchorY="14" width="106" height="28"/>
+  <instance name="BlacksmithUI_Title_Sprite_PO" index="0" posX="996" posY="0" anchorX="53" anchorY="15" width="107" height="30"/>
+  <instance name="OptionsScreenTitle_Sprite_PO" index="0" posX="1104" posY="0" anchorX="48" anchorY="17" width="96" height="35"/>
+  <instance name="ProfileSlot1Text_Sprite_PO" index="0" posX="1201" posY="0" anchorX="55" anchorY="15" width="110" height="31"/>
+  <instance name="ProfileSlot3Text_Sprite_PO" index="0" posX="1312" posY="0" anchorX="55" anchorY="15" width="110" height="31"/>
+  <instance name="ProfileSlot2Text_Sprite_PO" index="0" posX="1423" posY="0" anchorX="55" anchorY="15" width="111" height="31"/>
+  <instance name="ProfileSlot1Text_Sprite_RU" index="0" posX="1535" posY="0" anchorX="57" anchorY="15" width="114" height="31"/>
+  <instance name="ProfileSlot3Text_Sprite_RU" index="0" posX="1650" posY="0" anchorX="57" anchorY="15" width="114" height="31"/>
+  <instance name="ProfileSlot2Text_Sprite_RU" index="0" posX="1765" posY="0" anchorX="57" anchorY="15" width="115" height="31"/>
+  <instance name="ProfileSlot1Text_Sprite_BR" index="0" posX="1881" posY="0" anchorX="55" anchorY="17" width="110" height="35"/>
+  <instance name="ProfileSlot3Text_Sprite_BR" index="0" posX="0" posY="27" anchorX="55" anchorY="17" width="111" height="35"/>
+  <instance name="ProfileSlot2Text_Sprite_BR" index="0" posX="112" posY="27" anchorX="56" anchorY="17" width="112" height="35"/>
+  <instance name="OptionsScreenTitle_Sprite_FR" index="0" posX="225" posY="35" anchorX="67" anchorY="15" width="133" height="30"/>
+  <instance name="BlacksmithUI_Title_Sprite_RU" index="0" posX="359" posY="40" anchorX="55" anchorY="20" width="110" height="39"/>
+  <instance name="OptionsScreenTitle_Sprite_SP" index="0" posX="470" posY="40" anchorX="76" anchorY="15" width="152" height="30"/>
+  <instance name="OptionsScreenTitle_Sprite_BR" index="0" posX="623" posY="41" anchorX="60" anchorY="20" width="120" height="39"/>
+  <instance name="OptionsScreenTitle_Sprite_DE" index="0" posX="744" posY="40" anchorX="79" anchorY="15" width="158" height="30"/>
+  <instance name="BlacksmithUI_Title_Sprite_BR" index="0" posX="903" posY="31" anchorX="90" anchorY="15" width="180" height="30"/>
+  <instance name="ProfileSlot1Text_Sprite_FR" index="0" posX="1084" posY="36" anchorX="97" anchorY="14" width="195" height="28"/>
+  <instance name="ProfileSlot2Text_Sprite_FR" index="0" posX="1280" posY="32" anchorX="98" anchorY="14" width="196" height="28"/>
+  <instance name="ProfileSlot3Text_Sprite_FR" index="0" posX="1477" posY="32" anchorX="98" anchorY="14" width="196" height="28"/>
+  <instance name="BlacksmithUI_Title_Sprite_SP" index="0" posX="1674" posY="32" anchorX="91" anchorY="15" width="183" height="30"/>
+  <instance name="OptionsScreenChangeControls_Sprite_ZH" index="0" posX="1858" posY="36" anchorX="73" anchorY="19" width="146" height="38"/>
+  <instance name="EnchantressUI_Title_Sprite_BR" index="0" posX="0" posY="63" anchorX="99" anchorY="15" width="188" height="30"/>
+  <instance name="EnchantressUI_Title_Sprite_RU" index="0" posX="189" posY="66" anchorX="75" anchorY="20" width="151" height="39"/>
+  <instance name="EnchantressUI_Title_Sprite_DE" index="0" posX="341" posY="80" anchorX="100" anchorY="15" width="201" height="30"/>
+  <instance name="BlacksmithUI_Title_Sprite_FR" index="0" posX="543" posY="81" anchorX="101" anchorY="15" width="203" height="30"/>
+  <instance name="BlacksmithUI_Title_Sprite_DE" index="0" posX="747" posY="71" anchorX="105" anchorY="15" width="209" height="30"/>
+  <instance name="OptionsScreenTitle_Sprite_RU" index="0" posX="957" posY="65" anchorX="87" anchorY="20" width="174" height="39"/>
+  <instance name="EnchantressUI_Title_Sprite_SP" index="0" posX="1132" posY="65" anchorX="126" anchorY="15" width="253" height="30"/>
+  <instance name="EnchantressUI_Title_Sprite_PO" index="0" posX="1386" posY="61" anchorX="111" anchorY="17" width="223" height="35"/>
+  <instance name="EnchantressUI_Title_Sprite_FR" index="0" posX="1610" posY="75" anchorX="125" anchorY="16" width="249" height="32"/>
+  <instance name="OptionsScreenChangeControls_Sprite_BR" index="0" posX="0" posY="106" anchorX="156" anchorY="15" width="295" height="30"/>
+  <instance name="OptionsScreenChangeControls_Sprite_PO" index="0" posX="296" posY="112" anchorX="145" anchorY="15" width="291" height="31"/>
+  <instance name="OptionsScreenChangeControls_Sprite_DE" index="0" posX="588" posY="112" anchorX="150" anchorY="15" width="301" height="30"/>
+  <instance name="OptionsScreenChangeControls_Sprite_SP" index="0" posX="890" posY="105" anchorX="158" anchorY="15" width="317" height="30"/>
+  <instance name="OptionsScreenChangeControls_Sprite_FR" index="0" posX="1208" posY="97" anchorX="175" anchorY="15" width="350" height="30"/>
+  <instance name="OptionsScreenChangeControls_Sprite_RU" index="0" posX="1559" posY="108" anchorX="160" anchorY="20" width="320" height="39"/>
+  <instance name="ClassUnlockedText_Sprite_RU" index="0" posX="0" posY="137" anchorX="112" anchorY="80" width="225" height="160"/>
+  <instance name="ProfileSelectTitle_Sprite_ZH" index="0" posX="226" posY="144" anchorX="215" anchorY="44" width="430" height="87"/>
+  <instance name="ProfileSelectTitle_Sprite_BR" index="0" posX="657" posY="143" anchorX="215" anchorY="44" width="430" height="88"/>
+  <instance name="ProfileSelectTitle_Sprite_DE" index="0" posX="1088" posY="136" anchorX="215" anchorY="44" width="430" height="88"/>
+  <instance name="ProfileSelectTitle_Sprite_FR" index="0" posX="1519" posY="148" anchorX="215" anchorY="44" width="430" height="88"/>
+  <instance name="ProfileSelectTitle_Sprite_PO" index="0" posX="0" posY="298" anchorX="215" anchorY="44" width="430" height="88"/>
+  <instance name="ProfileSelectTitle_Sprite_RU" index="0" posX="431" posY="232" anchorX="215" anchorY="44" width="430" height="88"/>
+  <instance name="ProfileSelectTitle_Sprite_SP" index="0" posX="862" posY="232" anchorX="215" anchorY="44" width="430" height="88"/>
+  <instance name="LineageTitleText_Sprite_ZH" index="0" posX="1293" posY="237" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="LineageTitleText_Sprite_SP" index="0" posX="0" posY="387" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="LineageTitleText_Sprite_RU" index="0" posX="457" posY="321" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="LineageTitleText_Sprite_PO" index="0" posX="914" posY="330" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="LineageTitleText_Sprite_FR" index="0" posX="1371" posY="330" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="LineageTitleText_Sprite_DE" index="0" posX="0" posY="480" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="LineageTitleText_Sprite_BR" index="0" posX="457" posY="414" anchorX="228" anchorY="46" width="456" height="92"/>
+  <instance name="DeathDefyText_Sprite_PO" index="0" posX="914" posY="423" anchorX="230" anchorY="61" width="459" height="123"/>
+  <instance name="ArchitectUnlockedText_Sprite_FR" index="0" posX="1374" posY="423" anchorX="218" anchorY="66" width="437" height="133"/>
+  <instance name="ClassUpgradedText_Sprite_PO" index="0" posX="0" posY="573" anchorX="172" anchorY="89" width="344" height="178"/>
+  <instance name="BlueprintFoundText_Sprite_ZH" index="0" posX="345" posY="573" anchorX="218" anchorY="70" width="436" height="141"/>
+  <instance name="ArchitectUnlockedText_Sprite_RU" index="0" posX="782" posY="547" anchorX="174" anchorY="88" width="348" height="177"/>
+  <instance name="ClassUnlockedText_Sprite_FR" index="0" posX="1131" posY="557" anchorX="220" anchorY="70" width="439" height="141"/>
+  <instance name="ArchitectUnlockedText_Sprite_ZH" index="0" posX="1571" posY="557" anchorX="229" anchorY="68" width="458" height="136"/>
+  <instance name="ClassUpgradedText_Sprite_ZH" index="0" posX="0" posY="752" anchorX="221" anchorY="70" width="443" height="141"/>
+  <instance name="ClassUnlockedText_Sprite_ZH" index="0" posX="444" posY="725" anchorX="220" anchorY="71" width="441" height="142"/>
+  <instance name="ClassUpgradedText_Sprite_RU" index="0" posX="886" posY="725" anchorX="153" anchorY="102" width="307" height="205"/>
+  <instance name="BlueprintFoundText_Sprite_RU" index="0" posX="1194" posY="699" anchorX="164" anchorY="96" width="328" height="193"/>
+  <instance name="BlueprintFoundText_Sprite_SP" index="0" posX="1523" posY="699" anchorX="230" anchorY="70" width="461" height="141"/>
+  <instance name="ArchitectUnlockedText_Sprite_SP" index="0" posX="0" posY="894" anchorX="228" anchorY="71" width="457" height="143"/>
+  <instance name="BlueprintFoundText_Sprite_BR" index="0" posX="458" posY="931" anchorX="230" anchorY="71" width="461" height="142"/>
+  <instance name="ArchitectUnlockedText_Sprite_DE" index="0" posX="920" posY="931" anchorX="230" anchorY="72" width="459" height="145"/>
+  <instance name="ClassUnlockedText_Sprite_DE" index="0" posX="1380" posY="893" anchorX="230" anchorY="72" width="461" height="145"/>
+  <instance name="ClassUnlockedText_Sprite_BR" index="0" posX="0" posY="1038" anchorX="223" anchorY="75" width="446" height="150"/>
+  <instance name="ClassUnlockedText_Sprite_SP" index="0" posX="447" posY="1074" anchorX="223" anchorY="75" width="446" height="150"/>
+  <instance name="ArchitectUnlockedText_Sprite_BR" index="0" posX="894" posY="1077" anchorX="230" anchorY="62" width="461" height="147"/>
+  <instance name="DeathDefyText_Sprite_ZH" index="0" posX="1356" posY="1077" anchorX="222" anchorY="78" width="445" height="157"/>
+  <instance name="DeathDefyText_Sprite_RU" index="0" posX="0" posY="1189" anchorX="191" anchorY="97" width="382" height="194"/>
+  <instance name="ClassUnlockedText_Sprite_PO" index="0" posX="383" posY="1225" anchorX="213" anchorY="87" width="426" height="174"/>
+  <instance name="BlueprintFoundText_Sprite_PO" index="0" posX="810" posY="1225" anchorX="215" anchorY="86" width="431" height="172"/>
+  <instance name="ClassUpgradedText_Sprite_BR" index="0" posX="1242" posY="1235" anchorX="222" anchorY="85" width="445" height="169"/>
+  <instance name="ArchitectUnlockedText_Sprite_PO" index="0" posX="0" posY="1400" anchorX="225" anchorY="84" width="449" height="168"/>
+  <instance name="ClassUpgradedText_Sprite_DE" index="0" posX="450" posY="1400" anchorX="230" anchorY="88" width="461" height="176"/>
+  <instance name="DeathDefyText_Sprite_SP" index="0" posX="912" posY="1405" anchorX="218" anchorY="95" width="436" height="189"/>
+  <instance name="ClassUpgradedText_Sprite_FR" index="0" posX="1349" posY="1405" anchorX="230" anchorY="90" width="461" height="180"/>
+  <instance name="ClassUpgradedText_Sprite_SP" index="0" posX="0" posY="1577" anchorX="227" anchorY="95" width="455" height="189"/>
+  <instance name="BlueprintFoundText_Sprite_FR" index="0" posX="456" posY="1595" anchorX="230" anchorY="96" width="461" height="193"/>
+  <instance name="DeathDefyText_Sprite_BR" index="0" posX="918" posY="1595" anchorX="227" anchorY="100" width="454" height="199"/>
+  <instance name="DeathDefyText_Sprite_FR" index="0" posX="1373" posY="1586" anchorX="207" anchorY="110" width="415" height="220"/>
+  <instance name="BlueprintFoundText_Sprite_DE" index="0" posX="0" posY="1789" anchorX="230" anchorY="100" width="461" height="199"/>
+  <instance name="DeathDefyText_Sprite_DE" index="0" posX="462" posY="1795" anchorX="230" anchorY="102" width="460" height="204"/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSelectTitle_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot1Text_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot2Text_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ProfileSlot3Text_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenTitle_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="OptionsScreenChangeControls_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlacksmithUI_Title_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnchantressUI_Title_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ArchitectUnlockedText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="LineageTitleText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUnlockedText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="ClassUpgradedText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="DeathDefyText_Sprite_BR" index="0" duration="1" label=""/>
+</xml>

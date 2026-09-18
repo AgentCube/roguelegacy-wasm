@@ -1,0 +1,44 @@
+<xml>
+  <instance name="CriticalText_Sprite_ZH" index="0" posX="0" posY="0" anchorX="54" anchorY="25" width="115" height="51"/>
+  <instance name="CriticalText_Sprite_RU" index="0" posX="116" posY="0" anchorX="75" anchorY="17" width="150" height="41"/>
+  <instance name="CriticalText_Sprite_PO" index="0" posX="267" posY="0" anchorX="75" anchorY="19" width="149" height="44"/>
+  <instance name="CriticalText_Sprite_FR" index="0" posX="417" posY="0" anchorX="71" anchorY="23" width="141" height="48"/>
+  <instance name="CriticalText_Sprite_BR" index="0" posX="559" posY="0" anchorX="71" anchorY="25" width="141" height="49"/>
+  <instance name="CriticalText_Sprite_SP" index="0" posX="701" posY="0" anchorX="71" anchorY="25" width="141" height="49"/>
+  <instance name="CriticalText_Sprite_DE" index="0" posX="843" posY="0" anchorX="74" anchorY="23" width="148" height="48"/>
+  <instance name="GamePausedTitleText_Sprite_ZH" index="0" posX="0" posY="52" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="GamePausedTitleText_Sprite_SP" index="0" posX="343" posY="50" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="GamePausedTitleText_Sprite_RU" index="0" posX="0" posY="141" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="GamePausedTitleText_Sprite_PO" index="0" posX="343" posY="139" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="GamePausedTitleText_Sprite_FR" index="0" posX="0" posY="230" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="GamePausedTitleText_Sprite_DE" index="0" posX="343" posY="228" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="GamePausedTitleText_Sprite_BR" index="0" posX="0" posY="319" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_ZH" index="0" posX="343" posY="317" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_SP" index="0" posX="0" posY="408" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_RU" index="0" posX="343" posY="406" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_PO" index="0" posX="0" posY="497" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_FR" index="0" posX="343" posY="495" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_DE" index="0" posX="0" posY="586" anchorX="171" anchorY="44" width="342" height="88"/>
+  <instance name="DiaryEntryTitleText_Sprite_BR" index="0" posX="343" posY="584" anchorX="171" anchorY="44" width="342" height="88"/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamePausedTitleText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_ZH" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="DiaryEntryTitleText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_BR" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_DE" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_FR" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_PO" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_RU" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_SP" index="0" duration="1" label=""/>
+  <animation frame="1" name="CriticalText_Sprite_ZH" index="0" duration="1" label=""/>
+</xml>

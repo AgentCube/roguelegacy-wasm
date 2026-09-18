@@ -1,0 +1,160 @@
+<xml>
+  <instance name="MapPlayerIcon_Sprite" index="0" posX="0" posY="0" anchorX="-4" anchorY="-4" width="6" height="6"/>
+  <instance name="MapPlayerIcon_Sprite" index="1" posX="7" posY="0" anchorX="-3" anchorY="-3" width="8" height="8"/>
+  <instance name="MapDoor_Sprite" index="0" posX="16" posY="0" anchorX="0" anchorY="0" width="7" height="10"/>
+  <instance name="MapPlayerIcon_Sprite" index="2" posX="24" posY="0" anchorX="-2" anchorY="-2" width="10" height="10"/>
+  <instance name="MapPlayerIcon_Sprite" index="3" posX="35" posY="0" anchorX="0" anchorY="0" width="14" height="14"/>
+  <instance name="MPBar_Sprite" index="0" posX="50" posY="0" anchorX="0" anchorY="0" width="32" height="12"/>
+  <instance name="MapTeleporterIcon_Sprite" index="0" posX="83" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapTeleporterIcon_Sprite" index="1" posX="104" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapTeleporterIcon_Sprite" index="3" posX="125" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapLockedChestIcon_Sprite" index="0" posX="146" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapLockedChestIcon_Sprite" index="1" posX="167" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapLockedChestIcon_Sprite" index="3" posX="188" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapFairyChestIcon_Sprite" index="0" posX="209" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapFairyChestIcon_Sprite" index="1" posX="230" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapFairyChestIcon_Sprite" index="3" posX="251" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapChestUnlocked_Sprite" index="0" posX="272" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapBossIcon_Sprite" index="0" posX="293" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapBossIcon_Sprite" index="1" posX="314" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapBossIcon_Sprite" index="3" posX="335" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapBonusIcon_Sprite" index="0" posX="356" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapBonusIcon_Sprite" index="1" posX="377" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapBonusIcon_Sprite" index="3" posX="398" posY="0" anchorX="-1" anchorY="-1" width="20" height="20"/>
+  <instance name="MapTeleporterIcon_Sprite" index="2" posX="419" posY="0" anchorX="0" anchorY="0" width="22" height="22"/>
+  <instance name="MapLockedChestIcon_Sprite" index="2" posX="442" posY="0" anchorX="0" anchorY="0" width="22" height="22"/>
+  <instance name="MapFairyChestIcon_Sprite" index="2" posX="465" posY="0" anchorX="0" anchorY="0" width="22" height="22"/>
+  <instance name="MapBossIcon_Sprite" index="2" posX="488" posY="0" anchorX="0" anchorY="0" width="22" height="22"/>
+  <instance name="MapBonusIcon_Sprite" index="2" posX="511" posY="0" anchorX="0" anchorY="0" width="22" height="22"/>
+  <instance name="PlayerHUDLvlText_Sprite" index="0" posX="534" posY="0" anchorX="0" anchorY="0" width="27" height="19"/>
+  <instance name="PlayerUICoin_Sprite" index="0" posX="562" posY="0" anchorX="0" anchorY="0" width="22" height="26"/>
+  <instance name="HPBar_Sprite" index="0" posX="585" posY="0" anchorX="0" anchorY="0" width="32" height="20"/>
+  <instance name="MPBarLeft_Sprite" index="0" posX="618" posY="0" anchorX="0" anchorY="0" width="32" height="24"/>
+  <instance name="MPBarMid_Sprite" index="0" posX="651" posY="0" anchorX="0" anchorY="0" width="32" height="24"/>
+  <instance name="MPBarRight_Sprite" index="0" posX="684" posY="0" anchorX="0" anchorY="0" width="32" height="24"/>
+  <instance name="HPBarLeft_Sprite" index="0" posX="717" posY="0" anchorX="0" anchorY="0" width="32" height="34"/>
+  <instance name="HPBarMid_Sprite" index="0" posX="750" posY="0" anchorX="0" anchorY="0" width="32" height="34"/>
+  <instance name="HPBarRight_Sprite" index="0" posX="783" posY="0" anchorX="0" anchorY="0" width="32" height="34"/>
+  <instance name="GamepadStartButton_Sprite" index="0" posX="816" posY="0" anchorX="25" anchorY="14.35" width="50" height="28"/>
+  <instance name="GamepadBackButton_Sprite" index="0" posX="867" posY="0" anchorX="25" anchorY="14.35" width="50" height="28"/>
+  <instance name="MapRoom1x1_Sprite" index="0" posX="918" posY="0" anchorX="0" anchorY="0" width="60" height="32"/>
+  <instance name="EnemyHPBar_Sprite" index="0" posX="0" posY="21" anchorX="0" anchorY="0" width="200" height="10"/>
+  <instance name="MapRoom2x1_Sprite" index="0" posX="201" posY="21" anchorX="0" anchorY="0" width="120" height="32"/>
+  <instance name="MapRoom1x2_Sprite" index="0" posX="322" posY="21" anchorX="0" anchorY="0" width="60" height="64"/>
+  <instance name="GamepadRightStick_Sprite" index="0" posX="383" posY="23" anchorX="32" anchorY="31" width="64" height="62"/>
+  <instance name="GamepadLeftStick_Sprite" index="0" posX="448" posY="23" anchorX="32" anchorY="31" width="64" height="62"/>
+  <instance name="GamepadRightButton_Sprite" index="0" posX="513" posY="27" anchorX="50" anchorY="20.5" width="100" height="40"/>
+  <instance name="GamepadLeftButton_Sprite" index="0" posX="614" posY="25" anchorX="50" anchorY="20" width="100" height="40"/>
+  <instance name="GamepadYButton_Sprite" index="0" posX="715" posY="35" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadXButton_Sprite" index="0" posX="780" posY="35" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadUpArrow_Sprite" index="0" posX="845" posY="29" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadRightArrow_Sprite" index="0" posX="910" posY="33" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadLeftArrow_Sprite" index="0" posX="0" posY="32" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadDownArrow_Sprite" index="0" posX="65" posY="32" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadBButton_Sprite" index="0" posX="130" posY="32" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="GamepadAButton_Sprite" index="0" posX="195" posY="54" anchorX="32" anchorY="32" width="64" height="64"/>
+  <instance name="MapRoom3x1_Sprite" index="0" posX="260" posY="86" anchorX="0" anchorY="0" width="180" height="32"/>
+  <instance name="MapRoom1x3_Sprite" index="0" posX="441" posY="86" anchorX="0" anchorY="0" width="60" height="96"/>
+  <instance name="GamepadLeftTrigger_Sprite" index="0" posX="502" posY="86" anchorX="33" anchorY="54.2" width="66" height="107"/>
+  <instance name="GamepadRightTrigger_Sprite" index="0" posX="569" posY="68" anchorX="33" anchorY="54.2" width="66" height="108"/>
+  <instance name="EnemyHUD_Sprite" index="0" posX="636" posY="100" anchorX="0" anchorY="0" width="216" height="35"/>
+  <instance name="MapRoom2x2_Sprite" index="0" posX="853" posY="98" anchorX="0" anchorY="0" width="120" height="64"/>
+  <instance name="MapRoom1x4_Sprite" index="0" posX="0" posY="97" anchorX="0" anchorY="0" width="60" height="128"/>
+  <instance name="MouseLeftButton_Sprite" index="0" posX="61" posY="97" anchorX="36.45" anchorY="54" width="72" height="108"/>
+  <instance name="MouseRightButton_Sprite" index="0" posX="134" posY="119" anchorX="36.45" anchorY="54" width="72" height="108"/>
+  <instance name="MouseMiddleButton_Sprite" index="0" posX="207" posY="119" anchorX="36.45" anchorY="54" width="72" height="108"/>
+  <instance name="KeyboardButton_Sprite" index="0" posX="280" posY="119" anchorX="47" anchorY="44" width="94" height="88"/>
+  <instance name="KeyboardArrowDown_Sprite" index="0" posX="375" posY="183" anchorX="47" anchorY="44" width="94" height="88"/>
+  <instance name="KeyboardArrowLeft_Sprite" index="0" posX="470" posY="194" anchorX="47" anchorY="44" width="94" height="88"/>
+  <instance name="KeyboardArrowRight_Sprite" index="0" posX="565" posY="194" anchorX="47" anchorY="44" width="94" height="88"/>
+  <instance name="KeyboardArrowUp_Sprite" index="0" posX="660" posY="136" anchorX="47" anchorY="44" width="94" height="88"/>
+  <instance name="MapRoom3x2_Sprite" index="0" posX="755" posY="163" anchorX="0" anchorY="0" width="180" height="64"/>
+  <instance name="MapRoom2x3_Sprite" index="0" posX="0" posY="226" anchorX="0" anchorY="0" width="120" height="96"/>
+  <instance name="KeyboardButtonLong_Sprite" index="0" posX="121" posY="228" anchorX="77" anchorY="44" width="154" height="88"/>
+  <instance name="MapMask_Sprite" index="0" posX="276" posY="283" anchorX="0" anchorY="0" width="200" height="100"/>
+  <instance name="KeyboardSpacebar_Sprite" index="0" posX="477" posY="283" anchorX="142" anchorY="44" width="284" height="88"/>
+  <instance name="MapRoom4x4_Sprite" index="0" posX="762" posY="228" anchorX="0" anchorY="0" width="240" height="128"/>
+  <instance name="TeleporterTitleText_Sprite" index="0" posX="0" posY="384" anchorX="239" anchorY="44" width="478" height="88"/>
+  <animation frame="1" name="MapTeleporterIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="MapTeleporterIcon_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="MapTeleporterIcon_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="MapTeleporterIcon_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="MapRoom3x2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom3x1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom2x3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom2x2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom2x1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom1x3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom1x2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapRoom1x1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapPlayerIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="MapPlayerIcon_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="MapPlayerIcon_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="MapPlayerIcon_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="MapLockedChestIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="MapLockedChestIcon_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="MapLockedChestIcon_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="MapLockedChestIcon_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="MapFairyChestIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="MapFairyChestIcon_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="MapFairyChestIcon_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="MapFairyChestIcon_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="MapDoor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapChestUnlocked_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapBossIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="MapBossIcon_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="MapBossIcon_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="MapBossIcon_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="MapRoom1x4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapMask_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MapBonusIcon_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="MapBonusIcon_Sprite" index="1" duration="2" label=""/>
+  <animation frame="5" name="MapBonusIcon_Sprite" index="2" duration="2" label=""/>
+  <animation frame="7" name="MapBonusIcon_Sprite" index="3" duration="2" label=""/>
+  <animation frame="1" name="MapRoom4x4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterTitleText_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyHPBar_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyHUD_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerHUDLvlText_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerUICoin_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadYButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadXButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadStartButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadRightTrigger_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadRightStick_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadRightButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadLeftTrigger_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadLeftStick_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadLeftButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadUpArrow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadRightArrow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadLeftArrow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadDownArrow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadBButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadAButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GamepadBackButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardButtonLong_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardSpacebar_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardArrowDown_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardArrowLeft_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardArrowRight_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="KeyboardArrowUp_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="HPBar_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MPBar_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MPBarLeft_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MPBarMid_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MPBarRight_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="HPBarLeft_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="HPBarMid_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="HPBarRight_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MouseLeftButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MouseRightButton_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MouseMiddleButton_Sprite" index="0" duration="1" label=""/>
+  <container name="PlayerHUDMPBar_Character" child="MPBarLeft_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="PlayerHUDMPBar_Character" child="MPBarMid_Sprite" childX="32" childY="0" childRotation="0"/>
+  <container name="PlayerHUDMPBar_Character" child="MPBarRight_Sprite" childX="64" childY="0" childRotation="0"/>
+  <container name="PlayerHUDHPBar_Character" child="HPBarLeft_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="PlayerHUDHPBar_Character" child="HPBarMid_Sprite" childX="32" childY="0" childRotation="0"/>
+  <container name="PlayerHUDHPBar_Character" child="HPBarRight_Sprite" childX="64" childY="0" childRotation="0"/>
+</xml>

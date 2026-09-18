@@ -1,0 +1,76 @@
+<xml>
+  <instance name="FramePicture1_Sprite" index="0" posX="0" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture10_Sprite" index="0" posX="37" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture11_Sprite" index="0" posX="74" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture12_Sprite" index="0" posX="111" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture13_Sprite" index="0" posX="148" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture14_Sprite" index="0" posX="185" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture15_Sprite" index="0" posX="222" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture16_Sprite" index="0" posX="259" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture2_Sprite" index="0" posX="296" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture3_Sprite" index="0" posX="333" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture4_Sprite" index="0" posX="370" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture5_Sprite" index="0" posX="407" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture6_Sprite" index="0" posX="444" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture7_Sprite" index="0" posX="481" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture8_Sprite" index="0" posX="518" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="FramePicture9_Sprite" index="0" posX="555" posY="0" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="Judson_Sprite" index="0" posX="592" posY="0" anchorX="20" anchorY="23" width="40" height="47"/>
+  <instance name="Gordon_Sprite" index="0" posX="633" posY="0" anchorX="21.5" anchorY="23" width="43" height="46"/>
+  <instance name="Kenny_Sprite" index="0" posX="677" posY="0" anchorX="27" anchorY="21" width="54" height="42"/>
+  <instance name="Teddy_Sprite" index="0" posX="732" posY="0" anchorX="24" anchorY="28" width="48" height="57"/>
+  <instance name="MC_Sprite" index="0" posX="781" posY="0" anchorX="31" anchorY="27" width="61" height="54"/>
+  <instance name="Glauber_Sprite" index="0" posX="843" posY="0" anchorX="37" anchorY="29" width="74" height="59"/>
+  <instance name="StainGlassWindowBricks_Sprite" index="0" posX="918" posY="0" anchorX="0" anchorY="0" width="240" height="22"/>
+  <instance name="GiantPortrait_Sprite" index="0" posX="1159" posY="0" anchorX="73" anchorY="98" width="146" height="196"/>
+  <instance name="Portrait2_Sprite" index="0" posX="1306" posY="0" anchorX="97" anchorY="139.5" width="194" height="279"/>
+  <instance name="Portrait0_Sprite" index="0" posX="1501" posY="0" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait1_Sprite" index="0" posX="1696" posY="0" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait3_Sprite" index="0" posX="0" posY="49" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait5_Sprite" index="0" posX="195" posY="49" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait4_Sprite" index="0" posX="390" posY="49" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait6_Sprite" index="0" posX="585" posY="58" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait7_Sprite" index="0" posX="780" posY="60" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="Portrait8_Sprite" index="0" posX="975" posY="197" anchorX="97" anchorY="146.5" width="194" height="293"/>
+  <instance name="StainGlassWindow1_Sprite" index="0" posX="1170" posY="280" anchorX="0" anchorY="0" width="230" height="340"/>
+  <instance name="StainGlassWindow2_Sprite" index="0" posX="1401" posY="294" anchorX="0" anchorY="0" width="230" height="340"/>
+  <instance name="StainGlassWindow3_Sprite" index="0" posX="1632" posY="294" anchorX="0" anchorY="0" width="230" height="340"/>
+  <instance name="StainGlassBorder_Sprite" index="0" posX="0" posY="343" anchorX="0" anchorY="0" width="240" height="350"/>
+  <animation frame="1" name="GiantPortrait_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture10_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture11_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture12_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture13_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture14_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture15_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture16_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture6_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture8_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FramePicture9_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Glauber_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Gordon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Kenny_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Teddy_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Judson_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StainGlassBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StainGlassWindow1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StainGlassWindow2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StainGlassWindow3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="StainGlassWindowBricks_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MC_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait0_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait6_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Portrait8_Sprite" index="0" duration="1" label=""/>
+</xml>

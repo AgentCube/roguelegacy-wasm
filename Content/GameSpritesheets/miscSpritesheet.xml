@@ -1,0 +1,682 @@
+<xml>
+  <instance name="Raindrop_Sprite" index="5" posX="0" posY="0" anchorX="-3" anchorY="-5" width="1" height="1"/>
+  <instance name="Raindrop_Sprite" index="1" posX="2" posY="0" anchorX="-3" anchorY="-1" width="1" height="5"/>
+  <instance name="Raindrop_Sprite" index="2" posX="4" posY="0" anchorX="-2" anchorY="-3" width="3" height="3"/>
+  <instance name="Snowflake_Sprite" index="0" posX="8" posY="0" anchorX="1.5" anchorY="1.5" width="3" height="3"/>
+  <instance name="Raindrop_Sprite" index="3" posX="12" posY="0" anchorX="-1" anchorY="-3" width="5" height="3"/>
+  <instance name="Raindrop_Sprite" index="4" posX="18" posY="0" anchorX="-1" anchorY="-3" width="5" height="3"/>
+  <instance name="Raindrop_Sprite" index="0" posX="24" posY="0" anchorX="-3" anchorY="17.25" width="1" height="22"/>
+  <instance name="Blank_Sprite" index="0" posX="26" posY="0" anchorX="0" anchorY="0" width="5" height="5"/>
+  <instance name="Raindrop_Sprite" index="6" posX="32" posY="0" anchorX="0" anchorY="0" width="6" height="6"/>
+  <instance name="FountainOfYouthDrop_Sprite" index="3" posX="39" posY="0" anchorX="-5" anchorY="-9" width="6" height="12"/>
+  <instance name="FountainOfYouthDrop_Sprite" index="4" posX="46" posY="0" anchorX="-5" anchorY="-4" width="6" height="18"/>
+  <instance name="FountainOfYouthDrop_Sprite" index="1" posX="53" posY="0" anchorX="-4" anchorY="-2" width="8" height="14"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="16" posX="62" posY="0" anchorX="-79" anchorY="-177" width="39" height="3"/>
+  <instance name="QuestionMark_Sprite" index="0" posX="102" posY="0" anchorX="5" anchorY="7.5" width="10" height="15"/>
+  <instance name="FountainOfYouthDrop_Sprite" index="2" posX="113" posY="0" anchorX="-4" anchorY="-1" width="8" height="19"/>
+  <instance name="Note_Sprite" index="0" posX="122" posY="0" anchorX="5.5" anchorY="7" width="11" height="14"/>
+  <instance name="NoteWhite_Sprite" index="0" posX="134" posY="0" anchorX="5.5" anchorY="7" width="11" height="14"/>
+  <instance name="EndTextIcon_Sprite" index="0" posX="146" posY="0" anchorX="0" anchorY="0" width="13" height="12"/>
+  <instance name="FountainOfYouthDrop_Sprite" index="0" posX="160" posY="0" anchorX="-4" anchorY="-3" width="8" height="20"/>
+  <instance name="ImpactBlock_Sprite" index="5" posX="169" posY="0" anchorX="-22" anchorY="44" width="12" height="14"/>
+  <instance name="Coin_Sprite" index="4" posX="182" posY="0" anchorX="4.199999999999999" anchorY="12" width="8" height="24"/>
+  <instance name="ContinueTextIcon_Sprite" index="0" posX="191" posY="0" anchorX="0" anchorY="0" width="18" height="11"/>
+  <instance name="BonusRoomGlassesIcon_Sprite" index="0" posX="210" posY="0" anchorX="12" anchorY="4" width="24" height="9"/>
+  <instance name="Coin_Sprite" index="3" posX="235" posY="0" anchorX="6.199999999999999" anchorY="12" width="12" height="24"/>
+  <instance name="Coin_Sprite" index="5" posX="248" posY="0" anchorX="6.199999999999999" anchorY="12" width="12" height="24"/>
+  <instance name="SwearBubble1_Sprite" index="0" posX="261" posY="0" anchorX="7.5" anchorY="10" width="15" height="20"/>
+  <instance name="SwearBubble2_Sprite" index="0" posX="277" posY="0" anchorX="7.5" anchorY="10" width="15" height="20"/>
+  <instance name="SwearBubble3_Sprite" index="0" posX="293" posY="0" anchorX="7.5" anchorY="10" width="15" height="20"/>
+  <instance name="SwearBubble4_Sprite" index="0" posX="309" posY="0" anchorX="7.5" anchorY="10" width="15" height="20"/>
+  <instance name="EnemyDeathFX2_Sprite" index="5" posX="325" posY="0" anchorX="20" anchorY="36" width="38" height="8"/>
+  <instance name="TeleportRock4_Sprite" index="0" posX="364" posY="0" anchorX="7" anchorY="11" width="14" height="23"/>
+  <instance name="ManaCrystal_Sprite" index="0" posX="379" posY="0" anchorX="7.5" anchorY="13.5" width="13" height="27"/>
+  <instance name="ManaCrystal_Sprite" index="1" posX="393" posY="0" anchorX="7.5" anchorY="13.5" width="13" height="27"/>
+  <instance name="ManaCrystal_Sprite" index="2" posX="407" posY="0" anchorX="7.5" anchorY="13.5" width="13" height="27"/>
+  <instance name="ManaCrystal_Sprite" index="3" posX="421" posY="0" anchorX="7.5" anchorY="13.5" width="13" height="27"/>
+  <instance name="ManaCrystal_Sprite" index="4" posX="435" posY="0" anchorX="7.5" anchorY="13.5" width="13" height="27"/>
+  <instance name="ManaCrystal_Sprite" index="5" posX="449" posY="0" anchorX="7.5" anchorY="13.5" width="13" height="27"/>
+  <instance name="BonusRoomRingIcon_Sprite" index="0" posX="463" posY="0" anchorX="10" anchorY="10" width="20" height="20"/>
+  <instance name="BonusRoomBootsIcon_Sprite" index="0" posX="484" posY="0" anchorX="8" anchorY="12" width="17" height="24"/>
+  <instance name="BonusRoomHedgehogIcon_Sprite" index="0" posX="502" posY="0" anchorX="11" anchorY="10" width="22" height="20"/>
+  <instance name="MegaTeleport_Sprite" index="1" posX="525" posY="0" anchorX="5" anchorY="47" width="10" height="47"/>
+  <instance name="MegaTeleportReverse_Sprite" index="4" posX="536" posY="0" anchorX="5" anchorY="47" width="10" height="47"/>
+  <instance name="Coin_Sprite" index="1" posX="547" posY="0" anchorX="10.2" anchorY="12" width="20" height="24"/>
+  <instance name="Coin_Sprite" index="2" posX="568" posY="0" anchorX="10.2" anchorY="12" width="20" height="24"/>
+  <instance name="Coin_Sprite" index="6" posX="589" posY="0" anchorX="10.2" anchorY="12" width="20" height="24"/>
+  <instance name="BonusRoomObolIcon_Sprite" index="0" posX="610" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="TeleportRock5_Sprite" index="0" posX="633" posY="0" anchorX="10" anchorY="12" width="21" height="24"/>
+  <instance name="Chest4Unlock_Sprite" index="0" posX="655" posY="0" anchorX="10" anchorY="13" width="20" height="26"/>
+  <instance name="Chest4Unlock_Sprite" index="1" posX="676" posY="0" anchorX="10" anchorY="13" width="20" height="26"/>
+  <instance name="TeleportRock3_Sprite" index="0" posX="697" posY="0" anchorX="9" anchorY="14" width="18" height="29"/>
+  <instance name="BonusRoomCompassIcon_Sprite" index="0" posX="716" posY="0" anchorX="9" anchorY="15" width="22" height="24"/>
+  <instance name="Blossom4_Sprite" index="0" posX="739" posY="0" anchorX="0" anchorY="0" width="30" height="18"/>
+  <instance name="Heart_Sprite" index="3" posX="770" posY="0" anchorX="8" anchorY="14" width="18" height="30"/>
+  <instance name="Heart_Sprite" index="9" posX="789" posY="0" anchorX="8" anchorY="14" width="18" height="30"/>
+  <instance name="MegaTeleport_Sprite" index="5" posX="808" posY="0" anchorX="2" anchorY="137" width="4" height="136"/>
+  <instance name="MegaTeleportReverse_Sprite" index="0" posX="813" posY="0" anchorX="2" anchorY="137" width="4" height="136"/>
+  <instance name="MegaTeleport_Sprite" index="2" posX="818" posY="0" anchorX="5" anchorY="56" width="10" height="56"/>
+  <instance name="MegaTeleportReverse_Sprite" index="3" posX="829" posY="0" anchorX="5" anchorY="56" width="10" height="56"/>
+  <instance name="Coin_Sprite" index="0" posX="840" posY="0" anchorX="12.2" anchorY="12" width="24" height="24"/>
+  <instance name="BonusRoomBlessingIcon_Sprite" index="0" posX="865" posY="0" anchorX="12" anchorY="12" width="24" height="24"/>
+  <instance name="UpgradeIcon_Sprite" index="0" posX="890" posY="0" anchorX="0" anchorY="0" width="24" height="24"/>
+  <instance name="MegaTeleport_Sprite" index="6" posX="915" posY="0" anchorX="2" anchorY="152" width="4" height="152"/>
+  <instance name="Orb_Sprite" index="0" posX="920" posY="0" anchorX="12.5" anchorY="12.5" width="25" height="25"/>
+  <instance name="ExclamationBubble_Sprite" index="0" posX="946" posY="0" anchorX="10" anchorY="11" width="21" height="30"/>
+  <instance name="UpArrowBubble_Sprite" index="0" posX="968" posY="0" anchorX="10" anchorY="12" width="21" height="30"/>
+  <instance name="MegaTeleport_Sprite" index="0" posX="990" posY="0" anchorX="8" anchorY="40" width="16" height="40"/>
+  <instance name="MegaTeleportReverse_Sprite" index="5" posX="1007" posY="0" anchorX="8" anchorY="40" width="16" height="40"/>
+  <instance name="Heart_Sprite" index="2" posX="1024" posY="0" anchorX="10" anchorY="14" width="22" height="30"/>
+  <instance name="Heart_Sprite" index="4" posX="1047" posY="0" anchorX="10" anchorY="14" width="22" height="30"/>
+  <instance name="Heart_Sprite" index="8" posX="1070" posY="0" anchorX="10" anchorY="14" width="22" height="30"/>
+  <instance name="Heart_Sprite" index="10" posX="1093" posY="0" anchorX="10" anchorY="14" width="22" height="30"/>
+  <instance name="MegaTeleport_Sprite" index="3" posX="1116" posY="0" anchorX="5" anchorY="72" width="10" height="72"/>
+  <instance name="MegaTeleportReverse_Sprite" index="2" posX="1127" posY="0" anchorX="5" anchorY="72" width="10" height="72"/>
+  <instance name="Chest4Unlock_Sprite" index="7" posX="1138" posY="0" anchorX="10" anchorY="19" width="20" height="38"/>
+  <instance name="Blossom2_Sprite" index="0" posX="1159" posY="0" anchorX="0" anchorY="0" width="34" height="23"/>
+  <instance name="EnemyDeathFX1_Sprite" index="2" posX="1194" posY="0" anchorX="14" anchorY="14" width="28" height="28"/>
+  <instance name="Diamond_Sprite" index="0" posX="1223" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="1" posX="1258" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="2" posX="1293" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="3" posX="1328" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="4" posX="1363" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="5" posX="1398" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="6" posX="1433" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="7" posX="1468" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="8" posX="1503" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="Diamond_Sprite" index="9" posX="1538" posY="0" anchorX="16" anchorY="12" width="34" height="24"/>
+  <instance name="MegaTeleport_Sprite" index="4" posX="1573" posY="0" anchorX="4" anchorY="104" width="8" height="104"/>
+  <instance name="MegaTeleportReverse_Sprite" index="1" posX="1582" posY="0" anchorX="4" anchorY="104" width="8" height="104"/>
+  <instance name="Blossom1_Sprite" index="0" posX="1591" posY="0" anchorX="0" anchorY="0" width="45" height="20"/>
+  <instance name="Heart_Sprite" index="1" posX="1637" posY="0" anchorX="16" anchorY="14" width="30" height="30"/>
+  <instance name="Heart_Sprite" index="5" posX="1668" posY="0" anchorX="12" anchorY="14" width="30" height="30"/>
+  <instance name="Heart_Sprite" index="7" posX="1699" posY="0" anchorX="16" anchorY="14" width="30" height="30"/>
+  <instance name="Heart_Sprite" index="11" posX="1730" posY="0" anchorX="12" anchorY="14" width="30" height="30"/>
+  <instance name="Chest4Unlock_Sprite" index="2" posX="1761" posY="0" anchorX="12" anchorY="19" width="24" height="38"/>
+  <instance name="Jukebox_Sprite" index="0" posX="1786" posY="0" anchorX="13" anchorY="39" width="25" height="39"/>
+  <instance name="Heart_Sprite" index="0" posX="1812" posY="0" anchorX="16" anchorY="14" width="34" height="30"/>
+  <instance name="Heart_Sprite" index="6" posX="1847" posY="0" anchorX="16" anchorY="14" width="34" height="30"/>
+  <instance name="EnemyDeathFX2_Sprite" index="4" posX="1882" posY="0" anchorX="20" anchorY="36" width="40" height="26"/>
+  <instance name="Blossom3_Sprite" index="0" posX="1923" posY="0" anchorX="0" anchorY="0" width="30" height="35"/>
+  <instance name="ChickenLeg_Sprite" index="0" posX="1954" posY="0" anchorX="19.55" anchorY="14.9" width="38" height="30"/>
+  <instance name="BonusRoomDiary_Sprite" index="0" posX="1993" posY="0" anchorX="24" anchorY="25" width="48" height="24"/>
+  <instance name="MagicBook_Sprite" index="0" posX="0" posY="23" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="MagicBook_Sprite" index="1" posX="35" posY="19" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="MagicBook_Sprite" index="2" posX="70" posY="16" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="MagicBook_Sprite" index="3" posX="105" posY="20" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="MagicBook_Sprite" index="4" posX="140" posY="21" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="MagicBook_Sprite" index="5" posX="175" posY="25" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="Chest4Unlock_Sprite" index="3" posX="210" posY="25" anchorX="14" anchorY="21" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="0" posX="239" posY="25" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="1" posX="268" posY="21" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="2" posX="297" posY="21" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="3" posX="326" posY="9" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="4" posX="355" posY="28" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="5" posX="384" posY="28" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="6" posX="413" posY="28" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="7" posX="442" posY="28" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="8" posX="471" posY="25" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="ManaPotion_Sprite" index="9" posX="500" posY="48" anchorX="14" anchorY="28" width="28" height="42"/>
+  <instance name="DashFX_Sprite" index="0" posX="529" posY="48" anchorX="60.5" anchorY="17" width="60" height="20"/>
+  <instance name="ImpactBlock_Sprite" index="0" posX="590" posY="25" anchorX="12" anchorY="16" width="32" height="38"/>
+  <instance name="Backpack_Sprite" index="0" posX="623" posY="27" anchorX="18" anchorY="18.4" width="36" height="36"/>
+  <instance name="Backpack_Sprite" index="1" posX="660" posY="27" anchorX="18" anchorY="18.4" width="36" height="36"/>
+  <instance name="Backpack_Sprite" index="2" posX="697" posY="30" anchorX="18" anchorY="18.4" width="36" height="36"/>
+  <instance name="Backpack_Sprite" index="3" posX="734" posY="31" anchorX="18" anchorY="18.4" width="36" height="36"/>
+  <instance name="DoubleJumpFX_Sprite" index="0" posX="771" posY="137" anchorX="22" anchorY="16" width="44" height="30"/>
+  <instance name="CoinIcon_Sprite" index="0" posX="816" posY="137" anchorX="0" anchorY="0" width="33" height="40"/>
+  <instance name="EnemyDeathFX2_Sprite" index="0" posX="850" posY="25" anchorX="18" anchorY="26" width="36" height="38"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="15" posX="887" posY="153" anchorX="-59" anchorY="-161" width="74" height="19"/>
+  <instance name="Sword_Sprite" index="0" posX="962" posY="41" anchorX="18" anchorY="20.4" width="38" height="38"/>
+  <instance name="Sword_Sprite" index="1" posX="1001" posY="41" anchorX="18" anchorY="20.4" width="38" height="38"/>
+  <instance name="Sword_Sprite" index="2" posX="1040" posY="31" anchorX="18" anchorY="20.4" width="38" height="38"/>
+  <instance name="Sword_Sprite" index="3" posX="1079" posY="73" anchorX="18" anchorY="20.4" width="38" height="38"/>
+  <instance name="Chest4Unlock_Sprite" index="4" posX="1118" posY="73" anchorX="16" anchorY="23" width="32" height="46"/>
+  <instance name="Chest4Unlock_Sprite" index="5" posX="1151" posY="39" anchorX="16" anchorY="23" width="32" height="46"/>
+  <instance name="Chest4Unlock_Sprite" index="6" posX="1184" posY="29" anchorX="16" anchorY="23" width="32" height="46"/>
+  <instance name="Shield_Sprite" index="0" posX="1217" posY="29" anchorX="20.4" anchorY="20.4" width="40" height="38"/>
+  <instance name="Shield_Sprite" index="1" posX="1258" posY="25" anchorX="20.4" anchorY="20.4" width="40" height="38"/>
+  <instance name="Shield_Sprite" index="2" posX="1299" posY="25" anchorX="20.4" anchorY="20.4" width="40" height="38"/>
+  <instance name="Shield_Sprite" index="3" posX="1340" posY="25" anchorX="20.4" anchorY="20.4" width="40" height="38"/>
+  <instance name="LaserSpell_Sprite" index="0" posX="1381" posY="25" anchorX="0" anchorY="35" width="22" height="70"/>
+  <instance name="MoneyBag_Sprite" index="1" posX="1404" posY="25" anchorX="17" anchorY="15.75" width="37" height="43"/>
+  <instance name="EnemyDeathFX1_Sprite" index="3" posX="1442" posY="25" anchorX="20" anchorY="20" width="40" height="40"/>
+  <instance name="DoubleJumpFX_Sprite" index="5" posX="1483" posY="25" anchorX="40" anchorY="-4" width="80" height="20"/>
+  <instance name="MoneyBag_Sprite" index="2" posX="1564" posY="105" anchorX="17" anchorY="12.75" width="37" height="44"/>
+  <instance name="EnemyDeathFX2_Sprite" index="3" posX="1602" posY="31" anchorX="20" anchorY="34" width="44" height="38"/>
+  <instance name="EnemyDeathFX2_Sprite" index="1" posX="1647" posY="31" anchorX="20" anchorY="30" width="40" height="42"/>
+  <instance name="ImpactBlock_Sprite" index="1" posX="1688" posY="31" anchorX="16" anchorY="20" width="42" height="46"/>
+  <instance name="EnemyDeathFX2_Sprite" index="2" posX="1731" posY="39" anchorX="22" anchorY="34" width="44" height="44"/>
+  <instance name="DashFX_Sprite" index="6" posX="1776" posY="40" anchorX="100.5" anchorY="45" width="48" height="42"/>
+  <instance name="ExclamationSquare_Sprite" index="0" posX="1825" posY="31" anchorX="21" anchorY="24" width="42" height="48"/>
+  <instance name="UpArrowSquare_Sprite" index="0" posX="1868" posY="31" anchorX="21" anchorY="24" width="42" height="48"/>
+  <instance name="MoneyBag_Sprite" index="0" posX="1911" posY="36" anchorX="17" anchorY="27.75" width="37" height="59"/>
+  <instance name="DoubleJumpFX_Sprite" index="4" posX="1949" posY="36" anchorX="40" anchorY="4" width="80" height="28"/>
+  <instance name="DashFX_Sprite" index="5" posX="0" posY="58" anchorX="98.5" anchorY="45" width="52" height="46"/>
+  <instance name="DoubleJumpFX_Sprite" index="1" posX="53" posY="55" anchorX="36" anchorY="18" width="72" height="34"/>
+  <instance name="DashFX_Sprite" index="4" posX="126" posY="60" anchorX="94.5" anchorY="43" width="54" height="46"/>
+  <instance name="DoubleJumpFX_Sprite" index="3" posX="181" posY="68" anchorX="38" anchorY="12" width="76" height="34"/>
+  <instance name="TeleportRock1_Sprite" index="0" posX="258" posY="68" anchorX="18" anchorY="36" width="37" height="73"/>
+  <instance name="DoubleJumpFX_Sprite" index="2" posX="296" posY="71" anchorX="38" anchorY="16" width="76" height="36"/>
+  <instance name="TeleportRock2_Sprite" index="0" posX="373" posY="71" anchorX="20" anchorY="34" width="41" height="68"/>
+  <instance name="ImpactEnemy_Sprite" index="0" posX="415" posY="71" anchorX="26" anchorY="22" width="56" height="50"/>
+  <instance name="DashFX_Sprite" index="2" posX="472" posY="91" anchorX="86.5" anchorY="39" width="66" height="44"/>
+  <instance name="DashFX_Sprite" index="3" posX="539" posY="69" anchorX="90.5" anchorY="41" width="66" height="44"/>
+  <instance name="DashFX_Sprite" index="1" posX="606" posY="64" anchorX="82.5" anchorY="35" width="78" height="40"/>
+  <instance name="ImpactBlock_Sprite" index="2" posX="685" posY="68" anchorX="22" anchorY="28" width="54" height="58"/>
+  <instance name="ImpactEnemy_Sprite" index="1" posX="740" posY="168" anchorX="28" anchorY="26" width="62" height="56"/>
+  <instance name="EnemyDeathFX1_Sprite" index="4" posX="803" posY="178" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="14" posX="864" posY="173" anchorX="-22" anchorY="-149" width="117" height="31"/>
+  <instance name="Spikes_Sprite" index="0" posX="982" posY="80" anchorX="0.6" anchorY="0.6" width="61" height="60"/>
+  <instance name="EnemyDeathFX1_Sprite" index="7" posX="1044" posY="112" anchorX="32" anchorY="32" width="64" height="62"/>
+  <instance name="Chest1_Sprite" index="0" posX="1109" posY="120" anchorX="39.6" anchorY="53.5" width="78" height="51"/>
+  <instance name="Chest2_Sprite" index="0" posX="1188" posY="76" anchorX="39.1" anchorY="56.3" width="78" height="54"/>
+  <instance name="Chest3_Sprite" index="0" posX="1267" posY="64" anchorX="39.1" anchorY="56.3" width="78" height="54"/>
+  <instance name="Chest4_Sprite" index="0" posX="1346" posY="96" anchorX="39.1" anchorY="56.3" width="78" height="54"/>
+  <instance name="ImpactBlock_Sprite" index="3" posX="1425" posY="69" anchorX="26" anchorY="38" width="62" height="72"/>
+  <instance name="ImpactEnemy_Sprite" index="2" posX="1488" posY="46" anchorX="32" anchorY="30" width="70" height="64"/>
+  <instance name="ExplosionBlue_Sprite" index="0" posX="1559" posY="150" anchorX="35" anchorY="33" width="68" height="66"/>
+  <instance name="ExplosionBrown_Sprite" index="0" posX="1628" posY="78" anchorX="35" anchorY="33" width="68" height="66"/>
+  <instance name="ExplosionOrange_Sprite" index="0" posX="1697" posY="84" anchorX="36.8" anchorY="30.799999999999997" width="68" height="66"/>
+  <instance name="FountainShatterSmoke_Sprite" index="0" posX="1766" posY="84" anchorX="34" anchorY="33" width="68" height="66"/>
+  <instance name="EnemyDeathFX1_Sprite" index="0" posX="1835" posY="80" anchorX="34" anchorY="34" width="70" height="70"/>
+  <instance name="EnemyDeathFX1_Sprite" index="1" posX="1906" posY="96" anchorX="34" anchorY="34" width="70" height="70"/>
+  <instance name="ImpactBlock_Sprite" index="4" posX="1977" posY="65" anchorX="28" anchorY="42" width="66" height="78"/>
+  <instance name="Chest4_Sprite" index="1" posX="0" posY="105" anchorX="37.1" anchorY="58" width="92" height="56"/>
+  <instance name="Chest1_Sprite" index="1" posX="93" posY="107" anchorX="37.6" anchorY="63" width="90" height="60"/>
+  <instance name="Chest2_Sprite" index="1" posX="184" posY="142" anchorX="37.1" anchorY="62.5" width="92" height="60"/>
+  <instance name="Chest3_Sprite" index="1" posX="277" posY="142" anchorX="37.1" anchorY="62" width="94" height="60"/>
+  <instance name="ProjectileIcon_Sprite" index="0" posX="372" posY="140" anchorX="31.5" anchorY="31.5" width="95" height="62"/>
+  <instance name="TitleSmallCloud3_Sprite" index="0" posX="468" posY="136" anchorX="-54" anchorY="-48" width="86" height="76"/>
+  <instance name="ImpactEnemy_Sprite" index="3" posX="555" posY="114" anchorX="38" anchorY="40" width="84" height="80"/>
+  <instance name="LightSource_Sprite" index="0" posX="640" posY="127" anchorX="41" anchorY="41" width="82" height="82"/>
+  <instance name="ImpactEnemy_Sprite" index="4" posX="723" posY="239" anchorX="36" anchorY="40" width="84" height="82"/>
+  <instance name="PlayerGhost_Sprite" index="0" posX="808" posY="239" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="PlayerGhost_Sprite" index="1" posX="881" posY="205" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="PlayerGhost_Sprite" index="2" posX="954" posY="205" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="PlayerGhost_Sprite" index="3" posX="1027" posY="175" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="PlayerGhost_Sprite" index="4" posX="1100" posY="175" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="PlayerGhost_Sprite" index="5" posX="1173" posY="172" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="PlayerGhost_Sprite" index="6" posX="1246" posY="131" anchorX="-2" anchorY="0" width="72" height="98"/>
+  <instance name="DialogueChoiceHighlight_Sprite" index="0" posX="1319" posY="151" anchorX="116.5" anchorY="16" width="233" height="32"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="13" posX="1553" posY="217" anchorX="-11" anchorY="-121" width="134" height="59"/>
+  <instance name="EnemyDeathFX1_Sprite" index="5" posX="1688" posY="151" anchorX="44" anchorY="44" width="90" height="90"/>
+  <instance name="LevelUpParticleFX_Sprite" index="18" posX="1779" posY="151" anchorX="47.45" anchorY="47.2" width="93" height="93"/>
+  <instance name="FusRoDahText_Sprite" index="0" posX="0" posY="203" anchorX="104" anchorY="21" width="208" height="42"/>
+  <instance name="CastleEntranceGate_Sprite" index="0" posX="209" posY="203" anchorX="0.5" anchorY="0.8" width="49" height="181"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="12" posX="259" posY="203" anchorX="-9" anchorY="-111" width="136" height="69"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="11" posX="396" posY="213" anchorX="-7" anchorY="-105" width="138" height="75"/>
+  <instance name="BlackSmoke_Sprite" index="0" posX="535" posY="213" anchorX="68.6" anchorY="47.55" width="122" height="88"/>
+  <instance name="SkillTreeGoldIcon_Sprite" index="0" posX="658" posY="338" anchorX="0" anchorY="0" width="346" height="34"/>
+  <instance name="TeleporterBase_Sprite" index="0" posX="1005" posY="304" anchorX="137.4" anchorY="46.45" width="274" height="44"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="10" posX="1280" posY="230" anchorX="-5" anchorY="-83" width="140" height="97"/>
+  <instance name="EnemyDeathFX1_Sprite" index="6" posX="1421" posY="184" anchorX="60" anchorY="60" width="120" height="120"/>
+  <instance name="LevelUpParticleFX_Sprite" index="0" posX="1542" posY="277" anchorX="64.2" anchorY="61.05" width="123" height="120"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="9" posX="1666" posY="277" anchorX="-5" anchorY="-63" width="140" height="117"/>
+  <instance name="BossChest_Sprite" index="0" posX="1807" posY="245" anchorX="78.9" anchorY="112.4" width="157" height="109"/>
+  <instance name="LevelUpParticleFX_Sprite" index="1" posX="0" posY="246" anchorX="68.95" anchorY="66.8" width="132" height="131"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="8" posX="133" posY="385" anchorX="-5" anchorY="-43" width="140" height="137"/>
+  <instance name="MinimapBG_Sprite" index="0" posX="274" posY="289" anchorX="0" anchorY="0" width="200" height="100"/>
+  <instance name="LevelUpParticleFX_Sprite" index="2" posX="475" posY="302" anchorX="73.75" anchorY="71.65" width="143" height="140"/>
+  <instance name="CancelIcon_Sprite" index="0" posX="619" posY="373" anchorX="72" anchorY="72" width="144" height="144"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="7" posX="764" posY="373" anchorX="-5" anchorY="-28" width="140" height="152"/>
+  <instance name="LevelUpParticleFX_Sprite" index="3" posX="905" posY="373" anchorX="78.55" anchorY="75.65" width="152" height="148"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="6" posX="1058" posY="349" anchorX="-5" anchorY="-18" width="140" height="162"/>
+  <instance name="LevelUpParticleFX_Sprite" index="17" posX="1199" posY="349" anchorX="76.8" anchorY="75.15" width="152" height="150"/>
+  <instance name="BossChest_Sprite" index="1" posX="1352" posY="398" anchorX="76.9" anchorY="124" width="190" height="120"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="5" posX="1543" posY="398" anchorX="-5" anchorY="-9" width="140" height="171"/>
+  <instance name="LevelUpParticleFX_Sprite" index="4" posX="1684" posY="395" anchorX="82.4" anchorY="76.9" width="160" height="151"/>
+  <instance name="LevelUpParticleFX_Sprite" index="5" posX="1845" posY="355" anchorX="82.35" anchorY="79.1" width="161" height="156"/>
+  <instance name="FountainOfYouth_Sprite" index="0" posX="0" posY="523" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouth_Sprite" index="1" posX="141" posY="523" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouth_Sprite" index="2" posX="282" posY="390" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouth_Sprite" index="3" posX="423" posY="443" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouth_Sprite" index="4" posX="564" posY="518" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouth_Sprite" index="5" posX="705" posY="526" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouth_Sprite" index="6" posX="846" posY="526" anchorX="70" anchorY="180" width="140" height="180"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="0" posX="987" posY="522" anchorX="-5" anchorY="0" width="140" height="180"/>
+  <instance name="LevelUpParticleFX_Sprite" index="16" posX="1128" posY="512" anchorX="84.1" anchorY="79.85" width="162" height="156"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="1" posX="1291" posY="519" anchorX="-6" anchorY="0" width="141" height="180"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="2" posX="1433" posY="570" anchorX="-3" anchorY="-1" width="145" height="179"/>
+  <instance name="LevelUpParticleFX_Sprite" index="6" posX="1579" posY="570" anchorX="83.55" anchorY="79.85" width="166" height="157"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="4" posX="1746" posY="547" anchorX="0" anchorY="-6" width="150" height="174"/>
+  <instance name="FountainOfYouthShatter_Sprite" index="3" posX="1897" posY="512" anchorX="0" anchorY="-3" width="150" height="177"/>
+  <instance name="LevelUpParticleFX_Sprite" index="15" posX="0" posY="704" anchorX="87.55" anchorY="81.75" width="170" height="160"/>
+  <instance name="LevelUpParticleFX_Sprite" index="7" posX="171" posY="704" anchorX="86.9" anchorY="82.8" width="168" height="162"/>
+  <instance name="LevelUpParticleFX_Sprite" index="14" posX="340" posY="624" anchorX="89.2" anchorY="80.65" width="173" height="158"/>
+  <instance name="LevelUpParticleFX_Sprite" index="13" posX="514" posY="699" anchorX="89.75" anchorY="81.3" width="174" height="160"/>
+  <instance name="LevelUpParticleFX_Sprite" index="10" posX="689" posY="707" anchorX="89.25" anchorY="82.3" width="173" height="161"/>
+  <instance name="LevelUpParticleFX_Sprite" index="9" posX="863" posY="707" anchorX="89.1" anchorY="82.4" width="173" height="162"/>
+  <instance name="LevelUpParticleFX_Sprite" index="8" posX="1037" posY="703" anchorX="89.8" anchorY="82.4" width="175" height="161"/>
+  <instance name="LevelUpParticleFX_Sprite" index="11" posX="1213" posY="700" anchorX="89.75" anchorY="82.65" width="174" height="162"/>
+  <instance name="LevelUpParticleFX_Sprite" index="12" posX="1388" posY="750" anchorX="90.35" anchorY="82.1" width="176" height="161"/>
+  <instance name="TitleSmallCloud4_Sprite" index="0" posX="1565" posY="750" anchorX="-229.45" anchorY="-223.9" width="171" height="169"/>
+  <instance name="LevelUpParticleFX_Sprite" index="19" posX="1737" posY="728" anchorX="89.6" anchorY="88.75" width="174" height="174"/>
+  <instance name="TeleporterBeam_Sprite" index="0" posX="0" posY="865" anchorX="80" anchorY="196" width="160" height="196"/>
+  <instance name="TeleporterBeam_Sprite" index="1" posX="161" posY="867" anchorX="80" anchorY="196" width="160" height="196"/>
+  <instance name="TitleSmallCloud1_Sprite" index="0" posX="322" posY="867" anchorX="143.65" anchorY="-131.75" width="288" height="120"/>
+  <instance name="GameOverStatPlate_Sprite" index="0" posX="611" posY="870" anchorX="144" anchorY="71.5" width="288" height="143"/>
+  <instance name="TitleSmallCloud5_Sprite" index="0" posX="900" posY="870" anchorX="-40" anchorY="-170.95" width="238" height="190"/>
+  <instance name="GameOverSpotlight_Sprite" index="0" posX="1139" posY="912" anchorX="192" anchorY="75" width="384" height="150"/>
+  <instance name="BlueprintFoundBG_Sprite" index="0" posX="1524" posY="920" anchorX="209.5" anchorY="80" width="419" height="160"/>
+  <instance name="TitleSmallCloud2_Sprite" index="0" posX="0" posY="1064" anchorX="496.8" anchorY="-119.85" width="317" height="280"/>
+  <instance name="CDGLogo_Sprite" index="0" posX="318" posY="1064" anchorX="300.5" anchorY="114.5" width="600" height="229"/>
+  <instance name="DialogBox_Sprite" index="0" posX="919" posY="1081" anchorX="477.5" anchorY="90" width="955" height="180"/>
+  <instance name="TraitsScreenPlate_Sprite" index="0" posX="0" posY="1345" anchorX="0" anchorY="0" width="358" height="520"/>
+  <instance name="TitleCastle_Sprite" index="0" posX="359" posY="1294" anchorX="269" anchorY="159" width="560" height="334"/>
+  <instance name="TitleBG_Sprite" index="0" posX="920" posY="1262" anchorX="0" anchorY="0" width="1020" height="556"/>
+  <animation frame="1" name="Orb_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Chest1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Chest1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Chest2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Chest2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Chest3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Chest3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Spikes_Sprite" index="0" duration="1" label="">
+    <rectangle x="10" y="15" width="40" height="40" rotation="0" type="0"/>
+    <rectangle x="0" y="0" width="61" height="60" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="Blank_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ImpactEnemy_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ImpactEnemy_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ImpactEnemy_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ImpactEnemy_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ImpactEnemy_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="ImpactBlock_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ImpactBlock_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ImpactBlock_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ImpactBlock_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ImpactBlock_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="ImpactBlock_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="Coin_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Coin_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="Coin_Sprite" index="2" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="Coin_Sprite" index="3" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="Coin_Sprite" index="4" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="Coin_Sprite" index="5" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="Coin_Sprite" index="6" duration="1" label="">
+    <rectangle x="-12" y="-10" width="24" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="LevelUpParticleFX_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="LevelUpParticleFX_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="LevelUpParticleFX_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="LevelUpParticleFX_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="LevelUpParticleFX_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="LevelUpParticleFX_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="LevelUpParticleFX_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="LevelUpParticleFX_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="LevelUpParticleFX_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="LevelUpParticleFX_Sprite" index="9" duration="1" label=""/>
+  <animation frame="11" name="LevelUpParticleFX_Sprite" index="10" duration="1" label=""/>
+  <animation frame="12" name="LevelUpParticleFX_Sprite" index="11" duration="1" label=""/>
+  <animation frame="13" name="LevelUpParticleFX_Sprite" index="12" duration="1" label=""/>
+  <animation frame="14" name="LevelUpParticleFX_Sprite" index="13" duration="1" label=""/>
+  <animation frame="15" name="LevelUpParticleFX_Sprite" index="14" duration="1" label=""/>
+  <animation frame="16" name="LevelUpParticleFX_Sprite" index="15" duration="1" label=""/>
+  <animation frame="17" name="LevelUpParticleFX_Sprite" index="16" duration="1" label=""/>
+  <animation frame="18" name="LevelUpParticleFX_Sprite" index="17" duration="1" label=""/>
+  <animation frame="19" name="LevelUpParticleFX_Sprite" index="18" duration="1" label=""/>
+  <animation frame="20" name="LevelUpParticleFX_Sprite" index="19" duration="1" label=""/>
+  <animation frame="1" name="EnemyDeathFX1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyDeathFX1_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyDeathFX1_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyDeathFX1_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyDeathFX1_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyDeathFX1_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyDeathFX1_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyDeathFX1_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemyDeathFX2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyDeathFX2_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyDeathFX2_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyDeathFX2_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyDeathFX2_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyDeathFX2_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="LightSource_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DoubleJumpFX_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="DoubleJumpFX_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="DoubleJumpFX_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="DoubleJumpFX_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="DoubleJumpFX_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="DoubleJumpFX_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="DashFX_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="DashFX_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="DashFX_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="DashFX_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="DashFX_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="DashFX_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="DashFX_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="BlueprintFoundBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DialogBox_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EndTextIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ContinueTextIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Chest4_Sprite" index="0" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Chest4_Sprite" index="1" duration="1" label="">
+    <rectangle x="-38" y="-55" width="78" height="54" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Chest4Unlock_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="Chest4Unlock_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="Chest4Unlock_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="Chest4Unlock_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="Chest4Unlock_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="Chest4Unlock_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="Chest4Unlock_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="Chest4Unlock_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="ExplosionBlue_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="GameOverSpotlight_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="DialogueChoiceHighlight_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MoneyBag_Sprite" index="0" duration="1" label="">
+    <rectangle x="-18" y="-9" width="39" height="43" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="MoneyBag_Sprite" index="1" duration="1" label="">
+    <rectangle x="-18" y="-9" width="39" height="43" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="MoneyBag_Sprite" index="2" duration="1" label="">
+    <rectangle x="-18" y="-9" width="39" height="43" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Diamond_Sprite" index="0" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Diamond_Sprite" index="1" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="Diamond_Sprite" index="2" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="Diamond_Sprite" index="3" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="Diamond_Sprite" index="4" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="Diamond_Sprite" index="5" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="Diamond_Sprite" index="6" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="Diamond_Sprite" index="7" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="Diamond_Sprite" index="8" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="Diamond_Sprite" index="9" duration="1" label="">
+    <rectangle x="-16" y="-10" width="35" height="24" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Blossom1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Blossom2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Blossom3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Blossom4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerGhost_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerGhost_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerGhost_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerGhost_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerGhost_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerGhost_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="PlayerGhost_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="TraitsScreenPlate_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Raindrop_Sprite" index="0" duration="1" label="">
+    <rectangle x="3" y="-17" width="1" height="23" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Raindrop_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="Raindrop_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="Raindrop_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="Raindrop_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="Raindrop_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="Raindrop_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="MinimapBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleEntranceGate_Sprite" index="0" duration="1" label="">
+    <rectangle x="0" y="0" width="48" height="183" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="TeleporterBase_Sprite" index="0" duration="1" label="">
+    <rectangle x="-140" y="-46" width="279" height="44" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="TeleportRock1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleportRock2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleportRock3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleportRock4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleportRock5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TeleporterBeam_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="TeleporterBeam_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="CDGLogo_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CancelIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ExplosionBrown_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Heart_Sprite" index="0" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="Heart_Sprite" index="1" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="Heart_Sprite" index="2" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="Heart_Sprite" index="3" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="Heart_Sprite" index="4" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="Heart_Sprite" index="5" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="Heart_Sprite" index="6" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="Heart_Sprite" index="7" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="Heart_Sprite" index="8" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="Heart_Sprite" index="9" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="11" name="Heart_Sprite" index="10" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="12" name="Heart_Sprite" index="11" duration="1" label="">
+    <rectangle x="-16" y="-13" width="34" height="29" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="GameOverStatPlate_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Backpack_Sprite" index="0" duration="12" label="">
+    <rectangle x="-18" y="-20" width="36" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="13" name="Backpack_Sprite" index="1" duration="1" label="">
+    <rectangle x="-18" y="-20" width="36" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="14" name="Backpack_Sprite" index="2" duration="1" label="">
+    <rectangle x="-18" y="-20" width="36" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="15" name="Backpack_Sprite" index="3" duration="1" label="">
+    <rectangle x="-18" y="-20" width="36" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Shield_Sprite" index="0" duration="12" label="">
+    <rectangle x="-20" y="-20" width="40" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="13" name="Shield_Sprite" index="1" duration="1" label="">
+    <rectangle x="-20" y="-20" width="40" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="14" name="Shield_Sprite" index="2" duration="1" label="">
+    <rectangle x="-20" y="-20" width="40" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="15" name="Shield_Sprite" index="3" duration="1" label="">
+    <rectangle x="-20" y="-20" width="40" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="Sword_Sprite" index="0" duration="12" label="">
+    <rectangle x="-18" y="-20" width="39" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="13" name="Sword_Sprite" index="1" duration="1" label="">
+    <rectangle x="-18" y="-20" width="39" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="14" name="Sword_Sprite" index="2" duration="1" label="">
+    <rectangle x="-18" y="-20" width="39" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="15" name="Sword_Sprite" index="3" duration="1" label="">
+    <rectangle x="-18" y="-20" width="39" height="38" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="ProjectileIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ExplosionOrange_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlackSmoke_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LaserSpell_Sprite" index="0" duration="1" label="">
+    <rectangle x="0" y="-33" width="22" height="70" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="ManaPotion_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="ManaPotion_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="ManaPotion_Sprite" index="2" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="ManaPotion_Sprite" index="3" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="ManaPotion_Sprite" index="4" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="ManaPotion_Sprite" index="5" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="ManaPotion_Sprite" index="6" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="ManaPotion_Sprite" index="7" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="ManaPotion_Sprite" index="8" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="ManaPotion_Sprite" index="9" duration="1" label="">
+    <rectangle x="-14" y="-22" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BonusRoomCompassIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomObolIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomRingIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomBootsIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomBlessingIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomHedgehogIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomGlassesIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BonusRoomDiary_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SwearBubble1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SwearBubble2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SwearBubble3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SwearBubble4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="MegaTeleport_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="MegaTeleport_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="MegaTeleport_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="MegaTeleport_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="MegaTeleport_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="MegaTeleport_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="MegaTeleport_Sprite" index="6" duration="18" label=""/>
+  <animation frame="10" name="MegaTeleportReverse_Sprite" index="0" duration="1" label=""/>
+  <animation frame="11" name="MegaTeleportReverse_Sprite" index="1" duration="1" label=""/>
+  <animation frame="12" name="MegaTeleportReverse_Sprite" index="2" duration="1" label=""/>
+  <animation frame="13" name="MegaTeleportReverse_Sprite" index="3" duration="1" label=""/>
+  <animation frame="14" name="MegaTeleportReverse_Sprite" index="4" duration="1" label=""/>
+  <animation frame="15" name="MegaTeleportReverse_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="BossChest_Sprite" index="0" duration="1" label="">
+    <rectangle x="-77" y="-117" width="158" height="115" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="BossChest_Sprite" index="1" duration="1" label="">
+    <rectangle x="-77" y="-117" width="158" height="115" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="ManaCrystal_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="ManaCrystal_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="ManaCrystal_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="ManaCrystal_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="ManaCrystal_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="ManaCrystal_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="MagicBook_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="MagicBook_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="MagicBook_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="MagicBook_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="MagicBook_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="MagicBook_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="ChickenLeg_Sprite" index="0" duration="1" label="">
+    <rectangle x="-21" y="-13" width="40" height="32" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CoinIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="SkillTreeGoldIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FusRoDahText_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="UpgradeIcon_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FountainOfYouth_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FountainOfYouth_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FountainOfYouth_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="FountainOfYouth_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="FountainOfYouth_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="FountainOfYouth_Sprite" index="5" duration="2" label=""/>
+  <animation frame="8" name="FountainOfYouth_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="FountainOfYouthDrop_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FountainOfYouthDrop_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FountainOfYouthDrop_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="FountainOfYouthDrop_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="FountainOfYouthDrop_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="Jukebox_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="Note_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ExclamationSquare_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ExclamationBubble_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="UpArrowSquare_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="UpArrowBubble_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="NoteWhite_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FountainOfYouthShatter_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FountainOfYouthShatter_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FountainOfYouthShatter_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="FountainOfYouthShatter_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="FountainOfYouthShatter_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="FountainOfYouthShatter_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="FountainOfYouthShatter_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="FountainOfYouthShatter_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="FountainOfYouthShatter_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="FountainOfYouthShatter_Sprite" index="9" duration="1" label=""/>
+  <animation frame="11" name="FountainOfYouthShatter_Sprite" index="10" duration="1" label=""/>
+  <animation frame="12" name="FountainOfYouthShatter_Sprite" index="11" duration="1" label=""/>
+  <animation frame="13" name="FountainOfYouthShatter_Sprite" index="12" duration="1" label=""/>
+  <animation frame="14" name="FountainOfYouthShatter_Sprite" index="13" duration="1" label=""/>
+  <animation frame="15" name="FountainOfYouthShatter_Sprite" index="14" duration="1" label=""/>
+  <animation frame="16" name="FountainOfYouthShatter_Sprite" index="15" duration="1" label=""/>
+  <animation frame="17" name="FountainOfYouthShatter_Sprite" index="16" duration="2" label=""/>
+  <animation frame="1" name="FountainShatterSmoke_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleSmallCloud5_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleSmallCloud4_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleSmallCloud3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleSmallCloud2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleSmallCloud1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleBG_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="TitleCastle_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="QuestionMark_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="Snowflake_Sprite" index="0" duration="1" label=""/>
+  <container name="Blank_Container" child="Blank_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="DialogBox_Character" child="DialogBox_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="TraitsScreenPlate_Container" child="TraitsScreenPlate_Sprite" childX="-179" childY="-260" childRotation="0"/>
+  <container name="GameOverStatPlate_Character" child="GameOverStatPlate_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="FountainOfYouth_Character" child="FountainOfYouth_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="FountainOfYouth_Character" child="FountainOfYouthDrop_Sprite" childX="-7.4" childY="-86.5" childRotation="0"/>
+  <container name="FountainOfYouthShatter_Character" child="FountainOfYouthShatter_Sprite" childX="-75" childY="-180" childRotation="0"/>
+</xml>

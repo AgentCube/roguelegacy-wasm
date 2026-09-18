@@ -1,0 +1,82 @@
+{
+  "mainAssemblyName": "RogueLegacy.dll",
+  "resources": {
+    "hash": "sha256-qjHOt7d4cg0BDD6Q+7TAe3hVKbKD1ik0Whk2WCNfcqA=",
+    "jsModuleNative": {
+      "dotnet.native.js": "sha256-Ej5INSYzx9F+YKM2eWtaEeU7rUKDhsPp9jhL/YzjPP8="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.js": "sha256-qzVt86q0GKgDNek5+WFBz2hU8jGxI86YJeZmNGXj/qM="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-0v2xQuZpjTCmzL6OBoehKJnJ+8IyJkbeKYuarWOfvzE="
+    },
+    "wasmSymbols": {
+      "dotnet.native.js.symbols": "sha256-Xt3co+sTIYsHMACr4DGgpVkfLE2UWW0QD4id2/T4vsA="
+    },
+    "icu": {
+      "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+    },
+    "assembly": {
+      "FNA.wasm": "sha256-AyXSz+KDBA2xRzfSoZFTP7cUEPWrbnau59G+b7D+jls=",
+      "RogueLegacy.wasm": "sha256-pUo52d0b9ovugeQoNkDI1wVH5EVg3ogAKxA+zk/zfp8=",
+      "System.Collections.Concurrent.wasm": "sha256-qYUwzh2No7Ji43WLiOknheziwMZAjdAVKFpH/VYHZuQ=",
+      "System.Collections.wasm": "sha256-/6v09tYgknDSIDgEuRY6raM0wFMU8aCcC4EKfZ9izK0=",
+      "System.Collections.NonGeneric.wasm": "sha256-NjaugvAwpNyhuJtR9hNrkrPdPrnsi9mRlbN8XVqvQVo=",
+      "System.Collections.Specialized.wasm": "sha256-SS8TuQfQAqzxgGbkyH8OEGsy+w7X9OWZ4AcZf9y8UfE=",
+      "System.ComponentModel.wasm": "sha256-Y//eZKNEMWVmMrVTK/pJsw6g5p1CIRJ96xZb3iBf5AA=",
+      "System.ComponentModel.Primitives.wasm": "sha256-/T9UkcSbxz/Pst8FqGTHzsO4PmBMWjggbcOvu1uSvEk=",
+      "System.ComponentModel.TypeConverter.wasm": "sha256-+EJkRC2zl/SqGtEmRPmzc20ayoVuluRs5onsUpJr8Y0=",
+      "System.Console.wasm": "sha256-ErkTqXl08bTa9mQYqqVmbmdsM21tXZpcXx5Y/pUkqFY=",
+      "System.Diagnostics.DiagnosticSource.wasm": "sha256-5Qwy1tYG1NQ1IRcSIuXPst4z+oW+gfo+c0f5ZzKK0G8=",
+      "System.wasm": "sha256-MhFYc0wZNEhDWqvAJ6uTBv7sAJf6CWbV4cw5rseiia4=",
+      "System.IO.FileSystem.DriveInfo.wasm": "sha256-agzrrH2QnWAZh3xTDOyoQuItOwrBbn2BNpcgOyZZfLg=",
+      "System.Linq.wasm": "sha256-CdmkH9dnta+xgDrJANiiw2TVqCcwoDB3fxT6CJiFLfA=",
+      "System.Net.Http.wasm": "sha256-/ZSYR42Pv/u5uOkQG27LoGndwARgSSQfCp/gqIpzSXY=",
+      "System.Net.Primitives.wasm": "sha256-1rT7DX/e92AKd7MC8WbdaJlYQPrujcD7IrMJTsD30F4=",
+      "System.ObjectModel.wasm": "sha256-KenL9ZT4y4enB4uje432d4kH8G8lY4HpYyxZsmke9Q0=",
+      "System.Private.CoreLib.wasm": "sha256-xL31F4aCVMxI67pna3NOK4MZ6J/7U14KsblpDQojVb8=",
+      "System.Private.Uri.wasm": "sha256-BsSBd5XNIQHDk1z+ZzDMJBIO1z5x8qGmkPiEKA6Bfjc=",
+      "System.Private.Xml.wasm": "sha256-y0fPNUgv7FrLIAdd8+X12IsIY+uvlcTvNUNCFvebrDg=",
+      "System.Runtime.wasm": "sha256-6kiFNjCFa3LL5UT/nMWl6GSSdoQSYJkNtteNNnpSujI=",
+      "System.Runtime.InteropServices.wasm": "sha256-yQ/czQ6ibLdRZGjaewexe0oQPQqvemcKPAFFtUvuxAk=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-bFODvHmKkGg8dINR2g6Wg/OVmYpCGs16yHzWQUV6gRw=",
+      "System.Text.RegularExpressions.wasm": "sha256-vptG8htGmt6jtUODrV1hXWEstw0f2bGhewKm/cTOet4=",
+      "System.Threading.wasm": "sha256-FTnjuavW3sVk1v4ffBYNmxp6N3C1aXnBmTUNdDuHWRU=",
+      "System.Threading.Thread.wasm": "sha256-uFe6Cgwp7iFZ5bjb6GER9vDKAlT3pifDFR13O8cq5Zg=",
+      "System.Xml.ReaderWriter.wasm": "sha256-MrjMTrhPE6VMfRzHrj484yr55GSEgfwOngCHGQTGrS4="
+    },
+    "satelliteResources": {
+      "de": {
+        "RogueLegacy.resources.wasm": "sha256-GurXlqtaDqUICEqG9fcqRAOw0/9VmZnpy81ccuDSO58="
+      },
+      "es": {
+        "RogueLegacy.resources.wasm": "sha256-CH204mUxMZY2tjB9AA+GiwriK7+X3PS9miQ6pnMA4F8="
+      },
+      "fr": {
+        "RogueLegacy.resources.wasm": "sha256-Vv4SttA1VAp1NVJGi9BRjWkbc1xcpzJcipVmd/QHz0Q="
+      },
+      "pl": {
+        "RogueLegacy.resources.wasm": "sha256-vt/l+RVGAPnXL1H+Zx73vN2zG7kzihFlie9V875DWp4="
+      },
+      "pt": {
+        "RogueLegacy.resources.wasm": "sha256-CUp5G/luarXymAbzxBt4NlfFcgOG1KUyv0nO9HRd+Hk="
+      },
+      "ru": {
+        "RogueLegacy.resources.wasm": "sha256-ZtchpZ7HCO4I+HGr05juWffPR9b50HO1VtpvRnsItUY="
+      },
+      "zh": {
+        "RogueLegacy.resources.wasm": "sha256-DispE6HIs6CPOqHKMPqc+MlJ0icxpg3NuYSgqQ1cHxk="
+      }
+    },
+    "vfs": {
+      "runtimeconfig.bin": {
+        "supportFiles/0_runtimeconfig.bin": "sha256-bZVADVE9/vuk4VK9UcMd3AREONFSoWULYacsy5DHL3I="
+      }
+    }
+  },
+  "debugLevel": 0,
+  "globalizationMode": "sharded"
+}

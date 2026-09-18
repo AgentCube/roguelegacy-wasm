@@ -1,0 +1,426 @@
+<xml>
+  <instance name="CastleAssetUrn2Part3_Sprite" index="1" posX="0" posY="0" anchorX="7.1" anchorY="1.8999999999999986" width="14" height="3"/>
+  <instance name="CastleAssetTablePart1_Sprite" index="0" posX="15" posY="0" anchorX="2.25" anchorY="6.3" width="4" height="12"/>
+  <instance name="BreakableChair1Part2_Sprite" index="0" posX="20" posY="0" anchorX="1.5" anchorY="14.5" width="3" height="29"/>
+  <instance name="CastleLogs_Sprite" index="0" posX="24" posY="0" anchorX="0" anchorY="0" width="15" height="6"/>
+  <instance name="CastleLogs_Sprite" index="1" posX="40" posY="0" anchorX="0" anchorY="0" width="15" height="6"/>
+  <instance name="CastleAssetCandlePart3_Sprite" index="1" posX="56" posY="0" anchorX="4.1" anchorY="9" width="8" height="18"/>
+  <instance name="CastleAssetUrn2Part1_Sprite" index="0" posX="65" posY="0" anchorX="5.5" anchorY="7" width="11" height="14"/>
+  <instance name="CastleCorner_Sprite" index="0" posX="77" posY="0" anchorX="0" anchorY="0" width="10" height="16"/>
+  <instance name="CastleAssetUrn1Part2_Sprite" index="0" posX="88" posY="0" anchorX="4.85" anchorY="9.4" width="9" height="18"/>
+  <instance name="CastleAssetChandelier1Part2_Sprite" index="0" posX="98" posY="0" anchorX="7.7" anchorY="5.6" width="15" height="11"/>
+  <instance name="BreakableChair1Part1_Sprite" index="1" posX="114" posY="0" anchorX="6.949999999999999" anchorY="7.049999999999997" width="12" height="14"/>
+  <instance name="BreakableChair1Part3_Sprite" index="0" posX="127" posY="0" anchorX="2.45" anchorY="8.450000000000003" width="12" height="14"/>
+  <instance name="CastleAssetUrn1Part1_Sprite" index="1" posX="140" posY="0" anchorX="4.55" anchorY="9.6" width="9" height="19"/>
+  <instance name="CastleFireBig2_Sprite" index="0" posX="150" posY="0" anchorX="0" anchorY="-3" width="12" height="15"/>
+  <instance name="CastleAssetFireFX1_Sprite" index="0" posX="163" posY="0" anchorX="-1" anchorY="-2" width="12" height="16"/>
+  <instance name="CastleAssetUrn2Part2_Sprite" index="0" posX="176" posY="0" anchorX="7.5" anchorY="6.5" width="15" height="13"/>
+  <instance name="CastleAssetFireFX1_Sprite" index="2" posX="192" posY="0" anchorX="0" anchorY="0" width="11" height="18"/>
+  <instance name="CastleFireBig2_Sprite" index="2" posX="204" posY="0" anchorX="0" anchorY="0" width="11" height="18"/>
+  <instance name="CastleFireBig2_Sprite" index="1" posX="216" posY="0" anchorX="0" anchorY="-1" width="12" height="17"/>
+  <instance name="CastleAssetKnightStatuePart4_Sprite" index="1" posX="229" posY="0" anchorX="7.95" anchorY="6.5" width="16" height="13"/>
+  <instance name="FairyBossSymbol_Sprite" index="0" posX="246" posY="0" anchorX="6.5" anchorY="7.5" width="13" height="16"/>
+  <instance name="CastleAssetCandle2Part3_Sprite" index="1" posX="260" posY="0" anchorX="4.300000000000001" anchorY="13.799999999999997" width="8" height="27"/>
+  <instance name="CastleAssetFireFX1_Sprite" index="1" posX="269" posY="0" anchorX="0" anchorY="0" width="12" height="18"/>
+  <instance name="BlobBossSymbol_Sprite" index="0" posX="282" posY="0" anchorX="8.5" anchorY="6.5" width="17" height="13"/>
+  <instance name="EyeballBossSymbol_Sprite" index="0" posX="300" posY="0" anchorX="7.5" anchorY="7.5" width="15" height="15"/>
+  <instance name="CastleAssetAngelPart4_Sprite" index="0" posX="316" posY="0" anchorX="10.25" anchorY="6.1" width="20" height="12"/>
+  <instance name="CastleAssetChandelier1Part4_Sprite" index="1" posX="337" posY="0" anchorX="5.449999999999999" anchorY="11.2" width="11" height="22"/>
+  <instance name="CastleAssetTable2Part1_Sprite" index="0" posX="349" posY="0" anchorX="14.25" anchorY="5" width="28" height="9"/>
+  <instance name="CastleAssetCandlePart1_Sprite" index="0" posX="378" posY="0" anchorX="3.95" anchorY="12.2" width="11" height="23"/>
+  <instance name="FireballBossSymbol_Sprite" index="0" posX="390" posY="0" anchorX="7.5" anchorY="8.5" width="15" height="17"/>
+  <instance name="CastleAssetUrn1Part1_Sprite" index="0" posX="406" posY="0" anchorX="4.05" anchorY="9.3" width="14" height="19"/>
+  <instance name="CastleAssetCandle2Part1_Sprite" index="0" posX="421" posY="0" anchorX="5.65" anchorY="13.15" width="11" height="26"/>
+  <instance name="CastleAssetCandle2Part2_Sprite" index="0" posX="433" posY="0" anchorX="5.65" anchorY="13.15" width="11" height="26"/>
+  <instance name="CastleAssetKnightStatuePart1_Sprite" index="0" posX="445" posY="0" anchorX="9.15" anchorY="9.85" width="18" height="17"/>
+  <instance name="BreakableCrate1Part2_Sprite" index="0" posX="464" posY="0" anchorX="7.399999999999999" anchorY="11.6" width="14" height="23"/>
+  <instance name="CastleCornerL_Sprite" index="0" posX="479" posY="0" anchorX="0" anchorY="0" width="18" height="18"/>
+  <instance name="CastleAssetTable2Part2_Sprite" index="0" posX="498" posY="0" anchorX="11.9" anchorY="7.4" width="24" height="14"/>
+  <instance name="BreakableBarrel2Part3_Sprite" index="0" posX="523" posY="0" anchorX="14.3" anchorY="7.600000000000001" width="26" height="13"/>
+  <instance name="CastleAssetDemonStatuePart3_Sprite" index="0" posX="550" posY="0" anchorX="8.4" anchorY="9.4" width="18" height="19"/>
+  <instance name="CastleAssetUrn2Part3_Sprite" index="0" posX="569" posY="0" anchorX="8.3" anchorY="21.8" width="15" height="23"/>
+  <instance name="CastleAssetDemonStatuePart4_Sprite" index="1" posX="585" posY="0" anchorX="13.85" anchorY="6.75" width="27" height="13"/>
+  <instance name="BreakableBarrel1Part1_Sprite" index="1" posX="613" posY="0" anchorX="14.85" anchorY="6.3" width="28" height="13"/>
+  <instance name="CastleAssetAngelPart2_Sprite" index="0" posX="642" posY="0" anchorX="10.05" anchorY="10.7" width="20" height="19"/>
+  <instance name="CastleAssetSideTorch_Sprite" index="0" posX="663" posY="0" anchorX="0" anchorY="0.35" width="16" height="24"/>
+  <instance name="CastleAssetSideTorchUnlit_Sprite" index="0" posX="680" posY="0" anchorX="0" anchorY="0.35" width="16" height="24"/>
+  <instance name="CastleAssetChandelier1Part1_Sprite" index="0" posX="697" posY="0" anchorX="8.4" anchorY="12.5" width="16" height="25"/>
+  <instance name="BreakableChair2Part1_Sprite" index="1" posX="714" posY="0" anchorX="7.15" anchorY="12.55" width="16" height="25"/>
+  <instance name="CastleAssetTable2Part3_Sprite" index="1" posX="731" posY="0" anchorX="15.3" anchorY="6.75" width="31" height="13"/>
+  <instance name="CastleAssetCandlePart2_Sprite" index="0" posX="763" posY="0" anchorX="7.35" anchorY="14.75" width="14" height="29"/>
+  <instance name="CastleAssetChandelier2Part2_Sprite" index="1" posX="778" posY="0" anchorX="5.850000000000001" anchorY="16.85" width="12" height="34"/>
+  <instance name="BreakableBarrel1Part3_Sprite" index="0" posX="791" posY="0" anchorX="11.8" anchorY="10.399999999999999" width="23" height="18"/>
+  <instance name="BreakableChair2Part3_Sprite" index="0" posX="815" posY="0" anchorX="11.5" anchorY="9.200000000000003" width="29" height="15"/>
+  <instance name="BreakableBarrel1Part2_Sprite" index="0" posX="845" posY="0" anchorX="10.95" anchorY="9.100000000000001" width="19" height="23"/>
+  <instance name="CastleAssetTablePart2_Sprite" index="1" posX="865" posY="0" anchorX="11.3" anchorY="10.95" width="22" height="21"/>
+  <instance name="BreakableBarrel2Part2_Sprite" index="0" posX="888" posY="0" anchorX="11.5" anchorY="8.9" width="22" height="21"/>
+  <instance name="CastleAssetKnightStatuePart2_Sprite" index="0" posX="911" posY="0" anchorX="12.3" anchorY="12.3" width="24" height="22"/>
+  <instance name="CastleAssetDemonStatuePart1_Sprite" index="0" posX="936" posY="0" anchorX="12.75" anchorY="11" width="27" height="22"/>
+  <instance name="LastBossSymbol_Sprite" index="0" posX="964" posY="0" anchorX="0" anchorY="0" width="30" height="20"/>
+  <instance name="CastleAssetKnightStatuePart3_Sprite" index="0" posX="995" posY="0" anchorX="11.4" anchorY="14" width="22" height="28"/>
+  <instance name="BreakableBarrel2Part1_Sprite" index="1" posX="0" posY="30" anchorX="20.1" anchorY="9.75" width="32" height="20"/>
+  <instance name="BreakableCrate1Part3_Sprite" index="0" posX="33" posY="19" anchorX="15.85" anchorY="10.2" width="28" height="23"/>
+  <instance name="CastleAssetChandelier1Part3_Sprite" index="0" posX="62" posY="19" anchorX="13.3" anchorY="12.5" width="26" height="25"/>
+  <instance name="BreakableCrate2Part1_Sprite" index="1" posX="89" posY="19" anchorX="12.25" anchorY="8.85" width="33" height="20"/>
+  <instance name="BreakableCrate2Part2_Sprite" index="0" posX="123" posY="20" anchorX="22" anchorY="11.15" width="37" height="19"/>
+  <instance name="CastleAssetBackTorch_Sprite" index="0" posX="161" posY="17" anchorX="0" anchorY="0" width="30" height="25"/>
+  <instance name="CastleAssetBackTorchUnlit_Sprite" index="0" posX="192" posY="19" anchorX="0" anchorY="0" width="30" height="25"/>
+  <instance name="BreakableChair2Part2_Sprite" index="0" posX="223" posY="18" anchorX="11.5" anchorY="13.45" width="32" height="24"/>
+  <instance name="CastleAssetTablePart3_Sprite" index="0" posX="256" posY="28" anchorX="18.55" anchorY="10.85" width="37" height="21"/>
+  <instance name="BreakableChair1Part1_Sprite" index="0" posX="294" posY="16" anchorX="14.1" anchorY="36.35" width="19" height="43"/>
+  <instance name="BreakableCrate1Part1_Sprite" index="1" posX="314" posY="23" anchorX="20.45" anchorY="15.55" width="43" height="21"/>
+  <instance name="CastleAssetAngelPart3_Sprite" index="1" posX="358" posY="24" anchorX="14" anchorY="16.85" width="28" height="33"/>
+  <instance name="BreakableBarrel1Part1_Sprite" index="0" posX="387" posY="24" anchorX="14.95" anchorY="6.3" width="30" height="31"/>
+  <instance name="CastleAssetDemonStatuePart2_Sprite" index="0" posX="418" posY="27" anchorX="12.75" anchorY="18.65" width="27" height="37"/>
+  <instance name="BreakableCrate2Part1_Sprite" index="0" posX="446" posY="24" anchorX="12.25" anchorY="8.85" width="50" height="20"/>
+  <instance name="CastleAssetAngelPart1_Sprite" index="0" posX="497" posY="19" anchorX="14.95" anchorY="19.55" width="29" height="37"/>
+  <instance name="BreakableBarrel2Part1_Sprite" index="0" posX="527" posY="20" anchorX="24.8" anchorY="9.8" width="37" height="29"/>
+  <instance name="CastleAssetChandelier2Part1_Sprite" index="0" posX="565" posY="24" anchorX="19.15" anchorY="15.3" width="38" height="30"/>
+  <instance name="CastleAssetTable2Part3_Sprite" index="0" posX="604" posY="20" anchorX="24.3" anchorY="16.95" width="48" height="24"/>
+  <instance name="CastleAssetTablePart2_Sprite" index="0" posX="653" posY="26" anchorX="10.3" anchorY="10.65" width="55" height="21"/>
+  <instance name="CastleAssetCandlePart3_Sprite" index="0" posX="709" posY="26" anchorX="12.55" anchorY="38.25" width="25" height="47"/>
+  <instance name="CastleAssetCandle2Part3_Sprite" index="0" posX="735" posY="14" anchorX="12.5" anchorY="37.1" width="25" height="50"/>
+  <instance name="BreakableCrate1Part1_Sprite" index="0" posX="761" posY="35" anchorX="20.45" anchorY="24.55" width="43" height="30"/>
+  <instance name="BreakableChair2Part1_Sprite" index="0" posX="805" posY="19" anchorX="7.05" anchorY="12.35" width="33" height="45"/>
+  <instance name="CastleAssetFrame_Sprite" index="0" posX="839" posY="24" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="CastleAssetFrame1_Sprite" index="0" posX="876" posY="23" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="CastleAssetFrame2_Sprite" index="0" posX="913" posY="23" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="CastleAssetFrame3_Sprite" index="0" posX="950" posY="23" anchorX="18" anchorY="24" width="36" height="48"/>
+  <instance name="CastleAssetKnightStatuePart4_Sprite" index="0" posX="987" posY="29" anchorX="7.949999999999999" anchorY="57.3" width="28" height="64"/>
+  <instance name="CastleAssetChandelier1Part4_Sprite" index="0" posX="0" posY="51" anchorX="19.55" anchorY="11.2" width="38" height="48"/>
+  <instance name="CastleAssetChandelier2Part2_Sprite" index="0" posX="39" posY="45" anchorX="19.9" anchorY="16.85" width="39" height="47"/>
+  <instance name="CastleAssetAngelPart3_Sprite" index="0" posX="79" posY="45" anchorX="14" anchorY="46.85" width="31" height="62"/>
+  <instance name="CastleAssetDemonStatuePart4_Sprite" index="0" posX="111" posY="40" anchorX="17.3" anchorY="54.75" width="33" height="61"/>
+  <instance name="CastleBorder_Sprite" index="0" posX="145" posY="50" anchorX="0" anchorY="0" width="128" height="16"/>
+  <instance name="HealingFountain_Sprite" index="0" posX="274" posY="60" anchorX="23" anchorY="62" width="46" height="61"/>
+  <instance name="HealingFountain_Sprite" index="1" posX="321" posY="58" anchorX="23" anchorY="62" width="46" height="61"/>
+  <instance name="HealingFountain_Sprite" index="2" posX="368" posY="58" anchorX="23" anchorY="62" width="46" height="61"/>
+  <instance name="HealingFountain_Sprite" index="3" posX="415" posY="65" anchorX="23" anchorY="62" width="46" height="61"/>
+  <instance name="HealingFountain_Sprite" index="4" posX="462" posY="57" anchorX="23" anchorY="62" width="46" height="61"/>
+  <instance name="HealingFountain_Sprite" index="5" posX="509" posY="57" anchorX="23" anchorY="62" width="46" height="61"/>
+  <instance name="CastleAssetWeb1_Sprite" index="0" posX="556" posY="55" anchorX="0" anchorY="0" width="65" height="46"/>
+  <instance name="SpecialItemStatue_Sprite" index="0" posX="622" posY="48" anchorX="21" anchorY="74" width="42" height="73"/>
+  <instance name="CastleAssetWeb2_Sprite" index="0" posX="665" posY="74" anchorX="0" anchorY="0" width="68" height="60"/>
+  <instance name="CastleAssetBookcase_Sprite" index="0" posX="734" posY="74" anchorX="29" anchorY="77.55" width="57" height="77"/>
+  <instance name="CastleAssetBookCase2_Sprite" index="0" posX="792" posY="73" anchorX="29" anchorY="77.55" width="57" height="77"/>
+  <instance name="CastleAssetBookCase3_Sprite" index="0" posX="850" posY="73" anchorX="29" anchorY="77.55" width="57" height="77"/>
+  <instance name="CastleAssetBookCase4_Sprite" index="0" posX="908" posY="72" anchorX="29" anchorY="77.55" width="57" height="77"/>
+  <instance name="CastleAssetFireplace_Sprite" index="0" posX="0" posY="108" anchorX="0" anchorY="0" width="90" height="50"/>
+  <instance name="CastleAssetFireplace_Sprite" index="1" posX="91" posY="108" anchorX="0" anchorY="0" width="90" height="50"/>
+  <instance name="CastleFireplaceNoFire_Sprite" index="0" posX="182" posY="67" anchorX="0" anchorY="0" width="90" height="50"/>
+  <instance name="CastleAssetWindow1_Sprite" index="0" posX="273" posY="122" anchorX="31" anchorY="45" width="61" height="86"/>
+  <instance name="CastleAssetWindow2_Sprite" index="0" posX="335" posY="120" anchorX="32" anchorY="53.95" width="61" height="97"/>
+  <instance name="CastleBGPillar_Sprite" index="0" posX="397" posY="127" anchorX="0" anchorY="0" width="48" height="128"/>
+  <instance name="CastleMap_Sprite" index="0" posX="446" posY="127" anchorX="49" anchorY="33" width="98" height="66"/>
+  <instance name="CastleDoorOpen_Sprite" index="0" posX="545" posY="122" anchorX="49.6" anchorY="88.25" width="97" height="88"/>
+  <instance name="CastleDoor_Sprite" index="0" posX="643" posY="152" anchorX="49.6" anchorY="88.25" width="97" height="90"/>
+  <instance name="CastleFG1_Sprite" index="0" posX="741" posY="152" anchorX="0" anchorY="0" width="128" height="128"/>
+  <instance name="CastleBG1_Sprite" index="0" posX="870" posY="151" anchorX="0" anchorY="0" width="128" height="128"/>
+  <instance name="LastDoor_Sprite" index="0" posX="0" posY="159" anchorX="56" anchorY="150" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="0" posX="113" posY="159" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="1" posX="226" posY="218" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="2" posX="339" posY="256" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="3" posX="452" posY="211" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="4" posX="565" posY="243" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="5" posX="678" posY="281" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="6" posX="791" posY="281" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="7" posX="904" posY="280" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="8" posX="0" posY="310" anchorX="0" anchorY="0" width="112" height="150"/>
+  <instance name="LastDoorOpening_Sprite" index="9" posX="113" posY="310" anchorX="0" anchorY="0" width="112" height="150"/>
+  <animation frame="1" name="CastleAssetFrame_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetWeb1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetWeb2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetWindow1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetWindow2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleDoor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetBookcase_Sprite" index="0" duration="1" label="">
+    <rectangle x="-28" y="-76" width="57" height="77" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetCandlePart3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-11" y="-37" width="24" height="47" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetCandlePart3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-11" y="-37" width="24" height="47" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetCandlePart2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetCandlePart1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetAngelPart3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-13" y="-46" width="31" height="63" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetAngelPart3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-13" y="-46" width="31" height="63" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetAngelPart2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetAngelPart1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetAngelPart4_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetCandle2Part3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-34" width="25" height="48" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetCandle2Part3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-34" width="25" height="48" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetCandle2Part1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetCandle2Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetChandelier1Part4_Sprite" index="0" duration="1" label="">
+    <rectangle x="-19" y="-10" width="39" height="49" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetChandelier1Part4_Sprite" index="1" duration="1" label="">
+    <rectangle x="-19" y="-10" width="39" height="49" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetChandelier1Part1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetChandelier1Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetChandelier1Part3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetChandelier2Part2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-19" y="-16" width="39" height="47" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetChandelier2Part2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-19" y="-16" width="39" height="47" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetChandelier2Part1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetDemonStatuePart4_Sprite" index="0" duration="1" label="">
+    <rectangle x="-13" y="-55" width="27" height="62" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetDemonStatuePart4_Sprite" index="1" duration="1" label="">
+    <rectangle x="-13" y="-55" width="27" height="62" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetDemonStatuePart3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetDemonStatuePart1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetDemonStatuePart2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetKnightStatuePart4_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-56" width="28" height="64" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="CastleAssetKnightStatuePart4_Sprite" index="1" duration="1" label="">
+    <rectangle x="-7" y="-56" width="28" height="64" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="CastleAssetKnightStatuePart2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetKnightStatuePart3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetKnightStatuePart1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetTablePart2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-10" y="-10" width="56" height="21" rotation="0" type="2"/>
+    <rectangle x="-10" y="-10" width="56" height="21" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="CastleAssetTablePart2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-10" y="-10" width="56" height="21" rotation="0" type="2"/>
+    <rectangle x="-10" y="-10" width="56" height="21" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetTablePart3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetTablePart1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetTable2Part3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-23" y="-16" width="48" height="23" rotation="0" type="2"/>
+    <rectangle x="-23" y="-16" width="48" height="23" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="CastleAssetTable2Part3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-23" y="-16" width="48" height="23" rotation="0" type="2"/>
+    <rectangle x="-23" y="-16" width="48" height="23" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetTable2Part1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetTable2Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetUrn1Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-4" y="-9" width="15" height="19" rotation="0" type="2"/>
+    <rectangle x="-4" y="-9" width="15" height="19" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="CastleAssetUrn1Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-4" y="-9" width="15" height="19" rotation="0" type="2"/>
+    <rectangle x="-4" y="-9" width="15" height="19" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetUrn1Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetUrn2Part3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-21" width="15" height="23" rotation="0" type="2"/>
+    <rectangle x="-7" y="-21" width="15" height="23" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="CastleAssetUrn2Part3_Sprite" index="1" duration="1" label="">
+    <rectangle x="-7" y="-21" width="15" height="23" rotation="0" type="2"/>
+    <rectangle x="-7" y="-21" width="15" height="23" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetUrn2Part1_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetUrn2Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleAssetBookCase2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-28" y="-76" width="57" height="77" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetBookCase3_Sprite" index="0" duration="1" label="">
+    <rectangle x="-28" y="-76" width="57" height="77" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="CastleAssetBookCase4_Sprite" index="0" duration="1" label="">
+    <rectangle x="-28" y="-76" width="57" height="77" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BreakableCrate2Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-11" y="-8" width="50" height="20" rotation="0" type="2"/>
+    <rectangle x="-11" y="-8" width="50" height="20" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="BreakableCrate2Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-11" y="-8" width="50" height="20" rotation="0" type="2"/>
+    <rectangle x="-11" y="-8" width="50" height="20" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BreakableCrate2Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableCrate1Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-20" y="-24" width="43" height="30" rotation="0" type="2"/>
+    <rectangle x="-20" y="-24" width="43" height="30" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="BreakableCrate1Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-20" y="-24" width="43" height="30" rotation="0" type="2"/>
+    <rectangle x="-20" y="-24" width="43" height="30" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BreakableCrate1Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableCrate1Part3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableChair2Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-6" y="-12" width="16" height="46" rotation="0" type="2"/>
+    <rectangle x="9" y="17" width="16" height="15" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="BreakableChair2Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-6" y="-12" width="16" height="46" rotation="0" type="2"/>
+    <rectangle x="9" y="17" width="16" height="15" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="BreakableChair2Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableChair2Part3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableChair1Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-6" width="19" height="14" rotation="0" type="2"/>
+    <rectangle x="-14" y="-36" width="3" height="29" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="BreakableChair1Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-6" width="19" height="14" rotation="0" type="2"/>
+    <rectangle x="-14" y="-36" width="3" height="29" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="BreakableChair1Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableChair1Part3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableBarrel2Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-23" y="-9" width="36" height="28" rotation="0" type="2"/>
+    <rectangle x="-23" y="-9" width="36" height="28" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="BreakableBarrel2Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-23" y="-9" width="36" height="28" rotation="0" type="2"/>
+    <rectangle x="-23" y="-9" width="36" height="28" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BreakableBarrel2Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableBarrel2Part3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleDoorOpen_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetFireFX1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="CastleAssetFireFX1_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="CastleAssetFireFX1_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetSideTorch_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetBackTorch_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleBorder_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleFG1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleBG1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleCorner_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleCornerL_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetFireplace_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="CastleAssetFireplace_Sprite" index="1" duration="2" label=""/>
+  <animation frame="1" name="CastleFireBig2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="CastleFireBig2_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="CastleFireBig2_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="CastleLogs_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="CastleLogs_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetBackTorchUnlit_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetSideTorchUnlit_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleFireplaceNoFire_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BreakableBarrel1Part1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-14" y="-5" width="30" height="31" rotation="0" type="2"/>
+    <rectangle x="-14" y="-5" width="30" height="31" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="BreakableBarrel1Part1_Sprite" index="1" duration="1" label="">
+    <rectangle x="-14" y="-5" width="30" height="31" rotation="0" type="2"/>
+    <rectangle x="-14" y="-5" width="30" height="31" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="BreakableBarrel1Part3_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="BreakableBarrel1Part2_Sprite" index="0" duration="2" label=""/>
+  <animation frame="1" name="CastleBGPillar_Sprite" index="0" duration="3" label=""/>
+  <animation frame="1" name="LastDoor_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EyeballBossSymbol_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FireballBossSymbol_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="FairyBossSymbol_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="BlobBossSymbol_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LastBossSymbol_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="LastDoorOpening_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="LastDoorOpening_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="LastDoorOpening_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="LastDoorOpening_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="LastDoorOpening_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="LastDoorOpening_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="LastDoorOpening_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="LastDoorOpening_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="LastDoorOpening_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="LastDoorOpening_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="HealingFountain_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="HealingFountain_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="HealingFountain_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="HealingFountain_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="HealingFountain_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="HealingFountain_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="SpecialItemStatue_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetFrame1_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetFrame2_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleAssetFrame3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="CastleMap_Sprite" index="0" duration="1" label=""/>
+  <container name="CastleAssetCandle1_Character" child="CastleAssetCandlePart3_Sprite" childX="0.284088134765625" childY="-10.138133239746095" childRotation="0"/>
+  <container name="CastleAssetCandle1_Character" child="CastleAssetCandlePart2_Sprite" childX="5.397674560546875" childY="-33.19741668701172" childRotation="0"/>
+  <container name="CastleAssetCandle1_Character" child="CastleAssetCandlePart1_Sprite" childX="-8.238555908203125" childY="-33.33940734863281" childRotation="0"/>
+  <container name="CastleAssetAngelStatue_Character" child="CastleAssetAngelPart3_Sprite" childX="2.5258941650390625" childY="-17.63943862915039" childRotation="0"/>
+  <container name="CastleAssetAngelStatue_Character" child="CastleAssetAngelPart2_Sprite" childX="-0.7250251770019531" childY="-40.51230010986328" childRotation="0"/>
+  <container name="CastleAssetAngelStatue_Character" child="CastleAssetAngelPart1_Sprite" childX="5.800201416015625" childY="-43.783189392089845" childRotation="0"/>
+  <container name="CastleAssetAngelStatue_Character" child="CastleAssetAngelPart4_Sprite" childX="5.776813507080078" childY="-7.826770782470703" childRotation="0"/>
+  <container name="CastleAssetCandle2_Character" child="CastleAssetCandle2Part3_Sprite" childX="0" childY="-14.02529296875" childRotation="0"/>
+  <container name="CastleAssetCandle2_Character" child="CastleAssetCandle2Part1_Sprite" childX="-6.744174957275391" childY="-38.193878173828125" childRotation="0"/>
+  <container name="CastleAssetCandle2_Character" child="CastleAssetCandle2Part2_Sprite" childX="6.744174957275391" childY="-37.78689422607422" childRotation="0"/>
+  <container name="CastleAssetChandelier1_Character" child="CastleAssetChandelier1Part4_Sprite" childX="0.6271682739257812" childY="13.502975463867186" childRotation="0"/>
+  <container name="CastleAssetChandelier1_Character" child="CastleAssetChandelier1Part1_Sprite" childX="-9.825636291503907" childY="28.119598388671875" childRotation="0"/>
+  <container name="CastleAssetChandelier1_Character" child="CastleAssetChandelier1Part2_Sprite" childX="0.6271682739257812" childY="44.82431030273438" childRotation="0"/>
+  <container name="CastleAssetChandelier1_Character" child="CastleAssetChandelier1Part3_Sprite" childX="6.097469329833984" childY="28.119598388671875" childRotation="0"/>
+  <container name="CastleAssetChandelier2_Character" child="CastleAssetChandelier2Part2_Sprite" childX="0.7670440673828125" childY="18.714681243896482" childRotation="0"/>
+  <container name="CastleAssetChandelier2_Character" child="CastleAssetChandelier2Part1_Sprite" childX="0.6519874572753906" childY="32.760260009765624" childRotation="0"/>
+  <container name="CastleAssetDemonStatue_Character" child="CastleAssetDemonStatuePart4_Sprite" childX="0.8729690551757812" childY="-8.196411895751954" childRotation="0"/>
+  <container name="CastleAssetDemonStatue_Character" child="CastleAssetDemonStatuePart3_Sprite" childX="-0.8499961853027345" childY="-23.992298126220703" childRotation="0"/>
+  <container name="CastleAssetDemonStatue_Character" child="CastleAssetDemonStatuePart1_Sprite" childX="-3.6756591796875" childY="-51.54326248168945" childRotation="0"/>
+  <container name="CastleAssetDemonStatue_Character" child="CastleAssetDemonStatuePart2_Sprite" childX="2.756744384765625" childY="-37.76778030395508" childRotation="0"/>
+  <container name="CastleAssetKnightStatue_Character" child="CastleAssetKnightStatuePart4_Sprite" childX="-5.885652160644531" childY="-8.17132568359375" childRotation="0"/>
+  <container name="CastleAssetKnightStatue_Character" child="CastleAssetKnightStatuePart2_Sprite" childX="1.4283172607421875" childY="-34.13743591308594" childRotation="0"/>
+  <container name="CastleAssetKnightStatue_Character" child="CastleAssetKnightStatuePart3_Sprite" childX="3.275279235839844" childY="-14.86590576171875" childRotation="0"/>
+  <container name="CastleAssetKnightStatue_Character" child="CastleAssetKnightStatuePart1_Sprite" childX="0.4432708740234375" childY="-54.31962585449219" childRotation="0"/>
+  <container name="CastleAssetTable1_Character" child="CastleAssetTablePart2_Sprite" childX="-14.270782470703125" childY="-12.257453918457031" childRotation="0"/>
+  <container name="CastleAssetTable1_Character" child="CastleAssetTablePart3_Sprite" childX="11.045585632324219" childY="-12.228948211669922" childRotation="0"/>
+  <container name="CastleAssetTable1_Character" child="CastleAssetTablePart1_Sprite" childX="-7.420806884765625" childY="-7.7820579528808596" childRotation="0"/>
+  <container name="CastleAssetTable2_Character" child="CastleAssetTable2Part3_Sprite" childX="0" childY="-9.37298583984375" childRotation="0"/>
+  <container name="CastleAssetTable2_Character" child="CastleAssetTable2Part1_Sprite" childX="-9.406796264648438" childY="-21.16680908203125" childRotation="0"/>
+  <container name="CastleAssetTable2_Character" child="CastleAssetTable2Part2_Sprite" childX="11.207437133789062" childY="-18.68389892578125" childRotation="0"/>
+  <container name="CastleAssetUrn1_Character" child="CastleAssetUrn1Part1_Sprite" childX="-2.950836181640625" childY="-11.29364013671875" childRotation="0"/>
+  <container name="CastleAssetUrn1_Character" child="CastleAssetUrn1Part2_Sprite" childX="2.262307739257812" childY="-11.29364013671875" childRotation="0"/>
+  <container name="CastleAssetUrn2_Character" child="CastleAssetUrn2Part3_Sprite" childX="1" childY="-3" childRotation="0"/>
+  <container name="CastleAssetUrn2_Character" child="CastleAssetUrn2Part1_Sprite" childX="-1.575" childY="-17.45" childRotation="0"/>
+  <container name="CastleAssetUrn2_Character" child="CastleAssetUrn2Part2_Sprite" childX="0.425" childY="-10.95" childRotation="0"/>
+  <container name="BreakableCrate2_Character" child="BreakableCrate2Part1_Sprite" childX="-12.873065185546874" childY="-13.576556396484374" childRotation="0"/>
+  <container name="BreakableCrate2_Character" child="BreakableCrate2Part2_Sprite" childX="9.07955322265625" childY="-11.1588134765625" childRotation="0"/>
+  <container name="BreakableCrate1_Character" child="BreakableCrate1Part1_Sprite" childX="-1.0547439575195312" childY="-7.868124389648437" childRotation="0"/>
+  <container name="BreakableCrate1_Character" child="BreakableCrate1Part2_Sprite" childX="14.39415283203125" childY="-20.63059387207031" childRotation="0"/>
+  <container name="BreakableCrate1_Character" child="BreakableCrate1Part3_Sprite" childX="-5.1496322631835945" childY="-21.931622314453126" childRotation="0"/>
+  <container name="BreakableChair2_Character" child="BreakableChair2Part1_Sprite" childX="-7.080303955078125" childY="-34.061334228515626" childRotation="0"/>
+  <container name="BreakableChair2_Character" child="BreakableChair2Part2_Sprite" childX="-2.7276580810546878" childY="-20.135064697265626" childRotation="0"/>
+  <container name="BreakableChair2_Character" child="BreakableChair2Part3_Sprite" childX="-2.7276580810546878" childY="-7.369317626953125" childRotation="0"/>
+  <container name="BreakableChair1_Character" child="BreakableChair1Part1_Sprite" childX="5.833351135253906" childY="-8.155588531494141" childRotation="0"/>
+  <container name="BreakableChair1_Character" child="BreakableChair1Part2_Sprite" childX="-6.66668701171875" childY="-29.792864227294924" childRotation="0"/>
+  <container name="BreakableChair1_Character" child="BreakableChair1Part3_Sprite" childX="-5.722239685058594" childY="-6.824063873291016" childRotation="0"/>
+  <container name="BreakableBarrel2_Character" child="BreakableBarrel2Part1_Sprite" childX="6.156683349609375" childY="-21.295926666259763" childRotation="0"/>
+  <container name="BreakableBarrel2_Character" child="BreakableBarrel2Part2_Sprite" childX="-7.151702880859375" childY="-17.198168182373045" childRotation="0"/>
+  <container name="BreakableBarrel2_Character" child="BreakableBarrel2Part3_Sprite" childX="4.664154052734375" childY="-8.692214965820313" childRotation="0"/>
+  <container name="CastleAssetSideTorch_Character" child="CastleAssetFireFX1_Sprite" childX="0.25" childY="-16.25" childRotation="0"/>
+  <container name="CastleAssetSideTorch_Character" child="CastleAssetSideTorch_Sprite" childX="0.3" childY="-1.75" childRotation="0"/>
+  <container name="CastleAssetBackTorch_Character" child="CastleAssetFireFX1_Sprite" childX="-6.6" childY="-14.75" childRotation="0"/>
+  <container name="CastleAssetBackTorch_Character" child="CastleAssetBackTorch_Sprite" childX="-15" childY="0" childRotation="0"/>
+  <container name="CastleAssetFireplace_Character" child="CastleAssetFireplace_Sprite" childX="-45.00054931640625" childY="-51.038818359375" childRotation="0"/>
+  <container name="CastleAssetFireplace_Character" child="CastleFireBig2_Sprite" childX="-5.3936828613281245" childY="-21.691497802734375" childRotation="0"/>
+  <container name="CastleAssetFireplace_Character" child="CastleLogs_Sprite" childX="-7.34051513671875" childY="-7.0178375244140625" childRotation="0"/>
+  <container name="CastleAssetBackTorchUnlit_Character" child="CastleAssetBackTorchUnlit_Sprite" childX="-15" childY="0.85" childRotation="0"/>
+  <container name="CastleAssetSideTorchUnlit_Character" child="CastleAssetSideTorchUnlit_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="CastleAssetFireplaceNoFire_Character" child="CastleFireplaceNoFire_Sprite" childX="-44.681396484375" childY="-50.40083312988281" childRotation="0"/>
+  <container name="BreakableBarrel1_Character" child="BreakableBarrel1Part1_Sprite" childX="0.5998077392578125" childY="-26.262890624999997" childRotation="0"/>
+  <container name="BreakableBarrel1_Character" child="BreakableBarrel1Part3_Sprite" childX="-2.819096374511719" childY="-8.9341796875" childRotation="0"/>
+  <container name="BreakableBarrel1_Character" child="BreakableBarrel1Part2_Sprite" childX="7.377635192871094" childY="-15.2900390625" childRotation="0"/>
+  <container name="CastleBGPillar_Character" child="CastleBGPillar_Sprite" childX="-24" childY="0" childRotation="0"/>
+  <container name="CastleBGPillar_Character" child="CastleBGPillar_Sprite" childX="-24" childY="116.3" childRotation="0"/>
+  <container name="CastleBGPillar_Character" child="CastleBGPillar_Sprite" childX="-24" childY="231.85" childRotation="0"/>
+  <container name="LastDoor_Character" child="LastDoor_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="LastDoor_Character" child="EyeballBossSymbol_Sprite" childX="-15.4" childY="-98.65" childRotation="0"/>
+  <container name="LastDoor_Character" child="FireballBossSymbol_Sprite" childX="15.6" childY="-99.65" childRotation="0"/>
+  <container name="LastDoor_Character" child="FairyBossSymbol_Sprite" childX="-15.4" childY="-31.65" childRotation="0"/>
+  <container name="LastDoor_Character" child="BlobBossSymbol_Sprite" childX="15.6" childY="-31.65" childRotation="0"/>
+  <container name="LastDoor_Character" child="LastBossSymbol_Sprite" childX="-15" childY="-74.15" childRotation="0"/>
+  <container name="LastDoorOpen_Character" child="LastDoorOpening_Sprite" childX="-56" childY="-150" childRotation="0"/>
+</xml>

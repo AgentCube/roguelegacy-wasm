@@ -1,0 +1,715 @@
+<xml>
+  <instance name="EnemySpearKnightWaveExplosion_Sprite" index="5" posX="0" posY="0" anchorX="-13421772.8" anchorY="-13421772.8" width="1" height="1"/>
+  <instance name="EnemyFlailKnightLink_Sprite" index="0" posX="2" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="1" posX="15" posY="0" anchorX="32.1" anchorY="-3" width="21" height="24"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="7" posX="37" posY="0" anchorX="32.1" anchorY="-3" width="21" height="24"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="2" posX="59" posY="0" anchorX="32.1" anchorY="-2" width="21" height="25"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="8" posX="81" posY="0" anchorX="32.1" anchorY="-1" width="21" height="26"/>
+  <instance name="FlailKnightBottom_Sprite" index="2" posX="103" posY="0" anchorX="32.1" anchorY="-2" width="21" height="28"/>
+  <instance name="FlailKnightBottom_Sprite" index="1" posX="125" posY="0" anchorX="32.1" anchorY="-3" width="22" height="27"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="9" posX="148" posY="0" anchorX="33.1" anchorY="0" width="22" height="27"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="0" posX="171" posY="0" anchorX="35.1" anchorY="-2" width="24" height="25"/>
+  <instance name="FlailKnightBottom_Sprite" index="8" posX="196" posY="0" anchorX="32.1" anchorY="-1" width="21" height="29"/>
+  <instance name="FlailKnightBottom_Sprite" index="7" posX="218" posY="0" anchorX="32.1" anchorY="-3" width="24" height="27"/>
+  <instance name="FlailKnightBottom_Sprite" index="9" posX="243" posY="0" anchorX="33.1" anchorY="0" width="24" height="30"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="3" posX="268" posY="0" anchorX="35.1" anchorY="0" width="27" height="27"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="6" posX="296" posY="0" anchorX="38.1" anchorY="-3" width="31" height="24"/>
+  <instance name="FlailKnightBottom_Sprite" index="0" posX="328" posY="0" anchorX="35.1" anchorY="-2" width="27" height="28"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="4" posX="356" posY="0" anchorX="40.1" anchorY="0" width="34" height="27"/>
+  <instance name="FlailKnightBottomTrim_Sprite" index="5" posX="391" posY="0" anchorX="42.1" anchorY="-2" width="37" height="25"/>
+  <instance name="FlailKnightBottom_Sprite" index="3" posX="429" posY="0" anchorX="36.1" anchorY="0" width="32" height="30"/>
+  <instance name="FlailKnightBottom_Sprite" index="6" posX="462" posY="0" anchorX="39.1" anchorY="-3" width="36" height="27"/>
+  <instance name="EnemyMimicIdle_Sprite" index="0" posX="499" posY="0" anchorX="0.4" anchorY="0.65" width="39" height="26"/>
+  <instance name="EnemyMimicShake_Sprite" index="0" posX="539" posY="0" anchorX="0.4" anchorY="0.65" width="39" height="26"/>
+  <instance name="EnemyMimicShake_Sprite" index="1" posX="579" posY="0" anchorX="0.7" anchorY="1.15" width="40" height="27"/>
+  <instance name="EnemyMimicShake_Sprite" index="2" posX="620" posY="0" anchorX="0.1499999999999999" anchorY="1.9" width="40" height="28"/>
+  <instance name="FlailKnightBottom_Sprite" index="4" posX="661" posY="0" anchorX="40.1" anchorY="0" width="38" height="30"/>
+  <instance name="FlailKnightBottom_Sprite" index="5" posX="700" posY="0" anchorX="42.1" anchorY="-2" width="41" height="28"/>
+  <instance name="EnemyFlailKnightBall_Sprite" index="0" posX="742" posY="0" anchorX="22" anchorY="22" width="44" height="44"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="4" posX="787" posY="0" anchorX="66.1" anchorY="-1" width="62" height="51"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="5" posX="850" posY="0" anchorX="66.1" anchorY="-2" width="62" height="52"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="3" posX="913" posY="0" anchorX="66.1" anchorY="0" width="62" height="53"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="6" posX="0" posY="26" anchorX="66.1" anchorY="-3" width="62" height="53"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="0" posX="63" posY="29" anchorX="66.1" anchorY="-1" width="62" height="54"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="1" posX="126" posY="28" anchorX="66.1" anchorY="-1" width="62" height="54"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="2" posX="189" posY="31" anchorX="66.1" anchorY="0" width="62" height="54"/>
+  <instance name="EnemySpearKnightWaveExplosion_Sprite" index="3" posX="252" posY="31" anchorX="-17" anchorY="57" width="30" height="112"/>
+  <instance name="EnemySpearKnightWaveExplosion_Sprite" index="4" posX="283" posY="28" anchorX="-17" anchorY="57" width="30" height="112"/>
+  <instance name="FlailKnightTopTrim_Sprite" index="7" posX="314" posY="29" anchorX="66.1" anchorY="-2" width="62" height="55"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="2" posX="377" posY="28" anchorX="126" anchorY="-37" width="47" height="74"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="2" posX="425" posY="31" anchorX="136" anchorY="-3" width="49" height="74"/>
+  <instance name="EnemySpearKnightAttack2Trim_Sprite" index="4" posX="475" posY="28" anchorX="108.95" anchorY="-10" width="57" height="67"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="3" posX="533" posY="28" anchorX="126" anchorY="-37" width="52" height="74"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="1" posX="586" posY="29" anchorX="128" anchorY="-36" width="52" height="75"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="1" posX="639" posY="31" anchorX="138" anchorY="-2" width="52" height="75"/>
+  <instance name="FlailKnightTop_Sprite" index="4" posX="692" posY="45" anchorX="66.1" anchorY="-1" width="65" height="60"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="7" posX="758" posY="52" anchorX="75" anchorY="-24" width="54" height="73"/>
+  <instance name="FlailKnightTop_Sprite" index="5" posX="813" posY="53" anchorX="66.1" anchorY="-2" width="65" height="61"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="6" posX="879" posY="54" anchorX="75" anchorY="-23" width="54" height="74"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="7" posX="934" posY="54" anchorX="65" anchorY="-4" width="55" height="73"/>
+  <instance name="FlailKnightTop_Sprite" index="3" posX="0" posY="84" anchorX="66.1" anchorY="0" width="65" height="62"/>
+  <instance name="FlailKnightTop_Sprite" index="6" posX="66" posY="84" anchorX="66.1" anchorY="-3" width="65" height="62"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="6" posX="132" posY="83" anchorX="65" anchorY="-3" width="55" height="74"/>
+  <instance name="EnemySpearKnightAttack2Trim_Sprite" index="3" posX="188" posY="86" anchorX="110.95" anchorY="-9" width="60" height="68"/>
+  <instance name="FlailKnightTop_Sprite" index="0" posX="249" posY="144" anchorX="66.1" anchorY="-1" width="65" height="63"/>
+  <instance name="FlailKnightTop_Sprite" index="1" posX="315" posY="103" anchorX="65.85" anchorY="-1" width="65" height="63"/>
+  <instance name="FlailKnightTop_Sprite" index="2" posX="381" posY="106" anchorX="66.1" anchorY="0" width="65" height="63"/>
+  <instance name="FlailKnightTop_Sprite" index="7" posX="447" posY="106" anchorX="66.1" anchorY="-2" width="65" height="64"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="8" posX="513" posY="103" anchorX="66" anchorY="-2" width="56" height="75"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="8" posX="570" posY="105" anchorX="76" anchorY="-22" width="56" height="75"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="0" posX="627" posY="107" anchorX="125" anchorY="-35" width="56" height="76"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="2" posX="684" posY="107" anchorX="130" anchorY="-37" width="56" height="77"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="7" posX="741" posY="126" anchorX="65" anchorY="-4" width="57" height="76"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="5" posX="799" posY="126" anchorX="66" anchorY="-1" width="57" height="76"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="5" posX="857" posY="129" anchorX="76" anchorY="-21" width="57" height="76"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="5" posX="915" posY="129" anchorX="128" anchorY="-46" width="67" height="65"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="1" posX="0" posY="147" anchorX="129" anchorY="-36" width="56" height="78"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="6" posX="57" posY="147" anchorX="65" anchorY="-3" width="57" height="77"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="0" posX="115" posY="158" anchorX="135" anchorY="-1" width="58" height="76"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="6" posX="174" posY="158" anchorX="76" anchorY="-25" width="60" height="74"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="4" posX="235" posY="208" anchorX="67" anchorY="0" width="58" height="77"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="4" posX="294" posY="208" anchorX="77" anchorY="-20" width="58" height="77"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="9" posX="353" posY="170" anchorX="77" anchorY="-20" width="58" height="77"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="6" posX="412" posY="171" anchorX="128" anchorY="-44" width="67" height="67"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="5" posX="480" posY="179" anchorX="76" anchorY="-24" width="60" height="75"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="7" posX="541" posY="181" anchorX="76" anchorY="-24" width="60" height="75"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="9" posX="602" posY="184" anchorX="67" anchorY="0" width="59" height="77"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="12" posX="662" posY="185" anchorX="127" anchorY="-40" width="64" height="71"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="7" posX="727" posY="203" anchorX="128" anchorY="-43" width="67" height="68"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="8" posX="795" posY="206" anchorX="128" anchorY="-43" width="67" height="68"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="9" posX="863" posY="206" anchorX="128" anchorY="-43" width="67" height="68"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="10" posX="931" posY="195" anchorX="128" anchorY="-43" width="67" height="68"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="0" posX="0" posY="226" anchorX="76" anchorY="-23" width="60" height="76"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="1" posX="61" posY="235" anchorX="76" anchorY="-23" width="60" height="76"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="4" posX="122" posY="235" anchorX="76" anchorY="-23" width="60" height="76"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="6" posX="183" posY="286" anchorX="66" anchorY="-3" width="62" height="74"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="8" posX="246" posY="286" anchorX="66" anchorY="-2" width="59" height="78"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="11" posX="306" posY="286" anchorX="127" anchorY="-40" width="65" height="71"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="2" posX="372" posY="248" anchorX="76" anchorY="-22" width="60" height="77"/>
+  <instance name="EnemySpearKnightIdle2Trim_Sprite" index="3" posX="433" posY="255" anchorX="76" anchorY="-22" width="60" height="77"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="5" posX="494" posY="257" anchorX="66" anchorY="-2" width="62" height="75"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="7" posX="557" posY="262" anchorX="66" anchorY="-2" width="62" height="75"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="3" posX="620" posY="262" anchorX="68" anchorY="-2" width="62" height="75"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="3" posX="683" posY="272" anchorX="78" anchorY="-22" width="62" height="75"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="0" posX="746" posY="275" anchorX="125" anchorY="-35" width="59" height="79"/>
+  <instance name="EnemySpearKnightAttack2Trim_Sprite" index="2" posX="806" posY="275" anchorX="117.95" anchorY="-9" width="69" height="68"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="0" posX="876" posY="275" anchorX="66" anchorY="-1" width="62" height="76"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="1" posX="939" posY="264" anchorX="66" anchorY="-1" width="62" height="76"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="4" posX="0" posY="312" anchorX="66" anchorY="-1" width="62" height="76"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="5" posX="63" posY="312" anchorX="66" anchorY="-1" width="60" height="79"/>
+  <instance name="EnemySpearKnightAttack2Trim_Sprite" index="1" posX="124" posY="361" anchorX="116.95" anchorY="-7" width="68" height="70"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="2" posX="193" posY="365" anchorX="66" anchorY="0" width="62" height="77"/>
+  <instance name="EnemySwordKnightIdleTrim_Sprite" index="3" posX="256" posY="365" anchorX="66" anchorY="0" width="62" height="77"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="2" posX="319" posY="358" anchorX="70" anchorY="-4" width="66" height="73"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="2" posX="386" posY="333" anchorX="80" anchorY="-24" width="66" height="73"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="4" posX="453" posY="333" anchorX="127" anchorY="-40" width="68" height="71"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="3" posX="522" posY="338" anchorX="137" anchorY="-6" width="68" height="71"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="6" posX="591" posY="338" anchorX="137" anchorY="-6" width="68" height="71"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="3" posX="660" posY="348" anchorX="134" anchorY="-37" width="63" height="77"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="0" posX="724" posY="355" anchorX="69" anchorY="-1" width="64" height="76"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="0" posX="789" posY="355" anchorX="79" anchorY="-21" width="64" height="76"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="4" posX="854" posY="352" anchorX="67" anchorY="0" width="61" height="80"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="9" posX="916" posY="352" anchorX="67" anchorY="0" width="61" height="80"/>
+  <instance name="EnemySwordKnightWalkTrim_Sprite" index="1" posX="0" posY="392" anchorX="70" anchorY="-3" width="66" height="74"/>
+  <instance name="EnemySpearKnightWalk2Trim_Sprite" index="1" posX="67" posY="432" anchorX="80" anchorY="-23" width="66" height="74"/>
+  <instance name="EnemySpearKnightAttack2Trim_Sprite" index="0" posX="134" posY="443" anchorX="116.95" anchorY="-4" width="67" height="73"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="13" posX="202" posY="443" anchorX="127" anchorY="-35" width="65" height="76"/>
+  <instance name="EnemySwordKnightAttackTrim_Sprite" index="14" posX="268" posY="443" anchorX="127" anchorY="-35" width="65" height="76"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="6" posX="334" posY="432" anchorX="66" anchorY="-3" width="65" height="77"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="4" posX="400" posY="407" anchorX="138" anchorY="-7" width="72" height="70"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="5" posX="473" posY="410" anchorX="66" anchorY="-2" width="65" height="78"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="7" posX="539" posY="410" anchorX="66" anchorY="-2" width="65" height="78"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="3" posX="605" posY="426" anchorX="68" anchorY="-2" width="65" height="78"/>
+  <instance name="EnemySpearKnightAttackTrim_Sprite" index="5" posX="671" posY="432" anchorX="138" anchorY="-8" width="74" height="69"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="0" posX="746" posY="432" anchorX="66" anchorY="-1" width="65" height="79"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="1" posX="812" posY="433" anchorX="66" anchorY="-1" width="65" height="79"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="4" posX="878" posY="433" anchorX="66" anchorY="-1" width="65" height="79"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="2" posX="944" posY="433" anchorX="66" anchorY="0" width="65" height="80"/>
+  <instance name="EnemySwordKnightIdle_Sprite" index="3" posX="0" posY="467" anchorX="66" anchorY="0" width="65" height="80"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="2" posX="66" posY="517" anchorX="70" anchorY="-4" width="69" height="76"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="0" posX="136" posY="520" anchorX="69" anchorY="-1" width="67" height="79"/>
+  <instance name="EnemySwordKnightWalk_Sprite" index="1" posX="204" posY="520" anchorX="70" anchorY="-3" width="69" height="77"/>
+  <instance name="EnemySpearKnightWaveExplosion_Sprite" index="2" posX="274" posY="520" anchorX="-7" anchorY="57" width="46" height="116"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="14" posX="321" posY="520" anchorX="127" anchorY="-35" width="68" height="79"/>
+  <instance name="EnemySpearKnightAttack2_Sprite" index="2" posX="390" posY="510" anchorX="117.95" anchorY="-9" width="74" height="74"/>
+  <instance name="EnemySpearKnightAttack2_Sprite" index="1" posX="465" posY="489" anchorX="116.95" anchorY="-7" width="74" height="75"/>
+  <instance name="EnemySpearKnightAttack2_Sprite" index="0" posX="540" posY="505" anchorX="116.95" anchorY="-4" width="75" height="76"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="13" posX="616" posY="505" anchorX="131" anchorY="-35" width="73" height="79"/>
+  <instance name="EnemySpearKnightAttack2_Sprite" index="5" posX="690" posY="512" anchorX="109.95" anchorY="-10" width="88" height="70"/>
+  <instance name="EnemySpearKnightAttack2_Sprite" index="4" posX="779" posY="513" anchorX="109.95" anchorY="-10" width="90" height="70"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="7" posX="870" posY="513" anchorX="75" anchorY="-3" width="68" height="97"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="6" posX="939" posY="514" anchorX="75" anchorY="-2" width="68" height="98"/>
+  <instance name="EnemySpearKnightWaveExplosion_Sprite" index="1" posX="0" posY="548" anchorX="5" anchorY="57" width="58" height="116"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="8" posX="59" posY="594" anchorX="76" anchorY="-3" width="70" height="97"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="5" posX="130" posY="600" anchorX="76" anchorY="-1" width="71" height="99"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="4" posX="202" posY="637" anchorX="77" anchorY="-2" width="72" height="98"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="9" posX="275" posY="637" anchorX="77" anchorY="-2" width="72" height="98"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="7" posX="348" posY="600" anchorX="76" anchorY="-5" width="75" height="97"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="6" posX="424" posY="585" anchorX="76" anchorY="-4" width="75" height="98"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="3" posX="500" posY="582" anchorX="78" anchorY="-3" width="76" height="97"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="2" posX="577" posY="585" anchorX="145" anchorY="-3" width="97" height="77"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="3" posX="675" posY="585" anchorX="146" anchorY="-3" width="97" height="77"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="0" posX="773" posY="584" anchorX="76" anchorY="-2" width="75" height="100"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="1" posX="849" posY="611" anchorX="76" anchorY="-2" width="75" height="100"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="5" posX="925" posY="613" anchorX="76" anchorY="-2" width="75" height="100"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="1" posX="0" posY="692" anchorX="142" anchorY="-2" width="97" height="78"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="4" posX="98" posY="700" anchorX="76" anchorY="0" width="75" height="102"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="2" posX="174" posY="736" anchorX="76" anchorY="-1" width="76" height="101"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="0" posX="251" posY="736" anchorX="79" anchorY="-1" width="78" height="99"/>
+  <instance name="EnemySpearKnightIdle2_Sprite" index="3" posX="330" posY="736" anchorX="76" anchorY="0" width="76" height="102"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="2" posX="407" posY="698" anchorX="80" anchorY="-3" width="80" height="97"/>
+  <instance name="EnemySpearKnightWalk2_Sprite" index="1" posX="488" posY="684" anchorX="80" anchorY="-2" width="80" height="98"/>
+  <instance name="EnemySpearKnightAttack2_Sprite" index="3" posX="569" posY="680" anchorX="111.95" anchorY="-9" width="111" height="71"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="0" posX="681" posY="685" anchorX="135" anchorY="-1" width="106" height="79"/>
+  <instance name="EnemySpearKnightWave_Sprite" index="0" posX="788" posY="712" anchorX="54" anchorY="38" width="106" height="80"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="6" posX="895" posY="714" anchorX="128" anchorY="-44" width="122" height="70"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="7" posX="0" posY="803" anchorX="128" anchorY="-43" width="122" height="71"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="8" posX="123" posY="838" anchorX="128" anchorY="-43" width="122" height="71"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="9" posX="246" posY="839" anchorX="128" anchorY="-43" width="122" height="71"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="10" posX="369" posY="839" anchorX="128" anchorY="-43" width="122" height="71"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="8" posX="492" posY="783" anchorX="137" anchorY="-6" width="119" height="74"/>
+  <instance name="EnemySpearKnightWaveExplosion_Sprite" index="0" posX="612" posY="765" anchorX="25" anchorY="57" width="76" height="116"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="4" posX="689" posY="793" anchorX="137" anchorY="-6" width="124" height="74"/>
+  <instance name="EnemySpearKnightWave_Sprite" index="1" posX="814" posY="793" anchorX="48" anchorY="48" width="94" height="98"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="11" posX="0" posY="910" anchorX="127" anchorY="-40" width="125" height="74"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="5" posX="126" posY="911" anchorX="138" anchorY="-7" width="132" height="73"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="6" posX="259" posY="911" anchorX="138" anchorY="-8" width="136" height="72"/>
+  <instance name="EnemySpearKnightAttack_Sprite" index="7" posX="396" posY="911" anchorX="138" anchorY="-8" width="136" height="72"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="12" posX="533" posY="882" anchorX="127" anchorY="-23" width="110" height="91"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="5" posX="644" posY="882" anchorX="128" anchorY="-27" width="121" height="87"/>
+  <instance name="EnemySwordKnightAttack_Sprite" index="4" posX="766" posY="892" anchorX="135" anchorY="-1" width="135" height="113"/>
+  <animation frame="1" name="EnemySwordKnightAttack_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="EnemySwordKnightAttack_Sprite" index="1" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="EnemySwordKnightAttack_Sprite" index="2" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="EnemySwordKnightAttack_Sprite" index="3" duration="1" label="Windup">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="EnemySwordKnightAttack_Sprite" index="4" duration="1" label="Attack">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-123" y="1" width="121" height="114" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySwordKnightAttack_Sprite" index="5" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-123" y="1" width="121" height="114" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemySwordKnightAttack_Sprite" index="6" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="EnemySwordKnightAttack_Sprite" index="7" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="EnemySwordKnightAttack_Sprite" index="8" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="EnemySwordKnightAttack_Sprite" index="9" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="11" name="EnemySwordKnightAttack_Sprite" index="10" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="12" name="EnemySwordKnightAttack_Sprite" index="11" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="13" name="EnemySwordKnightAttack_Sprite" index="12" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="14" name="EnemySwordKnightAttack_Sprite" index="13" duration="1" label="">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="15" name="EnemySwordKnightAttack_Sprite" index="14" duration="1" label="End">
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-121" y="42" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-121" y="43" width="51" height="72" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="EnemySwordKnightAttackTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySwordKnightAttackTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySwordKnightAttackTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySwordKnightAttackTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySwordKnightAttackTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemySwordKnightAttackTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemySwordKnightAttackTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemySwordKnightAttackTrim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="EnemySwordKnightAttackTrim_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="EnemySwordKnightAttackTrim_Sprite" index="9" duration="1" label=""/>
+  <animation frame="11" name="EnemySwordKnightAttackTrim_Sprite" index="10" duration="1" label=""/>
+  <animation frame="12" name="EnemySwordKnightAttackTrim_Sprite" index="11" duration="1" label=""/>
+  <animation frame="13" name="EnemySwordKnightAttackTrim_Sprite" index="12" duration="1" label=""/>
+  <animation frame="14" name="EnemySwordKnightAttackTrim_Sprite" index="13" duration="1" label=""/>
+  <animation frame="15" name="EnemySwordKnightAttackTrim_Sprite" index="14" duration="1" label=""/>
+  <animation frame="1" name="EnemySwordKnightIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySwordKnightIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySwordKnightIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySwordKnightIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySwordKnightIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySwordKnightIdle_Sprite" index="5" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemySwordKnightIdle_Sprite" index="6" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemySwordKnightIdle_Sprite" index="7" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-60" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-60" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySwordKnightIdleTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySwordKnightIdleTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySwordKnightIdleTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySwordKnightIdleTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySwordKnightIdleTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemySwordKnightIdleTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemySwordKnightIdleTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemySwordKnightIdleTrim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemySwordKnightWalk_Sprite" index="0" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemySwordKnightWalk_Sprite" index="1" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemySwordKnightWalk_Sprite" index="2" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemySwordKnightWalk_Sprite" index="3" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="EnemySwordKnightWalk_Sprite" index="4" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="EnemySwordKnightWalk_Sprite" index="5" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="EnemySwordKnightWalk_Sprite" index="6" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="EnemySwordKnightWalk_Sprite" index="7" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="9" name="EnemySwordKnightWalk_Sprite" index="8" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="10" name="EnemySwordKnightWalk_Sprite" index="9" duration="1" label="">
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-62" y="9" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-62" y="8" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemySwordKnightWalkTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySwordKnightWalkTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySwordKnightWalkTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySwordKnightWalkTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySwordKnightWalkTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemySwordKnightWalkTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemySwordKnightWalkTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemySwordKnightWalkTrim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="EnemySwordKnightWalkTrim_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="EnemySwordKnightWalkTrim_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="EnemySpearKnightWave_Sprite" index="0" duration="1" label="">
+    <rectangle x="0" y="-37" width="21" height="74" rotation="0" type="1"/>
+    <rectangle x="20" y="-21" width="31" height="38" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySpearKnightWave_Sprite" index="1" duration="1" label="">
+    <rectangle x="0" y="-37" width="21" height="74" rotation="0" type="1"/>
+    <rectangle x="20" y="-21" width="31" height="38" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySpearKnightWalk2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySpearKnightWalk2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySpearKnightWalk2_Sprite" index="2" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySpearKnightWalk2_Sprite" index="3" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySpearKnightWalk2_Sprite" index="4" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySpearKnightWalk2_Sprite" index="5" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemySpearKnightWalk2_Sprite" index="6" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemySpearKnightWalk2_Sprite" index="7" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="9" name="EnemySpearKnightWalk2_Sprite" index="8" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="10" name="EnemySpearKnightWalk2_Sprite" index="9" duration="1" label="">
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-72" y="30" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-72" y="28" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySpearKnightWalk2Trim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySpearKnightWalk2Trim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySpearKnightWalk2Trim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySpearKnightWalk2Trim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySpearKnightWalk2Trim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemySpearKnightWalk2Trim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemySpearKnightWalk2Trim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemySpearKnightWalk2Trim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="EnemySpearKnightWalk2Trim_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="EnemySpearKnightWalk2Trim_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="EnemySpearKnightIdle2_Sprite" index="0" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemySpearKnightIdle2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemySpearKnightIdle2_Sprite" index="2" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemySpearKnightIdle2_Sprite" index="3" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="EnemySpearKnightIdle2_Sprite" index="4" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="EnemySpearKnightIdle2_Sprite" index="5" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="EnemySpearKnightIdle2_Sprite" index="6" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="EnemySpearKnightIdle2_Sprite" index="7" duration="1" label="">
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="32" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="30" width="51" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemySpearKnightIdle2Trim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySpearKnightIdle2Trim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySpearKnightIdle2Trim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySpearKnightIdle2Trim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySpearKnightIdle2Trim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemySpearKnightIdle2Trim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemySpearKnightIdle2Trim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemySpearKnightIdle2Trim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemySpearKnightAttack2_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="2"/>
+    <rectangle x="-106" y="10" width="50" height="72" rotation="0" type="0"/>
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySpearKnightAttack2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="2"/>
+    <rectangle x="-106" y="10" width="50" height="72" rotation="0" type="0"/>
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySpearKnightAttack2_Sprite" index="2" duration="1" label="Windup">
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="2"/>
+    <rectangle x="-106" y="10" width="50" height="72" rotation="0" type="0"/>
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySpearKnightAttack2_Sprite" index="3" duration="1" label="Attack">
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="2"/>
+    <rectangle x="-106" y="10" width="50" height="72" rotation="0" type="0"/>
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="1"/>
+    <rectangle x="-55" y="39" width="50" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySpearKnightAttack2_Sprite" index="4" duration="1" label="">
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="2"/>
+    <rectangle x="-106" y="10" width="50" height="72" rotation="0" type="0"/>
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySpearKnightAttack2_Sprite" index="5" duration="1" label="End">
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="2"/>
+    <rectangle x="-106" y="10" width="50" height="72" rotation="0" type="0"/>
+    <rectangle x="-106" y="8" width="50" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySpearKnightAttack2Trim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySpearKnightAttack2Trim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySpearKnightAttack2Trim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySpearKnightAttack2Trim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySpearKnightAttack2Trim_Sprite" index="4" duration="2" label=""/>
+  <animation frame="1" name="EnemySpearKnightAttack_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySpearKnightAttack_Sprite" index="1" duration="1" label="">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySpearKnightAttack_Sprite" index="2" duration="1" label="">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySpearKnightAttack_Sprite" index="3" duration="1" label="Windup">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySpearKnightAttack_Sprite" index="4" duration="1" label="AttackStart">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-82" y="48" width="71" height="32" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySpearKnightAttack_Sprite" index="5" duration="1" label="">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-82" y="48" width="71" height="32" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemySpearKnightAttack_Sprite" index="6" duration="1" label="AttackEnd">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+    <rectangle x="-82" y="48" width="71" height="32" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemySpearKnightAttack_Sprite" index="7" duration="1" label="">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="9" name="EnemySpearKnightAttack_Sprite" index="8" duration="1" label="End">
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="2"/>
+    <rectangle x="-131" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-131" y="8" width="51" height="72" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySpearKnightAttackTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySpearKnightAttackTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySpearKnightAttackTrim_Sprite" index="2" duration="2" label=""/>
+  <animation frame="5" name="EnemySpearKnightAttackTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="EnemySpearKnightAttackTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="EnemySpearKnightAttackTrim_Sprite" index="5" duration="2" label=""/>
+  <animation frame="9" name="EnemySpearKnightAttackTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="FlailKnightBottom_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FlailKnightBottom_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FlailKnightBottom_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="FlailKnightBottom_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="FlailKnightBottom_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="FlailKnightBottom_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="FlailKnightBottom_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="FlailKnightBottom_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="FlailKnightBottom_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="FlailKnightBottom_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="FlailKnightBottomTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FlailKnightBottomTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FlailKnightBottomTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="FlailKnightBottomTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="FlailKnightBottomTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="FlailKnightBottomTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="FlailKnightBottomTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="FlailKnightBottomTrim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="FlailKnightBottomTrim_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="FlailKnightBottomTrim_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="FlailKnightTop_Sprite" index="0" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="FlailKnightTop_Sprite" index="1" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="FlailKnightTop_Sprite" index="2" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="FlailKnightTop_Sprite" index="3" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="FlailKnightTop_Sprite" index="4" duration="2" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="FlailKnightTop_Sprite" index="5" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="FlailKnightTop_Sprite" index="6" duration="1" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="9" name="FlailKnightTop_Sprite" index="7" duration="2" label="">
+    <rectangle x="-60" y="8" width="51" height="74" rotation="0" type="0"/>
+    <rectangle x="-60" y="7" width="51" height="74" rotation="0" type="2"/>
+    <rectangle x="-60" y="8" width="51" height="32" rotation="0" type="1"/>
+    <rectangle x="-48" y="39" width="27" height="41" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="FlailKnightTopTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="FlailKnightTopTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="FlailKnightTopTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="FlailKnightTopTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="FlailKnightTopTrim_Sprite" index="4" duration="2" label=""/>
+  <animation frame="7" name="FlailKnightTopTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="8" name="FlailKnightTopTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="9" name="FlailKnightTopTrim_Sprite" index="7" duration="2" label=""/>
+  <animation frame="1" name="EnemyFlailKnightLink_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyFlailKnightBall_Sprite" index="0" duration="1" label="">
+    <rectangle x="-15" y="-15" width="30" height="30" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySpearKnightWaveExplosion_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemySpearKnightWaveExplosion_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemySpearKnightWaveExplosion_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemySpearKnightWaveExplosion_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemySpearKnightWaveExplosion_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemySpearKnightWaveExplosion_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="EnemyMimicIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="0" y="0" width="39" height="25" rotation="0" type="2"/>
+    <rectangle x="1" y="1" width="36" height="23" rotation="0" type="1"/>
+    <rectangle x="0" y="1" width="39" height="25" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="EnemyMimicShake_Sprite" index="0" duration="1" label="">
+    <rectangle x="0" y="0" width="39" height="25" rotation="0" type="2"/>
+    <rectangle x="1" y="1" width="36" height="23" rotation="0" type="1"/>
+    <rectangle x="0" y="1" width="39" height="25" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="EnemyMimicShake_Sprite" index="1" duration="1" label="">
+    <rectangle x="0" y="0" width="39" height="25" rotation="0" type="2"/>
+    <rectangle x="1" y="1" width="36" height="23" rotation="0" type="1"/>
+    <rectangle x="0" y="1" width="39" height="25" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="EnemyMimicShake_Sprite" index="2" duration="1" label="">
+    <rectangle x="0" y="0" width="39" height="25" rotation="0" type="2"/>
+    <rectangle x="1" y="1" width="36" height="23" rotation="0" type="1"/>
+    <rectangle x="0" y="1" width="39" height="25" rotation="0" type="0"/>
+  </animation>
+  <container name="EnemySwordKnightAttack_Character" child="EnemySwordKnightAttack_Sprite" childX="93.6" childY="-90" childRotation="180"/>
+  <container name="EnemySwordKnightAttack_Character" child="EnemySwordKnightAttackTrim_Sprite" childX="93.6" childY="-90" childRotation="180"/>
+  <container name="EnemySwordKnightIdle_Character" child="EnemySwordKnightIdle_Sprite" childX="32.5" childY="-56.15" childRotation="180"/>
+  <container name="EnemySwordKnightIdle_Character" child="EnemySwordKnightIdleTrim_Sprite" childX="32.5" childY="-56.15" childRotation="180"/>
+  <container name="EnemySwordKnightWalk_Character" child="EnemySwordKnightWalk_Sprite" childX="35.35" childY="-56.15" childRotation="180"/>
+  <container name="EnemySwordKnightWalk_Character" child="EnemySwordKnightWalkTrim_Sprite" childX="35.35" childY="-56.15" childRotation="180"/>
+  <container name="EnemySpearKnightWalk_Character" child="EnemySpearKnightWalk2_Sprite" childX="44.35" childY="-76.15" childRotation="180"/>
+  <container name="EnemySpearKnightWalk_Character" child="EnemySpearKnightWalk2Trim_Sprite" childX="44.35" childY="-76.15" childRotation="180"/>
+  <container name="EnemySpearKnightIdle_Character" child="EnemySpearKnightIdle2_Sprite" childX="42.6" childY="-77.9" childRotation="180"/>
+  <container name="EnemySpearKnightIdle_Character" child="EnemySpearKnightIdle2Trim_Sprite" childX="42.6" childY="-77.9" childRotation="180"/>
+  <container name="EnemySpearKnightAttack2_Character" child="EnemySpearKnightAttack2_Sprite" childX="79.06620483398437" childY="-55.75" childRotation="180"/>
+  <container name="EnemySpearKnightAttack2_Character" child="EnemySpearKnightAttack2Trim_Sprite" childX="79.06620483398437" childY="-55.75" childRotation="180"/>
+  <container name="EnemySpearKnightAttack_Character" child="EnemySpearKnightAttack_Sprite" childX="103.85" childY="-55.9" childRotation="180"/>
+  <container name="EnemySpearKnightAttack_Character" child="EnemySpearKnightAttackTrim_Sprite" childX="103.85" childY="-55.9" childRotation="180"/>
+  <container name="EnemyFlailKnight_Character" child="FlailKnightBottom_Sprite" childX="20.531280517578125" childY="-5.760791778564453" childRotation="180"/>
+  <container name="EnemyFlailKnight_Character" child="FlailKnightBottomTrim_Sprite" childX="20.531280517578125" childY="-5.760791778564453" childRotation="180"/>
+  <container name="EnemyFlailKnight_Character" child="FlailKnightTop_Sprite" childX="33.551116943359375" childY="-55.604164123535156" childRotation="180"/>
+  <container name="EnemyFlailKnight_Character" child="FlailKnightTopTrim_Sprite" childX="33.551116943359375" childY="-55.604164123535156" childRotation="180"/>
+  <container name="EnemyBouncySpike_Character" child="EnemyFlailKnightBall_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyMimicIdle_Character" child="EnemyMimicIdle_Sprite" childX="-22.5" childY="-13.15" childRotation="0"/>
+  <container name="EnemyMimicShake_Character" child="EnemyMimicShake_Sprite" childX="-22.45" childY="-13.1" childRotation="0"/>
+</xml>
