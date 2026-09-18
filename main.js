@@ -212,13 +212,126 @@ async function preloadContent(FS) {
                 ensureDirectoryExists(FS, dir);
             }
 
+            // Special handling for SFXWaveBank.xwb: assemble from split chunks to bypass GitHub's 100MB limit without Git LFS
+            if (relPath === 'Audio/SFXWaveBank.xwb' || relPath.startsWith('Audio/SFXWaveBank.xwb.part_') || url === 'Content/Audio/SFXWaveBank.xwb') {
+                const sfxVirtPath = '/Content/Audio/SFXWaveBank.xwb';
+                const sfxUrl = 'Content/Audio/SFXWaveBank.xwb';
+                try {
+                    let combined = null;
+                    // Check if already assembled in MEMFS
+                    try {
+                        const existingStat = FS.stat(sfxVirtPath);
+                        if (existingStat && existingStat.size > 1000) {
+                            count++;
+                            if (count % 5 === 0 || count === total) {
+                                setStatus(`Pre-loading assets (${count}/${total})...`);
+                                await new Promise(r => setTimeout(r, 0));
+                            }
+                            continue;
+                        }
+                    } catch (_) {}
+
+                    if (cache) {
+                        try {
+                            const cachedResp = await cache.match(sfxUrl);
+                            if (cachedResp) {
+                                const cachedBuf = await cachedResp.arrayBuffer();
+                                if (cachedBuf.byteLength > 1000) {
+                                    combined = new Uint8Array(cachedBuf);
+                                } else {
+                                    console.warn("[RogueLegacy] Cached SFXWaveBank is an unresolved Git LFS pointer, purging from cache.");
+                                    await cache.delete(sfxUrl);
+                                }
+                            }
+                        } catch (_) {}
+                    }
+
+                    if (!combined) {
+                        const parts = [
+                            'Content/Audio/SFXWaveBank.xwb.part_aa',
+                            'Content/Audio/SFXWaveBank.xwb.part_ab',
+                            'Content/Audio/SFXWaveBank.xwb.part_ac'
+                        ];
+                        try {
+                            console.log("[RogueLegacy] Downloading split SFXWaveBank chunks...");
+                            const buffers = [];
+                            let totalLen = 0;
+                            for (let p = 0; p < parts.length; p++) {
+                                const partUrl = parts[p];
+                                let partBuf = null;
+                                if (cache) {
+                                    try {
+                                        const cp = await cache.match(partUrl);
+                                        if (cp) partBuf = await cp.arrayBuffer();
+                                    } catch (_) {}
+                                }
+                                if (!partBuf) {
+                                    const pr = await fetch(partUrl);
+                                    if (!pr.ok) throw new Error("HTTP " + pr.status + " for " + partUrl);
+                                    if (cache) {
+                                        try { await cache.put(partUrl, pr.clone()); } catch (_) {}
+                                    }
+                                    partBuf = await pr.arrayBuffer();
+                                }
+                                const b = new Uint8Array(partBuf);
+                                buffers.push(b);
+                                totalLen += b.byteLength;
+                            }
+                            combined = new Uint8Array(totalLen);
+                            let offset = 0;
+                            for (const b of buffers) {
+                                combined.set(b, offset);
+                                offset += b.length;
+                            }
+                            console.log(`[RogueLegacy] Successfully reassembled SFXWaveBank.xwb (${(totalLen / (1024 * 1024)).toFixed(1)} MB) from ${parts.length} chunks.`);
+                            if (cache) {
+                                try {
+                                    await cache.put(sfxUrl, new Response(combined, {
+                                        headers: { 'Content-Type': 'application/octet-stream' }
+                                    }));
+                                } catch (_) {}
+                            }
+                        } catch (splitErr) {
+                            console.warn("[RogueLegacy] Split chunk load failed, attempting direct fetch:", splitErr);
+                            const resp = await fetch(sfxUrl);
+                            if (!resp.ok) throw new Error("HTTP " + resp.status + " for " + sfxUrl);
+                            const rawBuf = await resp.arrayBuffer();
+                            if (rawBuf.byteLength < 1000) {
+                                throw new Error("SFXWaveBank.xwb returned Git LFS pointer and split parts unavailable!");
+                            }
+                            combined = new Uint8Array(rawBuf);
+                            if (cache) {
+                                try { await cache.put(sfxUrl, new Response(combined)); } catch (_) {}
+                            }
+                        }
+                    }
+
+                    FS.writeFile(sfxVirtPath, combined);
+                } catch (e) {
+                    console.error("[RogueLegacy] Critical error loading SFXWaveBank.xwb:", e);
+                }
+
+                count++;
+                if (count % 5 === 0 || count === total) {
+                    setStatus(`Pre-loading assets (${count}/${total})...`);
+                    await new Promise(r => setTimeout(r, 0));
+                }
+                continue;
+            }
+
             try {
                 let buf = null;
                 if (cache) {
                     try {
                         const cachedResp = await cache.match(url);
                         if (cachedResp) {
-                            buf = await cachedResp.arrayBuffer();
+                            const cachedBuf = await cachedResp.arrayBuffer();
+                            if (url.endsWith('.xwb') && cachedBuf.byteLength < 1000) {
+                                console.warn("[RogueLegacy] Purging cached Git LFS pointer for: " + url);
+                                await cache.delete(url);
+                            } else {
+                                buf = cachedBuf;
+                            }
                         }
                     } catch (_) {}
                 }
@@ -226,12 +339,16 @@ async function preloadContent(FS) {
                 if (!buf) {
                     const resp = await fetch(url);
                     if (!resp.ok) throw new Error("HTTP " + resp.status + " for " + url);
+                    const rawBuf = await resp.arrayBuffer();
+                    if (url.endsWith('.xwb') && rawBuf.byteLength < 1000) {
+                        throw new Error(url + " is an unresolved Git LFS pointer (~" + rawBuf.byteLength + " bytes)!");
+                    }
+                    buf = rawBuf;
                     if (cache) {
                         try {
-                            await cache.put(url, resp.clone());
+                            await cache.put(url, new Response(buf));
                         } catch (_) {}
                     }
-                    buf = await resp.arrayBuffer();
                 }
 
                 FS.writeFile(virtPath, new Uint8Array(buf));
@@ -252,6 +369,42 @@ async function preloadContent(FS) {
         workers.push(loadWorker());
     }
     await Promise.all(workers);
+
+    // Guarantee /Content/Audio/SFXWaveBank.xwb is assembled even if manifest was updated to use parts
+    try {
+        let needAssemble = false;
+        try {
+            const stat = FS.stat('/Content/Audio/SFXWaveBank.xwb');
+            if (!stat || stat.size < 1000) needAssemble = true;
+        } catch (_) {
+            needAssemble = true;
+        }
+
+        if (needAssemble) {
+            const p1 = '/Content/Audio/SFXWaveBank.xwb.part_aa';
+            const p2 = '/Content/Audio/SFXWaveBank.xwb.part_ab';
+            const p3 = '/Content/Audio/SFXWaveBank.xwb.part_ac';
+            let hasParts = false;
+            try {
+                hasParts = FS.stat(p1).size > 0 && FS.stat(p2).size > 0 && FS.stat(p3).size > 0;
+            } catch (_) {}
+            if (hasParts) {
+                const b1 = FS.readFile(p1);
+                const b2 = FS.readFile(p2);
+                const b3 = FS.readFile(p3);
+                const combined = new Uint8Array(b1.length + b2.length + b3.length);
+                combined.set(b1, 0);
+                combined.set(b2, b1.length);
+                combined.set(b3, b1.length + b2.length);
+                FS.writeFile('/Content/Audio/SFXWaveBank.xwb', combined);
+                try { FS.unlink(p1); FS.unlink(p2); FS.unlink(p3); } catch (_) {}
+                console.log(`[RogueLegacy] Reassembled /Content/Audio/SFXWaveBank.xwb from MEMFS parts (${combined.length} bytes).`);
+            }
+        }
+    } catch (e) {
+        console.warn("[RogueLegacy] Post-assembly verification exception:", e);
+    }
+
     console.log(`[RogueLegacy] Preloaded ${files.length} assets into /Content/`);
 }
 
