@@ -1,0 +1,21 @@
+services:
+  - type: web
+    runtime: static
+    name: roguelegacy-wasm
+    repo: https://github.com/AgentCube/roguelegacy-wasm
+    branch: main
+    buildCommand: printf 'No build step required\n'
+    staticPublishPath: .
+    headers:
+      - path: /*
+        name: Cross-Origin-Opener-Policy
+        value: same-origin
+      - path: /*
+        name: Cross-Origin-Embedder-Policy
+        value: credentialless
+      - path: /*
+        name: Cross-Origin-Resource-Policy
+        value: cross-origin
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600
